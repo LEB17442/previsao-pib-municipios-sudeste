@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Arquivos baixados do IBGE
+/pib-ibge.zip
+/data/sidra/

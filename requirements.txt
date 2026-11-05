@@ -1,0 +1,5 @@
+jupyterlab
+openpyxl
+pandas
+requests
+scikit-learn
