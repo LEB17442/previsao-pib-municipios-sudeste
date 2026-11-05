@@ -18,6 +18,8 @@ A base integrada terá uma linha por município e ano, identificada pelo código
 
 ## Validação temporal
 
+Após gerar a base integrada do SIDRA, execute `python comparar_regressoes.py`. O script compara os modelos em 2023, seleciona pelo menor MAPE e gera `outputs/regressao_linear_2024_selecionada.csv`.
+
 Depois de executar o notebook de coleta, rode `python integrar_sidra.py` na raiz do projeto. O script gera `data/raw/base_integrada_sidra.csv` e mostra a cobertura anual dos indicadores. Use esse CSV como entrada para a etapa de limpeza.
 
 Para avaliar a regressão, use o histórico até 2022 para prever o PIB de 2023 e compare as previsões com os valores oficiais usando R² e MAPE. Após a avaliação, reajuste o modelo com o histórico até 2023 para prever 2024. Em cada etapa, use apenas variáveis disponíveis no respectivo corte.

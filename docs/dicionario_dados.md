@@ -25,4 +25,4 @@ O script `integrar_sidra.py` acrescenta os seguintes campos a `base_integrada_si
 | rebanho_bovino_cabecas | [PPM 3939](https://sidra.ibge.gov.br/tabela/3939), variável 105, bovinos | Cabeças |
 | populacao_estimada | [Estimativas 6579](https://sidra.ibge.gov.br/tabela/6579), variável 9324 | Pessoas |
 
-A série de estimativas retornou cobertura municipal completa entre 2011 e 2021 e campos vazios em 2010, 2022 e 2023. A tabela integrada registra o ano de referência. A seleção das variáveis para a regressão também precisa considerar a data de divulgação de cada série. PIA-Empresa e PAS ainda aguardam verificação de granularidade.
+A série de estimativas retornou cobertura municipal completa entre 2011 e 2021 e campos vazios em 2010, 2022 e 2023. A tabela integrada registra o ano de referência. A PIA-Empresa e a PAS divulgam resultados até o nível de unidade da Federação e foram excluídas da integração municipal.

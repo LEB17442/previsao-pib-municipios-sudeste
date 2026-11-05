@@ -18,4 +18,10 @@ Na avaliação, o ajuste usou pares cujo ano-alvo era no máximo 2022. O PIB de 
 
 ## Resultado inicial
 
+A segunda regressão acrescentou valor da produção agrícola, rebanho bovino e estimativa populacional com defasagem de dois anos. Os indicadores foram transformados por log(1 + valor), e cada ausência foi representada por um indicador binário. A população de 2022 está ausente na fonte, inclusive na previsão de 2024.
+
+Nos mesmos 1.668 municípios em 2023, a versão ampliada obteve R² de 0,995463 e MAPE de 13,21%, contra 0,995504 e 17,94% para o PIB anterior. A redução de 4,72 pontos percentuais no MAPE motivou a seleção da versão ampliada. Após o reajuste até 2023, ela gerou 1.668 previsões positivas para 2024. Como 2023 orientou a seleção, suas métricas também refletem essa escolha.
+
+O exercício usa cortes por ano de referência. Os valores oficiais de PIB de 2022 e 2023 foram divulgados em 2025, de modo que o experimento é retrospectivo. A defasagem dos demais indicadores reduz o risco de usar dados publicados após o corte, mas a base atual não arquiva as versões disponíveis em cada data.
+
 Na previsão de 2023, o modelo obteve R² de 0,9955 e MAPE de 17,94%. O R² resume o ajuste em relação à dispersão dos valores oficiais e é influenciado pela diferença de escala entre as economias municipais. O MAPE atribui o mesmo peso a cada município e mostra que, em média, a previsão se desviou 17,94% do PIB observado em valor absoluto. O uso exclusivo do PIB defasado limita a capacidade do modelo de captar mudanças econômicas específicas de um município.
