@@ -4,7 +4,7 @@ Projeto de Aprendizado de Máquina para prever o PIB municipal e a categoria de 
 
 ## Ambiente inicial
 
-Na raiz do projeto, execute no PowerShell:
+Na raiz do projeto, execute no PowerShell com Python 3.10 ou superior:
 
 ```powershell
 python -m venv .venv
@@ -14,12 +14,10 @@ python -m venv .venv
 
 ## Coleta e integração
 
-A base integrada terá uma linha por município e ano, identificada pelo código IBGE de sete dígitos e pelo ano de referência. O notebook `notebooks/01_coleta.ipynb` será responsável por gerar `data/raw/base_integrada.csv`. As tabelas de origem, as unidades e a cobertura das variáveis serão registradas em `docs/dicionario_dados.md`.
+1. Execute todas as células de `notebooks/01_coleta.ipynb` para baixar o PIB do IBGE e gerar `data/raw/base_integrada.csv`.
+2. Na raiz, execute `.\.venv\Scripts\python.exe integrar_sidra.py`. Use o arquivo gerado `data/raw/base_integrada_sidra.csv` como entrada do pré-processamento. Consulte `docs/dicionario_dados.md` para as fontes, unidades e lacunas.
+3. Execute todas as células de `notebooks/03_regressao_linear.ipynb`. O notebook chama `comparar_regressoes.py`, mostra as métricas e gera `outputs/regressao_linear_2024_selecionada.csv`, arquivo da regressão linear para a consolidação do grupo.
 
 ## Validação temporal
 
-Após gerar a base integrada do SIDRA, execute `python comparar_regressoes.py`. O script compara os modelos em 2023, seleciona pelo menor MAPE e gera `outputs/regressao_linear_2024_selecionada.csv`.
-
-Depois de executar o notebook de coleta, rode `python integrar_sidra.py` na raiz do projeto. O script gera `data/raw/base_integrada_sidra.csv` e mostra a cobertura anual dos indicadores. Use esse CSV como entrada para a etapa de limpeza.
-
-Para avaliar a regressão, use o histórico até 2022 para prever o PIB de 2023 e compare as previsões com os valores oficiais usando R² e MAPE. Após a avaliação, reajuste o modelo com o histórico até 2023 para prever 2024. Em cada etapa, use apenas variáveis disponíveis no respectivo corte.
+O ajuste para a validação usa anos-alvo até 2022. A comparação com o PIB oficial de 2023 usa R² e MAPE. A regressão com menor MAPE é reajustada com dados até 2023 e produz uma previsão para cada um dos 1.668 municípios. Os cortes são por ano de referência e a análise é retrospectiva.
