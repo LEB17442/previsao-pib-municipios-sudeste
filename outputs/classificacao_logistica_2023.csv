@@ -1,0 +1,1669 @@
+codigo_municipio,municipio,uf,ano,variacao_pib_pct,classe,classe_prevista
+3100104,Abadia dos Dourados,MG,2023,6.079073,forte crescimento,retração
+3100203,Abaeté,MG,2023,12.791594,forte crescimento,forte crescimento
+3100302,Abre Campo,MG,2023,9.777862,forte crescimento,retração
+3100401,Acaiaca,MG,2023,12.538743,forte crescimento,forte crescimento
+3100500,Açucena,MG,2023,8.61152,forte crescimento,forte retração
+3100609,Água Boa,MG,2023,5.391566,forte crescimento,retração
+3100708,Água Comprida,MG,2023,38.939208,forte crescimento,forte retração
+3100807,Aguanil,MG,2023,0.537403,estabilidade,forte retração
+3100906,Águas Formosas,MG,2023,16.799089,forte crescimento,forte crescimento
+3101003,Águas Vermelhas,MG,2023,-4.268594,retração,forte crescimento
+3101102,Aimorés,MG,2023,9.648996,forte crescimento,forte crescimento
+3101201,Aiuruoca,MG,2023,15.342012,forte crescimento,retração
+3101300,Alagoa,MG,2023,24.430061,forte crescimento,estabilidade
+3101409,Albertina,MG,2023,-48.632295,forte retração,forte crescimento
+3101508,Além Paraíba,MG,2023,14.228479,forte crescimento,forte crescimento
+3101607,Alfenas,MG,2023,-5.702034,forte retração,forte crescimento
+3101631,Alfredo Vasconcelos,MG,2023,14.608205,forte crescimento,forte retração
+3101706,Almenara,MG,2023,10.078278,forte crescimento,forte crescimento
+3101805,Alpercata,MG,2023,12.584779,forte crescimento,forte crescimento
+3101904,Alpinópolis,MG,2023,-1.174612,retração,retração
+3102001,Alterosa,MG,2023,1.642339,crescimento moderado,retração
+3102050,Alto Caparaó,MG,2023,-5.747295,forte retração,forte retração
+3102100,Alto Rio Doce,MG,2023,20.857119,forte crescimento,retração
+3102209,Alvarenga,MG,2023,-0.335579,estabilidade,forte crescimento
+3102308,Alvinópolis,MG,2023,11.196864,forte crescimento,forte crescimento
+3102407,Alvorada de Minas,MG,2023,22.07038,forte crescimento,forte crescimento
+3102506,Amparo do Serra,MG,2023,5.091168,forte crescimento,forte crescimento
+3102605,Andradas,MG,2023,10.709457,forte crescimento,forte crescimento
+3102704,Cachoeira de Pajeú,MG,2023,3.017212,crescimento moderado,forte crescimento
+3102803,Andrelândia,MG,2023,8.427942,forte crescimento,retração
+3102852,Angelândia,MG,2023,-4.33804,retração,forte retração
+3102902,Antônio Carlos,MG,2023,117.498023,forte crescimento,forte crescimento
+3103009,Antônio Dias,MG,2023,7.030357,forte crescimento,forte retração
+3103108,Antônio Prado de Minas,MG,2023,8.627938,forte crescimento,forte crescimento
+3103207,Araçaí,MG,2023,9.199212,forte crescimento,forte retração
+3103306,Aracitaba,MG,2023,14.397132,forte crescimento,forte crescimento
+3103405,Araçuaí,MG,2023,45.338038,forte crescimento,forte crescimento
+3103504,Araguari,MG,2023,1.342823,crescimento moderado,forte crescimento
+3103603,Arantina,MG,2023,-1.805583,retração,forte retração
+3103702,Araponga,MG,2023,-12.756288,forte retração,forte retração
+3103751,Araporã,MG,2023,-10.140181,forte retração,forte retração
+3103801,Arapuá,MG,2023,13.790052,forte crescimento,forte retração
+3103900,Araújos,MG,2023,12.256689,forte crescimento,forte retração
+3104007,Araxá,MG,2023,2.43308,crescimento moderado,forte retração
+3104106,Arceburgo,MG,2023,14.264181,forte crescimento,forte crescimento
+3104205,Arcos,MG,2023,11.797651,forte crescimento,forte retração
+3104304,Areado,MG,2023,12.857392,forte crescimento,forte crescimento
+3104403,Argirita,MG,2023,14.951177,forte crescimento,forte crescimento
+3104452,Aricanduva,MG,2023,7.76303,forte crescimento,retração
+3104502,Arinos,MG,2023,41.624257,forte crescimento,retração
+3104601,Astolfo Dutra,MG,2023,28.538988,forte crescimento,forte crescimento
+3104700,Ataléia,MG,2023,28.344469,forte crescimento,estabilidade
+3104809,Augusto de Lima,MG,2023,31.351595,forte crescimento,forte crescimento
+3104908,Baependi,MG,2023,13.004857,forte crescimento,forte crescimento
+3105004,Baldim,MG,2023,16.915309,forte crescimento,forte crescimento
+3105103,Bambuí,MG,2023,1.411021,crescimento moderado,retração
+3105202,Bandeira,MG,2023,9.610946,forte crescimento,forte crescimento
+3105301,Bandeira do Sul,MG,2023,15.896221,forte crescimento,forte crescimento
+3105400,Barão de Cocais,MG,2023,-10.421542,forte retração,forte retração
+3105509,Barão do Monte Alto,MG,2023,14.242946,forte crescimento,crescimento moderado
+3105608,Barbacena,MG,2023,6.075566,forte crescimento,forte crescimento
+3105707,Barra Longa,MG,2023,11.014579,forte crescimento,forte crescimento
+3105905,Barroso,MG,2023,5.551195,forte crescimento,forte retração
+3106002,Bela Vista de Minas,MG,2023,3.105569,crescimento moderado,forte retração
+3106101,Belmiro Braga,MG,2023,17.891473,forte crescimento,estabilidade
+3106200,Belo Horizonte,MG,2023,12.840835,forte crescimento,crescimento moderado
+3106309,Belo Oriente,MG,2023,-8.54475,forte retração,forte retração
+3106408,Belo Vale,MG,2023,14.524915,forte crescimento,forte retração
+3106507,Berilo,MG,2023,12.416386,forte crescimento,forte crescimento
+3106606,Bertópolis,MG,2023,14.897627,forte crescimento,crescimento moderado
+3106655,Berizal,MG,2023,0.617642,estabilidade,forte crescimento
+3106705,Betim,MG,2023,10.124583,forte crescimento,forte retração
+3106804,Bias Fortes,MG,2023,14.397532,forte crescimento,estabilidade
+3106903,Bicas,MG,2023,10.222855,forte crescimento,forte crescimento
+3107000,Biquinhas,MG,2023,4.653137,crescimento moderado,forte retração
+3107109,Boa Esperança,MG,2023,7.313688,forte crescimento,retração
+3107208,Bocaina de Minas,MG,2023,16.902876,forte crescimento,estabilidade
+3107307,Bocaiúva,MG,2023,-1.795069,retração,forte crescimento
+3107406,Bom Despacho,MG,2023,7.449334,forte crescimento,forte crescimento
+3107505,Bom Jardim de Minas,MG,2023,11.368996,forte crescimento,estabilidade
+3107604,Bom Jesus da Penha,MG,2023,-11.991389,forte retração,forte retração
+3107703,Bom Jesus do Amparo,MG,2023,-1.123194,retração,forte crescimento
+3107802,Bom Jesus do Galho,MG,2023,10.161271,forte crescimento,forte crescimento
+3107901,Bom Repouso,MG,2023,13.131547,forte crescimento,forte crescimento
+3108008,Bom Sucesso,MG,2023,1.684294,crescimento moderado,forte crescimento
+3108107,Bonfim,MG,2023,-17.83431,forte retração,forte retração
+3108206,Bonfinópolis de Minas,MG,2023,-1.75501,retração,forte retração
+3108255,Bonito de Minas,MG,2023,18.292053,forte crescimento,forte crescimento
+3108305,Borda da Mata,MG,2023,14.137131,forte crescimento,forte crescimento
+3108404,Botelhos,MG,2023,1.147216,crescimento moderado,retração
+3108503,Botumirim,MG,2023,11.903275,forte crescimento,forte crescimento
+3108552,Brasilândia de Minas,MG,2023,9.950875,forte crescimento,retração
+3108602,Brasília de Minas,MG,2023,15.242735,forte crescimento,forte crescimento
+3108701,Brás Pires,MG,2023,12.022673,forte crescimento,forte crescimento
+3108800,Braúnas,MG,2023,41.94192,forte crescimento,forte retração
+3108909,Brazópolis,MG,2023,17.796879,forte crescimento,forte crescimento
+3109006,Brumadinho,MG,2023,5.214761,forte crescimento,forte retração
+3109105,Bueno Brandão,MG,2023,6.823178,forte crescimento,forte crescimento
+3109204,Buenópolis,MG,2023,3.820339,crescimento moderado,retração
+3109253,Bugre,MG,2023,17.912128,forte crescimento,forte crescimento
+3109303,Buritis,MG,2023,0.388615,estabilidade,forte retração
+3109402,Buritizeiro,MG,2023,6.987884,forte crescimento,retração
+3109451,Cabeceira Grande,MG,2023,32.607045,forte crescimento,forte retração
+3109501,Cabo Verde,MG,2023,-16.492311,forte retração,forte retração
+3109600,Cachoeira da Prata,MG,2023,14.961929,forte crescimento,forte crescimento
+3109709,Cachoeira de Minas,MG,2023,8.463516,forte crescimento,forte retração
+3109808,Cachoeira Dourada,MG,2023,-0.808682,estabilidade,forte retração
+3109907,Caetanópolis,MG,2023,-0.761011,estabilidade,forte retração
+3110004,Caeté,MG,2023,2.346342,crescimento moderado,forte crescimento
+3110103,Caiana,MG,2023,-6.052515,forte retração,forte crescimento
+3110202,Cajuri,MG,2023,10.561384,forte crescimento,forte retração
+3110301,Caldas,MG,2023,6.314901,forte crescimento,forte crescimento
+3110400,Camacho,MG,2023,1.43056,crescimento moderado,forte retração
+3110509,Camanducaia,MG,2023,9.500276,forte crescimento,forte retração
+3110608,Cambuí,MG,2023,14.677561,forte crescimento,forte crescimento
+3110707,Cambuquira,MG,2023,20.669311,forte crescimento,forte retração
+3110806,Campanário,MG,2023,15.791866,forte crescimento,forte crescimento
+3110905,Campanha,MG,2023,11.640642,forte crescimento,forte crescimento
+3111002,Campestre,MG,2023,3.019805,crescimento moderado,retração
+3111101,Campina Verde,MG,2023,14.909008,forte crescimento,retração
+3111150,Campo Azul,MG,2023,12.387319,forte crescimento,forte crescimento
+3111200,Campo Belo,MG,2023,3.643444,crescimento moderado,forte crescimento
+3111309,Campo do Meio,MG,2023,-6.975151,forte retração,forte retração
+3111408,Campo Florido,MG,2023,30.155778,forte crescimento,forte retração
+3111507,Campos Altos,MG,2023,-10.041448,forte retração,forte retração
+3111606,Campos Gerais,MG,2023,-9.05609,forte retração,forte retração
+3111705,Canaã,MG,2023,18.15107,forte crescimento,forte retração
+3111804,Canápolis,MG,2023,9.83929,forte crescimento,forte retração
+3111903,Cana Verde,MG,2023,9.309477,forte crescimento,forte crescimento
+3112000,Candeias,MG,2023,0.531671,estabilidade,retração
+3112059,Cantagalo,MG,2023,4.922578,crescimento moderado,forte crescimento
+3112109,Caparaó,MG,2023,-17.819141,forte retração,forte retração
+3112208,Capela Nova,MG,2023,0.579785,estabilidade,forte crescimento
+3112307,Capelinha,MG,2023,8.408312,forte crescimento,retração
+3112406,Capetinga,MG,2023,1.916462,crescimento moderado,forte retração
+3112505,Capim Branco,MG,2023,28.400928,forte crescimento,forte crescimento
+3112604,Capinópolis,MG,2023,4.931022,crescimento moderado,forte retração
+3112653,Capitão Andrade,MG,2023,11.401216,forte crescimento,crescimento moderado
+3112703,Capitão Enéas,MG,2023,-7.028545,forte retração,forte retração
+3112802,Capitólio,MG,2023,9.114584,forte crescimento,forte crescimento
+3112901,Caputira,MG,2023,6.890383,forte crescimento,forte retração
+3113008,Caraí,MG,2023,21.895845,forte crescimento,forte crescimento
+3113107,Caranaíba,MG,2023,7.459807,forte crescimento,forte crescimento
+3113206,Carandaí,MG,2023,-0.212784,estabilidade,forte retração
+3113305,Carangola,MG,2023,11.405477,forte crescimento,forte crescimento
+3113404,Caratinga,MG,2023,8.449887,forte crescimento,forte crescimento
+3113503,Carbonita,MG,2023,11.892589,forte crescimento,forte retração
+3113602,Careaçu,MG,2023,-21.042961,forte retração,forte retração
+3113701,Carlos Chagas,MG,2023,24.998147,forte crescimento,crescimento moderado
+3113800,Carmésia,MG,2023,19.024789,forte crescimento,forte crescimento
+3113909,Carmo da Cachoeira,MG,2023,1.06606,crescimento moderado,forte retração
+3114006,Carmo da Mata,MG,2023,10.031208,forte crescimento,forte crescimento
+3114105,Carmo de Minas,MG,2023,1.327138,crescimento moderado,forte crescimento
+3114204,Carmo do Cajuru,MG,2023,15.077838,forte crescimento,estabilidade
+3114303,Carmo do Paranaíba,MG,2023,1.430413,crescimento moderado,retração
+3114402,Carmo do Rio Claro,MG,2023,-8.280073,forte retração,forte retração
+3114501,Carmópolis de Minas,MG,2023,11.818666,forte crescimento,forte crescimento
+3114550,Carneirinho,MG,2023,51.950726,forte crescimento,retração
+3114600,Carrancas,MG,2023,5.113042,forte crescimento,forte retração
+3114709,Carvalhópolis,MG,2023,-5.128933,forte retração,forte retração
+3114808,Carvalhos,MG,2023,12.825347,forte crescimento,retração
+3114907,Casa Grande,MG,2023,15.5456,forte crescimento,forte retração
+3115003,Cascalho Rico,MG,2023,6.767502,forte crescimento,forte retração
+3115102,Cássia,MG,2023,4.537262,crescimento moderado,forte crescimento
+3115201,Conceição da Barra de Minas,MG,2023,23.660191,forte crescimento,retração
+3115300,Cataguases,MG,2023,17.470356,forte crescimento,crescimento moderado
+3115359,Catas Altas,MG,2023,-16.833013,forte retração,forte retração
+3115409,Catas Altas da Noruega,MG,2023,17.695164,forte crescimento,forte crescimento
+3115458,Catuji,MG,2023,3.25325,crescimento moderado,forte crescimento
+3115474,Catuti,MG,2023,11.53577,forte crescimento,forte crescimento
+3115508,Caxambu,MG,2023,15.190153,forte crescimento,forte crescimento
+3115607,Cedro do Abaeté,MG,2023,13.110016,forte crescimento,forte crescimento
+3115706,Central de Minas,MG,2023,11.14537,forte crescimento,forte crescimento
+3115805,Centralina,MG,2023,3.180258,crescimento moderado,forte retração
+3115904,Chácara,MG,2023,15.457763,forte crescimento,forte crescimento
+3116001,Chalé,MG,2023,0.013553,estabilidade,forte retração
+3116100,Chapada do Norte,MG,2023,12.61386,forte crescimento,forte crescimento
+3116159,Chapada Gaúcha,MG,2023,42.124776,forte crescimento,retração
+3116209,Chiador,MG,2023,9.179029,forte crescimento,forte crescimento
+3116308,Cipotânea,MG,2023,10.618447,forte crescimento,forte crescimento
+3116407,Claraval,MG,2023,17.884594,forte crescimento,forte retração
+3116506,Claro dos Poções,MG,2023,8.886831,forte crescimento,forte crescimento
+3116605,Cláudio,MG,2023,11.860019,forte crescimento,forte crescimento
+3116704,Coimbra,MG,2023,-1.526355,retração,forte crescimento
+3116803,Coluna,MG,2023,4.188814,crescimento moderado,forte crescimento
+3116902,Comendador Gomes,MG,2023,32.212577,forte crescimento,forte retração
+3117009,Comercinho,MG,2023,9.075611,forte crescimento,forte crescimento
+3117108,Conceição da Aparecida,MG,2023,-4.181693,retração,forte retração
+3117207,Conceição das Pedras,MG,2023,0.419277,estabilidade,forte retração
+3117306,Conceição das Alagoas,MG,2023,30.664514,forte crescimento,forte retração
+3117405,Conceição de Ipanema,MG,2023,-1.547208,retração,forte retração
+3117504,Conceição do Mato Dentro,MG,2023,-9.822252,forte retração,forte retração
+3117603,Conceição do Pará,MG,2023,-16.147929,forte retração,forte retração
+3117702,Conceição do Rio Verde,MG,2023,-3.852452,retração,forte retração
+3117801,Conceição dos Ouros,MG,2023,19.116352,forte crescimento,forte crescimento
+3117836,Cônego Marinho,MG,2023,13.533564,forte crescimento,forte crescimento
+3117876,Confins,MG,2023,107.086019,forte crescimento,forte retração
+3117900,Congonhal,MG,2023,13.639145,forte crescimento,forte crescimento
+3118007,Congonhas,MG,2023,-9.245307,forte retração,forte retração
+3118106,Congonhas do Norte,MG,2023,15.735061,forte crescimento,forte crescimento
+3118205,Conquista,MG,2023,25.746579,forte crescimento,forte retração
+3118304,Conselheiro Lafaiete,MG,2023,16.132063,forte crescimento,forte crescimento
+3118403,Conselheiro Pena,MG,2023,-8.773174,forte retração,forte crescimento
+3118502,Consolação,MG,2023,13.018171,forte crescimento,estabilidade
+3118601,Contagem,MG,2023,5.86046,forte crescimento,estabilidade
+3118700,Coqueiral,MG,2023,2.047242,crescimento moderado,forte retração
+3118809,Coração de Jesus,MG,2023,18.975197,forte crescimento,forte crescimento
+3118908,Cordisburgo,MG,2023,11.626977,forte crescimento,retração
+3119005,Cordislândia,MG,2023,-3.106214,retração,forte retração
+3119104,Corinto,MG,2023,-2.917335,retração,forte crescimento
+3119203,Coroaci,MG,2023,17.985362,forte crescimento,forte crescimento
+3119302,Coromandel,MG,2023,9.332638,forte crescimento,forte retração
+3119401,Coronel Fabriciano,MG,2023,10.31909,forte crescimento,crescimento moderado
+3119500,Coronel Murta,MG,2023,2.395702,crescimento moderado,forte crescimento
+3119609,Coronel Pacheco,MG,2023,10.850349,forte crescimento,forte crescimento
+3119708,Coronel Xavier Chaves,MG,2023,18.311647,forte crescimento,forte retração
+3119807,Córrego Danta,MG,2023,-9.046277,forte retração,forte crescimento
+3119906,Córrego do Bom Jesus,MG,2023,22.088894,forte crescimento,forte crescimento
+3119955,Córrego Fundo,MG,2023,10.38424,forte crescimento,forte retração
+3120003,Córrego Novo,MG,2023,39.817699,forte crescimento,forte crescimento
+3120102,Couto de Magalhães de Minas,MG,2023,12.194327,forte crescimento,forte crescimento
+3120151,Crisólita,MG,2023,17.409496,forte crescimento,estabilidade
+3120201,Cristais,MG,2023,7.005482,forte crescimento,retração
+3120300,Cristália,MG,2023,25.6524,forte crescimento,forte crescimento
+3120409,Cristiano Otoni,MG,2023,2.030117,crescimento moderado,forte retração
+3120508,Cristina,MG,2023,15.504061,forte crescimento,forte retração
+3120607,Crucilândia,MG,2023,10.187854,forte crescimento,forte crescimento
+3120706,Cruzeiro da Fortaleza,MG,2023,-5.280528,forte retração,forte retração
+3120805,Cruzília,MG,2023,12.476393,forte crescimento,forte crescimento
+3120839,Cuparaque,MG,2023,8.674012,forte crescimento,forte crescimento
+3120870,Curral de Dentro,MG,2023,12.457214,forte crescimento,forte crescimento
+3120904,Curvelo,MG,2023,15.0363,forte crescimento,forte crescimento
+3121001,Datas,MG,2023,10.636346,forte crescimento,forte crescimento
+3121100,Delfim Moreira,MG,2023,12.253241,forte crescimento,estabilidade
+3121209,Delfinópolis,MG,2023,19.51022,forte crescimento,forte retração
+3121258,Delta,MG,2023,34.007646,forte crescimento,forte retração
+3121308,Descoberto,MG,2023,13.86461,forte crescimento,estabilidade
+3121407,Desterro de Entre Rios,MG,2023,-16.21573,forte retração,forte retração
+3121506,Desterro do Melo,MG,2023,6.513635,forte crescimento,estabilidade
+3121605,Diamantina,MG,2023,15.732905,forte crescimento,forte crescimento
+3121704,Diogo de Vasconcelos,MG,2023,12.081317,forte crescimento,forte crescimento
+3121803,Dionísio,MG,2023,9.733368,forte crescimento,forte crescimento
+3121902,Divinésia,MG,2023,9.065227,forte crescimento,forte crescimento
+3122009,Divino,MG,2023,-4.279568,retração,forte crescimento
+3122108,Divino das Laranjeiras,MG,2023,10.226918,forte crescimento,forte crescimento
+3122207,Divinolândia de Minas,MG,2023,10.449409,forte crescimento,forte crescimento
+3122306,Divinópolis,MG,2023,6.232263,forte crescimento,crescimento moderado
+3122355,Divisa Alegre,MG,2023,-2.192374,retração,forte retração
+3122405,Divisa Nova,MG,2023,6.576553,forte crescimento,forte retração
+3122454,Divisópolis,MG,2023,14.550377,forte crescimento,forte crescimento
+3122470,Dom Bosco,MG,2023,15.119233,forte crescimento,retração
+3122504,Dom Cavati,MG,2023,12.170777,forte crescimento,forte crescimento
+3122603,Dom Joaquim,MG,2023,21.694751,forte crescimento,forte crescimento
+3122702,Dom Silvério,MG,2023,11.569751,forte crescimento,forte crescimento
+3122801,Dom Viçoso,MG,2023,8.008765,forte crescimento,forte crescimento
+3122900,Dona Euzébia,MG,2023,17.092924,forte crescimento,estabilidade
+3123007,Dores de Campos,MG,2023,31.113118,forte crescimento,forte retração
+3123106,Dores de Guanhães,MG,2023,6.981476,forte crescimento,forte retração
+3123205,Dores do Indaiá,MG,2023,16.675113,forte crescimento,forte crescimento
+3123304,Dores do Turvo,MG,2023,11.622623,forte crescimento,estabilidade
+3123403,Doresópolis,MG,2023,9.2128,forte crescimento,forte retração
+3123502,Douradoquara,MG,2023,5.295636,forte crescimento,forte retração
+3123528,Durandé,MG,2023,-20.93343,forte retração,forte retração
+3123601,Elói Mendes,MG,2023,2.60128,crescimento moderado,forte crescimento
+3123700,Engenheiro Caldas,MG,2023,12.717498,forte crescimento,forte crescimento
+3123809,Engenheiro Navarro,MG,2023,11.687713,forte crescimento,forte crescimento
+3123858,Entre Folhas,MG,2023,10.163509,forte crescimento,forte crescimento
+3123908,Entre Rios de Minas,MG,2023,14.458012,forte crescimento,forte crescimento
+3124005,Ervália,MG,2023,10.209467,forte crescimento,forte retração
+3124104,Esmeraldas,MG,2023,8.907497,forte crescimento,crescimento moderado
+3124203,Espera Feliz,MG,2023,-31.288169,forte retração,forte retração
+3124302,Espinosa,MG,2023,16.503386,forte crescimento,forte crescimento
+3124401,Espírito Santo do Dourado,MG,2023,24.652887,forte crescimento,forte crescimento
+3124500,Estiva,MG,2023,-4.944209,retração,forte retração
+3124609,Estrela Dalva,MG,2023,6.984211,forte crescimento,forte crescimento
+3124708,Estrela do Indaiá,MG,2023,16.825571,forte crescimento,forte retração
+3124807,Estrela do Sul,MG,2023,10.214901,forte crescimento,forte retração
+3124906,Eugenópolis,MG,2023,0.263064,estabilidade,retração
+3125002,Ewbank da Câmara,MG,2023,17.445922,forte crescimento,forte crescimento
+3125101,Extrema,MG,2023,15.417322,forte crescimento,forte crescimento
+3125200,Fama,MG,2023,8.614762,forte crescimento,forte retração
+3125309,Faria Lemos,MG,2023,7.162173,forte crescimento,forte retração
+3125408,Felício dos Santos,MG,2023,10.677756,forte crescimento,retração
+3125507,São Gonçalo do Rio Preto,MG,2023,19.854743,forte crescimento,forte crescimento
+3125606,Felisburgo,MG,2023,18.14943,forte crescimento,forte crescimento
+3125705,Felixlândia,MG,2023,11.062433,forte crescimento,forte crescimento
+3125804,Fernandes Tourinho,MG,2023,16.853157,forte crescimento,forte crescimento
+3125903,Ferros,MG,2023,7.813212,forte crescimento,forte crescimento
+3125952,Fervedouro,MG,2023,-16.928321,forte retração,retração
+3126000,Florestal,MG,2023,17.585414,forte crescimento,forte crescimento
+3126109,Formiga,MG,2023,11.553899,forte crescimento,forte crescimento
+3126208,Formoso,MG,2023,5.655135,forte crescimento,forte retração
+3126307,Fortaleza de Minas,MG,2023,-2.891003,retração,forte retração
+3126406,Fortuna de Minas,MG,2023,18.657526,forte crescimento,estabilidade
+3126505,Francisco Badaró,MG,2023,15.521093,forte crescimento,forte crescimento
+3126604,Francisco Dumont,MG,2023,33.501107,forte crescimento,retração
+3126703,Francisco Sá,MG,2023,6.731464,forte crescimento,forte crescimento
+3126752,Franciscópolis,MG,2023,2.843667,crescimento moderado,estabilidade
+3126802,Frei Gaspar,MG,2023,17.644433,forte crescimento,estabilidade
+3126901,Frei Inocêncio,MG,2023,3.161338,crescimento moderado,crescimento moderado
+3126950,Frei Lagonegro,MG,2023,18.985816,forte crescimento,forte crescimento
+3127008,Fronteira,MG,2023,45.637764,forte crescimento,forte retração
+3127057,Fronteira dos Vales,MG,2023,8.651021,forte crescimento,crescimento moderado
+3127073,Fruta de Leite,MG,2023,13.905511,forte crescimento,forte crescimento
+3127107,Frutal,MG,2023,30.527887,forte crescimento,forte crescimento
+3127206,Funilândia,MG,2023,14.944917,forte crescimento,estabilidade
+3127305,Galiléia,MG,2023,14.942486,forte crescimento,estabilidade
+3127339,Gameleiras,MG,2023,13.760533,forte crescimento,forte crescimento
+3127354,Glaucilândia,MG,2023,16.583852,forte crescimento,forte crescimento
+3127370,Goiabeira,MG,2023,11.188346,forte crescimento,crescimento moderado
+3127388,Goianá,MG,2023,39.057549,forte crescimento,forte crescimento
+3127404,Gonçalves,MG,2023,16.757638,forte crescimento,forte crescimento
+3127503,Gonzaga,MG,2023,19.20781,forte crescimento,forte crescimento
+3127602,Gouveia,MG,2023,9.301063,forte crescimento,forte crescimento
+3127701,Governador Valadares,MG,2023,7.267575,forte crescimento,crescimento moderado
+3127800,Grão Mogol,MG,2023,55.647423,forte crescimento,forte retração
+3127909,Grupiara,MG,2023,3.642318,crescimento moderado,forte crescimento
+3128006,Guanhães,MG,2023,18.080955,forte crescimento,crescimento moderado
+3128105,Guapé,MG,2023,8.691143,forte crescimento,forte retração
+3128204,Guaraciaba,MG,2023,11.315325,forte crescimento,forte crescimento
+3128253,Guaraciama,MG,2023,23.670737,forte crescimento,retração
+3128303,Guaranésia,MG,2023,8.997316,forte crescimento,forte retração
+3128402,Guarani,MG,2023,18.510248,forte crescimento,forte crescimento
+3128501,Guarará,MG,2023,13.28263,forte crescimento,forte crescimento
+3128600,Guarda-Mor,MG,2023,-3.131152,retração,forte retração
+3128709,Guaxupé,MG,2023,-37.849497,forte retração,forte crescimento
+3128808,Guidoval,MG,2023,2.405753,crescimento moderado,forte crescimento
+3128907,Guimarânia,MG,2023,7.862671,forte crescimento,forte retração
+3129004,Guiricema,MG,2023,13.231954,forte crescimento,forte crescimento
+3129103,Gurinhatã,MG,2023,9.761842,forte crescimento,forte retração
+3129202,Heliodora,MG,2023,7.279557,forte crescimento,forte retração
+3129301,Iapu,MG,2023,-4.08611,retração,forte crescimento
+3129400,Ibertioga,MG,2023,9.405127,forte crescimento,forte retração
+3129509,Ibiá,MG,2023,3.667326,crescimento moderado,forte retração
+3129608,Ibiaí,MG,2023,-8.162298,forte retração,retração
+3129657,Ibiracatu,MG,2023,13.444313,forte crescimento,forte crescimento
+3129707,Ibiraci,MG,2023,22.960527,forte crescimento,forte retração
+3129806,Ibirité,MG,2023,5.277064,forte crescimento,estabilidade
+3129905,Ibitiúra de Minas,MG,2023,-5.271788,forte retração,forte retração
+3130002,Ibituruna,MG,2023,16.142072,forte crescimento,forte retração
+3130051,Icaraí de Minas,MG,2023,10.454968,forte crescimento,crescimento moderado
+3130101,Igarapé,MG,2023,16.229587,forte crescimento,estabilidade
+3130200,Igaratinga,MG,2023,8.999171,forte crescimento,forte retração
+3130309,Iguatama,MG,2023,2.331812,crescimento moderado,forte retração
+3130408,Ijaci,MG,2023,6.706341,forte crescimento,forte retração
+3130507,Ilicínea,MG,2023,7.467222,forte crescimento,retração
+3130556,Imbé de Minas,MG,2023,-7.147086,forte retração,forte retração
+3130606,Inconfidentes,MG,2023,-0.395067,estabilidade,forte retração
+3130655,Indaiabira,MG,2023,10.155625,forte crescimento,estabilidade
+3130705,Indianópolis,MG,2023,149.514391,forte crescimento,forte retração
+3130804,Ingaí,MG,2023,20.647399,forte crescimento,forte retração
+3130903,Inhapim,MG,2023,8.252921,forte crescimento,forte crescimento
+3131000,Inhaúma,MG,2023,7.009647,forte crescimento,forte crescimento
+3131109,Inimutaba,MG,2023,4.493747,crescimento moderado,crescimento moderado
+3131158,Ipaba,MG,2023,17.781879,forte crescimento,forte crescimento
+3131208,Ipanema,MG,2023,6.544772,forte crescimento,forte crescimento
+3131307,Ipatinga,MG,2023,-11.008029,forte retração,forte retração
+3131406,Ipiaçu,MG,2023,6.058844,forte crescimento,forte retração
+3131505,Ipuiúna,MG,2023,12.434517,forte crescimento,forte crescimento
+3131604,Iraí de Minas,MG,2023,32.221513,forte crescimento,forte retração
+3131703,Itabira,MG,2023,0.989308,estabilidade,forte retração
+3131802,Itabirinha,MG,2023,13.052585,forte crescimento,forte crescimento
+3131901,Itabirito,MG,2023,-1.355242,retração,forte retração
+3132008,Itacambira,MG,2023,16.667063,forte crescimento,estabilidade
+3132107,Itacarambi,MG,2023,19.534705,forte crescimento,forte crescimento
+3132206,Itaguara,MG,2023,4.213747,crescimento moderado,forte crescimento
+3132305,Itaipé,MG,2023,14.696332,forte crescimento,forte crescimento
+3132404,Itajubá,MG,2023,9.138442,forte crescimento,forte crescimento
+3132503,Itamarandiba,MG,2023,5.293836,forte crescimento,retração
+3132602,Itamarati de Minas,MG,2023,12.495069,forte crescimento,forte crescimento
+3132701,Itambacuri,MG,2023,12.037677,forte crescimento,forte crescimento
+3132800,Itambé do Mato Dentro,MG,2023,5.95646,forte crescimento,forte crescimento
+3132909,Itamogi,MG,2023,0.448023,estabilidade,forte retração
+3133006,Itamonte,MG,2023,35.140474,forte crescimento,forte crescimento
+3133105,Itanhandu,MG,2023,16.361982,forte crescimento,forte retração
+3133204,Itanhomi,MG,2023,12.047382,forte crescimento,forte crescimento
+3133303,Itaobim,MG,2023,5.842558,forte crescimento,forte crescimento
+3133402,Itapagipe,MG,2023,29.820068,forte crescimento,retração
+3133501,Itapecerica,MG,2023,3.748074,crescimento moderado,retração
+3133600,Itapeva,MG,2023,33.189491,forte crescimento,forte crescimento
+3133709,Itatiaiuçu,MG,2023,-20.948976,forte retração,forte retração
+3133758,Itaú de Minas,MG,2023,8.109101,forte crescimento,forte retração
+3133808,Itaúna,MG,2023,-6.553781,forte retração,estabilidade
+3133907,Itaverava,MG,2023,10.058897,forte crescimento,forte crescimento
+3134004,Itinga,MG,2023,96.986365,forte crescimento,forte crescimento
+3134103,Itueta,MG,2023,16.091574,forte crescimento,retração
+3134202,Ituiutaba,MG,2023,13.404638,forte crescimento,forte crescimento
+3134301,Itumirim,MG,2023,7.824336,forte crescimento,retração
+3134400,Iturama,MG,2023,19.189877,forte crescimento,forte crescimento
+3134509,Itutinga,MG,2023,26.801378,forte crescimento,forte retração
+3134608,Jaboticatubas,MG,2023,12.766597,forte crescimento,forte crescimento
+3134707,Jacinto,MG,2023,12.227888,forte crescimento,crescimento moderado
+3134806,Jacuí,MG,2023,1.468372,crescimento moderado,forte retração
+3134905,Jacutinga,MG,2023,26.131056,forte crescimento,forte crescimento
+3135001,Jaguaraçu,MG,2023,24.622685,forte crescimento,forte retração
+3135050,Jaíba,MG,2023,14.920309,forte crescimento,retração
+3135076,Jampruca,MG,2023,12.917825,forte crescimento,retração
+3135100,Janaúba,MG,2023,17.953799,forte crescimento,forte crescimento
+3135209,Januária,MG,2023,15.192357,forte crescimento,forte crescimento
+3135308,Japaraíba,MG,2023,22.662363,forte crescimento,forte retração
+3135357,Japonvar,MG,2023,11.155689,forte crescimento,forte crescimento
+3135407,Jeceaba,MG,2023,-4.709275,retração,forte retração
+3135456,Jenipapo de Minas,MG,2023,10.52407,forte crescimento,forte crescimento
+3135506,Jequeri,MG,2023,-4.772286,retração,retração
+3135605,Jequitaí,MG,2023,5.741075,forte crescimento,retração
+3135704,Jequitibá,MG,2023,15.372997,forte crescimento,forte retração
+3135803,Jequitinhonha,MG,2023,22.637835,forte crescimento,forte crescimento
+3135902,Jesuânia,MG,2023,-0.303701,estabilidade,forte retração
+3136009,Joaíma,MG,2023,16.907615,forte crescimento,crescimento moderado
+3136108,Joanésia,MG,2023,5.870005,forte crescimento,forte retração
+3136207,João Monlevade,MG,2023,-14.467423,forte retração,forte retração
+3136306,João Pinheiro,MG,2023,13.682914,forte crescimento,retração
+3136405,Joaquim Felício,MG,2023,16.185675,forte crescimento,forte crescimento
+3136504,Jordânia,MG,2023,6.995359,forte crescimento,crescimento moderado
+3136520,José Gonçalves de Minas,MG,2023,11.380142,forte crescimento,forte crescimento
+3136553,José Raydan,MG,2023,35.946616,forte crescimento,forte crescimento
+3136579,Josenópolis,MG,2023,14.561131,forte crescimento,estabilidade
+3136603,Nova União,MG,2023,9.643955,forte crescimento,forte crescimento
+3136652,Juatuba,MG,2023,20.166891,forte crescimento,forte retração
+3136702,Juiz de Fora,MG,2023,6.664407,forte crescimento,crescimento moderado
+3136801,Juramento,MG,2023,12.658688,forte crescimento,forte crescimento
+3136900,Juruaia,MG,2023,-4.368394,retração,forte retração
+3136959,Juvenília,MG,2023,26.251407,forte crescimento,forte crescimento
+3137007,Ladainha,MG,2023,12.403687,forte crescimento,forte crescimento
+3137106,Lagamar,MG,2023,6.204753,forte crescimento,forte retração
+3137205,Lagoa da Prata,MG,2023,-4.469704,retração,forte crescimento
+3137304,Lagoa dos Patos,MG,2023,15.179717,forte crescimento,estabilidade
+3137403,Lagoa Dourada,MG,2023,6.455093,forte crescimento,retração
+3137502,Lagoa Formosa,MG,2023,6.299142,forte crescimento,retração
+3137536,Lagoa Grande,MG,2023,-1.7506,retração,retração
+3137601,Lagoa Santa,MG,2023,8.125687,forte crescimento,forte crescimento
+3137700,Lajinha,MG,2023,-8.913898,forte retração,forte crescimento
+3137809,Lambari,MG,2023,9.790605,forte crescimento,forte crescimento
+3137908,Lamim,MG,2023,20.984368,forte crescimento,forte crescimento
+3138005,Laranjal,MG,2023,17.437513,forte crescimento,estabilidade
+3138104,Lassance,MG,2023,15.283163,forte crescimento,forte retração
+3138203,Lavras,MG,2023,16.985616,forte crescimento,forte crescimento
+3138302,Leandro Ferreira,MG,2023,15.734585,forte crescimento,estabilidade
+3138351,Leme do Prado,MG,2023,1.481238,crescimento moderado,forte crescimento
+3138401,Leopoldina,MG,2023,13.895721,forte crescimento,forte crescimento
+3138500,Liberdade,MG,2023,11.437617,forte crescimento,retração
+3138609,Lima Duarte,MG,2023,20.085222,forte crescimento,crescimento moderado
+3138625,Limeira do Oeste,MG,2023,90.882214,forte crescimento,forte retração
+3138658,Lontra,MG,2023,11.989425,forte crescimento,forte crescimento
+3138674,Luisburgo,MG,2023,-19.064753,forte retração,forte retração
+3138682,Luislândia,MG,2023,13.027387,forte crescimento,forte crescimento
+3138708,Luminárias,MG,2023,-1.583639,retração,forte retração
+3138807,Luz,MG,2023,18.291328,forte crescimento,retração
+3138906,Machacalis,MG,2023,16.708011,forte crescimento,crescimento moderado
+3139003,Machado,MG,2023,-4.860721,retração,forte crescimento
+3139102,Madre de Deus de Minas,MG,2023,7.37719,forte crescimento,forte retração
+3139201,Malacacheta,MG,2023,5.185195,forte crescimento,forte crescimento
+3139250,Mamonas,MG,2023,17.207972,forte crescimento,forte crescimento
+3139300,Manga,MG,2023,16.441712,forte crescimento,forte crescimento
+3139409,Manhuaçu,MG,2023,-10.103856,forte retração,forte crescimento
+3139508,Manhumirim,MG,2023,5.498937,forte crescimento,forte crescimento
+3139607,Mantena,MG,2023,10.725837,forte crescimento,forte crescimento
+3139706,Maravilhas,MG,2023,-7.534977,forte retração,forte retração
+3139805,Mar de Espanha,MG,2023,24.308662,forte crescimento,forte crescimento
+3139904,Maria da Fé,MG,2023,18.863199,forte crescimento,forte crescimento
+3140001,Mariana,MG,2023,-8.513027,forte retração,forte retração
+3140100,Marilac,MG,2023,18.1305,forte crescimento,forte crescimento
+3140159,Mário Campos,MG,2023,14.053198,forte crescimento,estabilidade
+3140209,Maripá de Minas,MG,2023,28.844623,forte crescimento,forte retração
+3140308,Marliéria,MG,2023,11.339895,forte crescimento,forte crescimento
+3140407,Marmelópolis,MG,2023,26.306717,forte crescimento,forte crescimento
+3140506,Martinho Campos,MG,2023,10.607854,forte crescimento,forte retração
+3140530,Martins Soares,MG,2023,-29.221792,forte retração,forte retração
+3140555,Mata Verde,MG,2023,4.45807,crescimento moderado,forte crescimento
+3140605,Materlândia,MG,2023,17.408723,forte crescimento,estabilidade
+3140704,Mateus Leme,MG,2023,1.830571,crescimento moderado,forte retração
+3140803,Matias Barbosa,MG,2023,21.102366,forte crescimento,forte crescimento
+3140852,Matias Cardoso,MG,2023,16.307136,forte crescimento,retração
+3140902,Matipó,MG,2023,-27.447201,forte retração,forte crescimento
+3141009,Mato Verde,MG,2023,22.204954,forte crescimento,forte crescimento
+3141108,Matozinhos,MG,2023,5.278815,forte crescimento,forte retração
+3141207,Matutina,MG,2023,29.271696,forte crescimento,forte retração
+3141306,Medeiros,MG,2023,-0.171885,estabilidade,forte retração
+3141405,Medina,MG,2023,19.688305,forte crescimento,forte crescimento
+3141504,Mendes Pimentel,MG,2023,19.726069,forte crescimento,forte crescimento
+3141603,Mercês,MG,2023,10.926221,forte crescimento,forte crescimento
+3141702,Mesquita,MG,2023,9.374004,forte crescimento,forte crescimento
+3141801,Minas Novas,MG,2023,19.091779,forte crescimento,estabilidade
+3141900,Minduri,MG,2023,17.824462,forte crescimento,forte retração
+3142007,Mirabela,MG,2023,16.755384,forte crescimento,forte crescimento
+3142106,Miradouro,MG,2023,12.968122,forte crescimento,forte crescimento
+3142205,Miraí,MG,2023,27.185869,forte crescimento,forte crescimento
+3142254,Miravânia,MG,2023,14.94855,forte crescimento,forte crescimento
+3142304,Moeda,MG,2023,15.852555,forte crescimento,forte crescimento
+3142403,Moema,MG,2023,6.973124,forte crescimento,forte crescimento
+3142502,Monjolos,MG,2023,-1.562959,retração,forte retração
+3142601,Monsenhor Paulo,MG,2023,4.236053,crescimento moderado,forte retração
+3142700,Montalvânia,MG,2023,15.162194,forte crescimento,forte crescimento
+3142809,Monte Alegre de Minas,MG,2023,8.769548,forte crescimento,retração
+3142908,Monte Azul,MG,2023,15.710807,forte crescimento,forte crescimento
+3143005,Monte Belo,MG,2023,20.6081,forte crescimento,forte crescimento
+3143104,Monte Carmelo,MG,2023,-7.522718,forte retração,retração
+3143153,Monte Formoso,MG,2023,15.682883,forte crescimento,forte crescimento
+3143203,Monte Santo de Minas,MG,2023,0.871163,estabilidade,retração
+3143302,Montes Claros,MG,2023,7.887444,forte crescimento,crescimento moderado
+3143401,Monte Sião,MG,2023,10.08143,forte crescimento,forte crescimento
+3143450,Montezuma,MG,2023,20.506265,forte crescimento,forte crescimento
+3143500,Morada Nova de Minas,MG,2023,18.442962,forte crescimento,forte retração
+3143609,Morro da Garça,MG,2023,15.3356,forte crescimento,retração
+3143708,Morro do Pilar,MG,2023,16.002754,forte crescimento,forte crescimento
+3143807,Munhoz,MG,2023,15.092101,forte crescimento,forte crescimento
+3143906,Muriaé,MG,2023,13.370711,forte crescimento,forte crescimento
+3144003,Mutum,MG,2023,4.298098,crescimento moderado,retração
+3144102,Muzambinho,MG,2023,9.481932,forte crescimento,forte crescimento
+3144201,Nacip Raydan,MG,2023,9.893974,forte crescimento,forte crescimento
+3144300,Nanuque,MG,2023,5.381375,forte crescimento,forte crescimento
+3144359,Naque,MG,2023,11.826803,forte crescimento,forte crescimento
+3144375,Natalândia,MG,2023,26.013304,forte crescimento,forte crescimento
+3144409,Natércia,MG,2023,-6.759261,forte retração,forte retração
+3144508,Nazareno,MG,2023,-18.897083,forte retração,forte retração
+3144607,Nepomuceno,MG,2023,20.014729,forte crescimento,retração
+3144656,Ninheira,MG,2023,-5.114249,forte retração,retração
+3144672,Nova Belém,MG,2023,-16.512687,forte retração,forte retração
+3144706,Nova Era,MG,2023,-0.949438,estabilidade,forte crescimento
+3144805,Nova Lima,MG,2023,2.707406,crescimento moderado,forte retração
+3144904,Nova Módica,MG,2023,16.209214,forte crescimento,estabilidade
+3145000,Nova Ponte,MG,2023,33.881993,forte crescimento,forte retração
+3145059,Nova Porteirinha,MG,2023,26.569325,forte crescimento,forte crescimento
+3145109,Nova Resende,MG,2023,-13.3834,forte retração,forte retração
+3145208,Nova Serrana,MG,2023,19.018176,forte crescimento,crescimento moderado
+3145307,Novo Cruzeiro,MG,2023,12.004783,forte crescimento,forte crescimento
+3145356,Novo Oriente de Minas,MG,2023,24.598292,forte crescimento,forte crescimento
+3145372,Novorizonte,MG,2023,7.414598,forte crescimento,forte crescimento
+3145406,Olaria,MG,2023,19.320633,forte crescimento,forte crescimento
+3145455,Olhos-d'Água,MG,2023,26.71021,forte crescimento,forte retração
+3145505,Olímpio Noronha,MG,2023,2.812675,crescimento moderado,forte crescimento
+3145604,Oliveira,MG,2023,12.881872,forte crescimento,forte crescimento
+3145703,Oliveira Fortes,MG,2023,18.602613,forte crescimento,retração
+3145802,Onça de Pitangui,MG,2023,31.427405,forte crescimento,forte retração
+3145851,Oratórios,MG,2023,15.931126,forte crescimento,forte crescimento
+3145877,Orizânia,MG,2023,-10.453831,forte retração,forte retração
+3145901,Ouro Branco,MG,2023,-13.593329,forte retração,forte retração
+3146008,Ouro Fino,MG,2023,7.073136,forte crescimento,forte crescimento
+3146107,Ouro Preto,MG,2023,-7.393767,forte retração,forte retração
+3146206,Ouro Verde de Minas,MG,2023,16.967462,forte crescimento,forte crescimento
+3146255,Padre Carvalho,MG,2023,10.238884,forte crescimento,forte crescimento
+3146305,Padre Paraíso,MG,2023,13.743427,forte crescimento,forte crescimento
+3146404,Paineiras,MG,2023,11.472937,forte crescimento,retração
+3146503,Pains,MG,2023,7.567153,forte crescimento,forte retração
+3146552,Pai Pedro,MG,2023,14.847744,forte crescimento,crescimento moderado
+3146602,Paiva,MG,2023,13.26306,forte crescimento,forte crescimento
+3146701,Palma,MG,2023,8.7128,forte crescimento,forte crescimento
+3146750,Palmópolis,MG,2023,12.987048,forte crescimento,forte crescimento
+3146909,Papagaios,MG,2023,1.179688,crescimento moderado,forte crescimento
+3147006,Paracatu,MG,2023,4.772756,crescimento moderado,forte retração
+3147105,Pará de Minas,MG,2023,12.729914,forte crescimento,forte crescimento
+3147204,Paraguaçu,MG,2023,1.351802,crescimento moderado,forte retração
+3147303,Paraisópolis,MG,2023,16.684744,forte crescimento,forte crescimento
+3147402,Paraopeba,MG,2023,9.512445,forte crescimento,forte crescimento
+3147501,Passabém,MG,2023,14.359639,forte crescimento,forte crescimento
+3147600,Passa Quatro,MG,2023,11.402713,forte crescimento,forte retração
+3147709,Passa Tempo,MG,2023,-17.625838,forte retração,forte retração
+3147808,Passa Vinte,MG,2023,-2.383391,retração,estabilidade
+3147907,Passos,MG,2023,15.435687,forte crescimento,forte crescimento
+3147956,Patis,MG,2023,8.738022,forte crescimento,forte crescimento
+3148004,Patos de Minas,MG,2023,14.017886,forte crescimento,forte crescimento
+3148103,Patrocínio,MG,2023,10.7675,forte crescimento,retração
+3148202,Patrocínio do Muriaé,MG,2023,13.317439,forte crescimento,forte crescimento
+3148301,Paula Cândido,MG,2023,0.861517,estabilidade,forte crescimento
+3148400,Paulistas,MG,2023,9.273266,forte crescimento,estabilidade
+3148509,Pavão,MG,2023,12.969084,forte crescimento,crescimento moderado
+3148608,Peçanha,MG,2023,12.298642,forte crescimento,estabilidade
+3148707,Pedra Azul,MG,2023,5.151245,forte crescimento,forte crescimento
+3148756,Pedra Bonita,MG,2023,-24.20669,forte retração,forte retração
+3148806,Pedra do Anta,MG,2023,2.915977,crescimento moderado,forte crescimento
+3148905,Pedra do Indaiá,MG,2023,2.611417,crescimento moderado,forte retração
+3149002,Pedra Dourada,MG,2023,13.021262,forte crescimento,forte crescimento
+3149101,Pedralva,MG,2023,9.340563,forte crescimento,retração
+3149150,Pedras de Maria da Cruz,MG,2023,17.728573,forte crescimento,forte crescimento
+3149200,Pedrinópolis,MG,2023,22.987785,forte crescimento,forte retração
+3149309,Pedro Leopoldo,MG,2023,13.188603,forte crescimento,estabilidade
+3149408,Pedro Teixeira,MG,2023,14.442603,forte crescimento,estabilidade
+3149507,Pequeri,MG,2023,20.394986,forte crescimento,forte crescimento
+3149606,Pequi,MG,2023,-21.435407,forte retração,forte retração
+3149705,Perdigão,MG,2023,19.276991,forte crescimento,forte retração
+3149804,Perdizes,MG,2023,23.577425,forte crescimento,forte retração
+3149903,Perdões,MG,2023,13.430263,forte crescimento,forte crescimento
+3149952,Periquito,MG,2023,1.153261,crescimento moderado,forte crescimento
+3150000,Pescador,MG,2023,17.752122,forte crescimento,forte crescimento
+3150109,Piau,MG,2023,35.898396,forte crescimento,forte retração
+3150158,Piedade de Caratinga,MG,2023,8.900947,forte crescimento,forte retração
+3150208,Piedade de Ponte Nova,MG,2023,13.916099,forte crescimento,forte crescimento
+3150307,Piedade do Rio Grande,MG,2023,13.729426,forte crescimento,forte retração
+3150406,Piedade dos Gerais,MG,2023,18.145424,forte crescimento,forte retração
+3150505,Pimenta,MG,2023,-7.850161,forte retração,retração
+3150539,Pingo-d'Água,MG,2023,21.653205,forte crescimento,forte crescimento
+3150570,Pintópolis,MG,2023,17.003281,forte crescimento,forte crescimento
+3150604,Piracema,MG,2023,0.138409,estabilidade,forte retração
+3150703,Pirajuba,MG,2023,27.392084,forte crescimento,forte retração
+3150802,Piranga,MG,2023,16.01894,forte crescimento,forte crescimento
+3150901,Piranguçu,MG,2023,33.859639,forte crescimento,forte crescimento
+3151008,Piranguinho,MG,2023,8.61087,forte crescimento,forte crescimento
+3151107,Pirapetinga,MG,2023,15.506985,forte crescimento,forte retração
+3151206,Pirapora,MG,2023,-0.227169,estabilidade,forte retração
+3151305,Piraúba,MG,2023,17.709966,forte crescimento,forte crescimento
+3151404,Pitangui,MG,2023,-4.50251,retração,forte crescimento
+3151503,Piumhi,MG,2023,4.792362,crescimento moderado,retração
+3151602,Planura,MG,2023,62.872978,forte crescimento,forte retração
+3151701,Poço Fundo,MG,2023,12.265805,forte crescimento,retração
+3151800,Poços de Caldas,MG,2023,9.603056,forte crescimento,forte crescimento
+3151909,Pocrane,MG,2023,4.383471,crescimento moderado,retração
+3152006,Pompéu,MG,2023,4.919088,crescimento moderado,retração
+3152105,Ponte Nova,MG,2023,15.544827,forte crescimento,forte crescimento
+3152131,Ponto Chique,MG,2023,19.22205,forte crescimento,forte crescimento
+3152170,Ponto dos Volantes,MG,2023,15.345172,forte crescimento,forte crescimento
+3152204,Porteirinha,MG,2023,18.858924,forte crescimento,crescimento moderado
+3152303,Porto Firme,MG,2023,5.43926,forte crescimento,forte crescimento
+3152402,Poté,MG,2023,21.618057,forte crescimento,forte crescimento
+3152501,Pouso Alegre,MG,2023,13.827188,forte crescimento,forte crescimento
+3152600,Pouso Alto,MG,2023,23.707055,forte crescimento,forte retração
+3152709,Prados,MG,2023,14.219781,forte crescimento,forte retração
+3152808,Prata,MG,2023,8.768174,forte crescimento,retração
+3152907,Pratápolis,MG,2023,1.320737,crescimento moderado,forte retração
+3153004,Pratinha,MG,2023,2.199653,crescimento moderado,forte retração
+3153103,Presidente Bernardes,MG,2023,3.221697,crescimento moderado,forte crescimento
+3153202,Presidente Juscelino,MG,2023,13.952991,forte crescimento,forte crescimento
+3153301,Presidente Kubitschek,MG,2023,13.193868,forte crescimento,forte crescimento
+3153400,Presidente Olegário,MG,2023,-0.338175,estabilidade,forte retração
+3153509,Alto Jequitibá,MG,2023,-1.932309,retração,forte retração
+3153608,Prudente de Morais,MG,2023,25.481173,forte crescimento,crescimento moderado
+3153707,Quartel Geral,MG,2023,9.827725,forte crescimento,retração
+3153806,Queluzito,MG,2023,9.841248,forte crescimento,forte retração
+3153905,Raposos,MG,2023,-20.777017,forte retração,estabilidade
+3154002,Raul Soares,MG,2023,9.352623,forte crescimento,forte crescimento
+3154101,Recreio,MG,2023,18.291475,forte crescimento,crescimento moderado
+3154150,Reduto,MG,2023,-15.511233,forte retração,forte retração
+3154200,Resende Costa,MG,2023,13.596213,forte crescimento,forte crescimento
+3154309,Resplendor,MG,2023,4.456023,crescimento moderado,forte crescimento
+3154408,Ressaquinha,MG,2023,12.244387,forte crescimento,forte retração
+3154457,Riachinho,MG,2023,12.897783,forte crescimento,retração
+3154507,Riacho dos Machados,MG,2023,21.713532,forte crescimento,forte retração
+3154606,Ribeirão das Neves,MG,2023,10.122223,forte crescimento,crescimento moderado
+3154705,Ribeirão Vermelho,MG,2023,4.312821,crescimento moderado,forte crescimento
+3154804,Rio Acima,MG,2023,-0.866215,estabilidade,forte retração
+3154903,Rio Casca,MG,2023,8.270381,forte crescimento,forte crescimento
+3155009,Rio Doce,MG,2023,74.113946,forte crescimento,forte crescimento
+3155108,Rio do Prado,MG,2023,13.530098,forte crescimento,crescimento moderado
+3155207,Rio Espera,MG,2023,17.176957,forte crescimento,forte crescimento
+3155306,Rio Manso,MG,2023,11.39481,forte crescimento,forte crescimento
+3155405,Rio Novo,MG,2023,10.992748,forte crescimento,forte crescimento
+3155504,Rio Paranaíba,MG,2023,3.759705,crescimento moderado,forte retração
+3155603,Rio Pardo de Minas,MG,2023,12.923372,forte crescimento,estabilidade
+3155702,Rio Piracicaba,MG,2023,-0.048939,estabilidade,forte crescimento
+3155801,Rio Pomba,MG,2023,22.524234,forte crescimento,forte crescimento
+3155900,Rio Preto,MG,2023,10.156222,forte crescimento,forte crescimento
+3156007,Rio Vermelho,MG,2023,15.515443,forte crescimento,crescimento moderado
+3156106,Ritápolis,MG,2023,28.410048,forte crescimento,forte retração
+3156205,Rochedo de Minas,MG,2023,29.592688,forte crescimento,forte retração
+3156304,Rodeiro,MG,2023,29.220717,forte crescimento,forte retração
+3156403,Romaria,MG,2023,-20.983099,forte retração,forte retração
+3156452,Rosário da Limeira,MG,2023,6.199123,forte crescimento,forte crescimento
+3156502,Rubelita,MG,2023,16.713391,forte crescimento,forte crescimento
+3156601,Rubim,MG,2023,12.320479,forte crescimento,crescimento moderado
+3156700,Sabará,MG,2023,-2.465108,retração,forte retração
+3156809,Sabinópolis,MG,2023,34.257026,forte crescimento,forte retração
+3156908,Sacramento,MG,2023,11.562193,forte crescimento,forte retração
+3157005,Salinas,MG,2023,14.141196,forte crescimento,forte crescimento
+3157104,Salto da Divisa,MG,2023,1.071186,crescimento moderado,crescimento moderado
+3157203,Santa Bárbara,MG,2023,-11.593475,forte retração,forte retração
+3157252,Santa Bárbara do Leste,MG,2023,2.744721,crescimento moderado,forte retração
+3157278,Santa Bárbara do Monte Verde,MG,2023,21.395435,forte crescimento,retração
+3157302,Santa Bárbara do Tugúrio,MG,2023,7.49143,forte crescimento,forte crescimento
+3157336,Santa Cruz de Minas,MG,2023,27.922802,forte crescimento,forte crescimento
+3157377,Santa Cruz de Salinas,MG,2023,10.129828,forte crescimento,forte crescimento
+3157401,Santa Cruz do Escalvado,MG,2023,-17.599873,forte retração,forte retração
+3157500,Santa Efigênia de Minas,MG,2023,5.887214,forte crescimento,forte crescimento
+3157609,Santa Fé de Minas,MG,2023,16.175219,forte crescimento,estabilidade
+3157658,Santa Helena de Minas,MG,2023,15.223826,forte crescimento,forte crescimento
+3157708,Santa Juliana,MG,2023,-1.352695,retração,forte retração
+3157807,Santa Luzia,MG,2023,14.757044,forte crescimento,estabilidade
+3157906,Santa Margarida,MG,2023,-8.70233,forte retração,forte retração
+3158003,Santa Maria de Itabira,MG,2023,19.904976,forte crescimento,estabilidade
+3158102,Santa Maria do Salto,MG,2023,19.752278,forte crescimento,forte crescimento
+3158201,Santa Maria do Suaçuí,MG,2023,24.869677,forte crescimento,forte crescimento
+3158300,Santana da Vargem,MG,2023,20.616386,forte crescimento,forte retração
+3158409,Santana de Cataguases,MG,2023,17.831253,forte crescimento,forte crescimento
+3158508,Santana de Pirapama,MG,2023,8.249871,forte crescimento,retração
+3158607,Santana do Deserto,MG,2023,65.869635,forte crescimento,forte crescimento
+3158706,Santana do Garambéu,MG,2023,18.54784,forte crescimento,forte crescimento
+3158805,Santana do Jacaré,MG,2023,8.478037,forte crescimento,forte crescimento
+3158904,Santana do Manhuaçu,MG,2023,-7.033099,forte retração,forte retração
+3158953,Santana do Paraíso,MG,2023,5.35985,forte crescimento,estabilidade
+3159001,Santana do Riacho,MG,2023,14.386325,forte crescimento,forte crescimento
+3159100,Santana dos Montes,MG,2023,20.921127,forte crescimento,forte crescimento
+3159209,Santa Rita de Caldas,MG,2023,3.795058,crescimento moderado,forte retração
+3159308,Santa Rita de Jacutinga,MG,2023,8.53719,forte crescimento,forte crescimento
+3159357,Santa Rita de Minas,MG,2023,10.825695,forte crescimento,forte retração
+3159407,Santa Rita de Ibitipoca,MG,2023,8.612715,forte crescimento,retração
+3159506,Santa Rita do Itueto,MG,2023,-20.769666,forte retração,forte retração
+3159605,Santa Rita do Sapucaí,MG,2023,14.916033,forte crescimento,forte crescimento
+3159704,Santa Rosa da Serra,MG,2023,-34.714637,forte retração,forte retração
+3159803,Santa Vitória,MG,2023,-10.823755,forte retração,retração
+3159902,Santo Antônio do Amparo,MG,2023,15.382104,forte crescimento,forte crescimento
+3160009,Santo Antônio do Aventureiro,MG,2023,16.399993,forte crescimento,estabilidade
+3160108,Santo Antônio do Grama,MG,2023,13.951935,forte crescimento,forte crescimento
+3160207,Santo Antônio do Itambé,MG,2023,17.59525,forte crescimento,forte crescimento
+3160306,Santo Antônio do Jacinto,MG,2023,6.063484,forte crescimento,forte crescimento
+3160405,Santo Antônio do Monte,MG,2023,13.765789,forte crescimento,retração
+3160454,Santo Antônio do Retiro,MG,2023,10.266318,forte crescimento,forte crescimento
+3160504,Santo Antônio do Rio Abaixo,MG,2023,17.711875,forte crescimento,forte crescimento
+3160603,Santo Hipólito,MG,2023,44.917562,forte crescimento,estabilidade
+3160702,Santos Dumont,MG,2023,4.250315,crescimento moderado,forte crescimento
+3160801,São Bento Abade,MG,2023,9.889523,forte crescimento,estabilidade
+3160900,São Brás do Suaçuí,MG,2023,10.330406,forte crescimento,forte crescimento
+3160959,São Domingos das Dores,MG,2023,0.254344,estabilidade,forte retração
+3161007,São Domingos do Prata,MG,2023,12.637303,forte crescimento,forte crescimento
+3161056,São Félix de Minas,MG,2023,26.699227,forte crescimento,forte crescimento
+3161106,São Francisco,MG,2023,18.410733,forte crescimento,crescimento moderado
+3161205,São Francisco de Paula,MG,2023,6.198576,forte crescimento,forte retração
+3161304,São Francisco de Sales,MG,2023,28.916658,forte crescimento,forte retração
+3161403,São Francisco do Glória,MG,2023,2.893904,crescimento moderado,forte crescimento
+3161502,São Geraldo,MG,2023,21.194892,forte crescimento,forte crescimento
+3161601,São Geraldo da Piedade,MG,2023,14.673602,forte crescimento,forte crescimento
+3161650,São Geraldo do Baixio,MG,2023,15.295467,forte crescimento,forte crescimento
+3161700,São Gonçalo do Abaeté,MG,2023,-0.782945,estabilidade,forte retração
+3161809,São Gonçalo do Pará,MG,2023,15.627526,forte crescimento,forte retração
+3161908,São Gonçalo do Rio Abaixo,MG,2023,-1.881187,retração,forte retração
+3162005,São Gonçalo do Sapucaí,MG,2023,7.072511,forte crescimento,forte crescimento
+3162104,São Gotardo,MG,2023,7.417543,forte crescimento,forte crescimento
+3162203,São João Batista do Glória,MG,2023,11.133211,forte crescimento,forte retração
+3162252,São João da Lagoa,MG,2023,12.97292,forte crescimento,forte crescimento
+3162302,São João da Mata,MG,2023,4.904965,crescimento moderado,forte retração
+3162401,São João da Ponte,MG,2023,21.464684,forte crescimento,crescimento moderado
+3162450,São João das Missões,MG,2023,13.552756,forte crescimento,forte crescimento
+3162500,São João del Rei,MG,2023,6.660577,forte crescimento,forte crescimento
+3162559,São João do Manhuaçu,MG,2023,-6.315142,forte retração,forte retração
+3162575,São João do Manteninha,MG,2023,7.045908,forte crescimento,forte crescimento
+3162609,São João do Oriente,MG,2023,16.212778,forte crescimento,forte crescimento
+3162658,São João do Pacuí,MG,2023,12.509658,forte crescimento,forte crescimento
+3162708,São João do Paraíso,MG,2023,19.859701,forte crescimento,estabilidade
+3162807,São João Evangelista,MG,2023,12.713306,forte crescimento,forte crescimento
+3162906,São João Nepomuceno,MG,2023,15.548659,forte crescimento,crescimento moderado
+3162922,São Joaquim de Bicas,MG,2023,11.312868,forte crescimento,forte retração
+3162948,São José da Barra,MG,2023,36.343092,forte crescimento,forte retração
+3162955,São José da Lapa,MG,2023,5.125463,forte crescimento,forte retração
+3163003,São José da Safira,MG,2023,10.207372,forte crescimento,forte crescimento
+3163102,São José da Varginha,MG,2023,12.249829,forte crescimento,forte retração
+3163201,São José do Alegre,MG,2023,13.569712,forte crescimento,forte crescimento
+3163300,São José do Divino,MG,2023,11.302545,forte crescimento,forte crescimento
+3163409,São José do Goiabal,MG,2023,18.253822,forte crescimento,forte crescimento
+3163508,São José do Jacuri,MG,2023,35.344561,forte crescimento,estabilidade
+3163607,São José do Mantimento,MG,2023,-0.358119,estabilidade,forte retração
+3163706,São Lourenço,MG,2023,13.047306,forte crescimento,forte crescimento
+3163805,São Miguel do Anta,MG,2023,-0.481628,estabilidade,retração
+3163904,São Pedro da União,MG,2023,-14.747685,forte retração,forte retração
+3164001,São Pedro dos Ferros,MG,2023,11.925814,forte crescimento,forte crescimento
+3164100,São Pedro do Suaçuí,MG,2023,23.180667,forte crescimento,forte crescimento
+3164209,São Romão,MG,2023,-15.017667,forte retração,forte retração
+3164308,São Roque de Minas,MG,2023,18.639433,forte crescimento,forte retração
+3164407,São Sebastião da Bela Vista,MG,2023,16.222275,forte crescimento,forte retração
+3164431,São Sebastião da Vargem Alegre,MG,2023,-14.226154,forte retração,forte retração
+3164472,São Sebastião do Anta,MG,2023,-2.482161,retração,forte retração
+3164506,São Sebastião do Maranhão,MG,2023,16.944566,forte crescimento,forte crescimento
+3164605,São Sebastião do Oeste,MG,2023,14.247094,forte crescimento,forte retração
+3164704,São Sebastião do Paraíso,MG,2023,11.675442,forte crescimento,forte crescimento
+3164803,São Sebastião do Rio Preto,MG,2023,13.022835,forte crescimento,forte crescimento
+3164902,São Sebastião do Rio Verde,MG,2023,16.112393,forte crescimento,forte crescimento
+3165008,São Tiago,MG,2023,10.003952,forte crescimento,retração
+3165107,São Tomás de Aquino,MG,2023,-6.356311,forte retração,forte retração
+3165206,São Tomé das Letras,MG,2023,1.803782,crescimento moderado,retração
+3165305,São Vicente de Minas,MG,2023,11.381446,forte crescimento,forte retração
+3165404,Sapucaí-Mirim,MG,2023,26.736862,forte crescimento,forte crescimento
+3165503,Sardoá,MG,2023,19.164859,forte crescimento,forte crescimento
+3165537,Sarzedo,MG,2023,0.549868,estabilidade,forte retração
+3165552,Setubinha,MG,2023,3.617156,crescimento moderado,estabilidade
+3165560,Sem-Peixe,MG,2023,13.562634,forte crescimento,forte crescimento
+3165578,Senador Amaral,MG,2023,14.524554,forte crescimento,forte crescimento
+3165602,Senador Cortes,MG,2023,13.768658,forte crescimento,forte crescimento
+3165701,Senador Firmino,MG,2023,15.840002,forte crescimento,forte crescimento
+3165800,Senador José Bento,MG,2023,-3.453451,retração,forte retração
+3165909,Senador Modestino Gonçalves,MG,2023,6.952363,forte crescimento,forte retração
+3166006,Senhora de Oliveira,MG,2023,5.324729,forte crescimento,forte crescimento
+3166105,Senhora do Porto,MG,2023,10.057322,forte crescimento,estabilidade
+3166204,Senhora dos Remédios,MG,2023,9.3902,forte crescimento,forte crescimento
+3166303,Sericita,MG,2023,-11.033256,forte retração,forte retração
+3166402,Seritinga,MG,2023,13.748002,forte crescimento,estabilidade
+3166501,Serra Azul de Minas,MG,2023,15.465122,forte crescimento,forte crescimento
+3166600,Serra da Saudade,MG,2023,13.51806,forte crescimento,forte retração
+3166709,Serra dos Aimorés,MG,2023,4.636241,crescimento moderado,estabilidade
+3166808,Serra do Salitre,MG,2023,1.862178,crescimento moderado,forte retração
+3166907,Serrania,MG,2023,1.168831,crescimento moderado,forte retração
+3166956,Serranópolis de Minas,MG,2023,15.600569,forte crescimento,forte crescimento
+3167004,Serranos,MG,2023,11.834547,forte crescimento,forte retração
+3167103,Serro,MG,2023,15.427003,forte crescimento,forte crescimento
+3167202,Sete Lagoas,MG,2023,0.579823,estabilidade,estabilidade
+3167301,Silveirânia,MG,2023,13.903379,forte crescimento,forte crescimento
+3167400,Silvianópolis,MG,2023,12.512689,forte crescimento,forte retração
+3167509,Simão Pereira,MG,2023,7.603528,forte crescimento,forte retração
+3167608,Simonésia,MG,2023,-24.95953,forte retração,forte retração
+3167707,Sobrália,MG,2023,13.102734,forte crescimento,forte crescimento
+3167806,Soledade de Minas,MG,2023,9.325315,forte crescimento,forte crescimento
+3167905,Tabuleiro,MG,2023,8.41041,forte crescimento,forte crescimento
+3168002,Taiobeiras,MG,2023,13.968709,forte crescimento,forte crescimento
+3168051,Taparuba,MG,2023,7.640641,forte crescimento,estabilidade
+3168101,Tapira,MG,2023,-1.765744,retração,forte retração
+3168200,Tapiraí,MG,2023,4.748834,crescimento moderado,forte retração
+3168309,Taquaraçu de Minas,MG,2023,10.712272,forte crescimento,forte crescimento
+3168408,Tarumirim,MG,2023,20.782307,forte crescimento,crescimento moderado
+3168507,Teixeiras,MG,2023,-3.348953,retração,forte crescimento
+3168606,Teófilo Otoni,MG,2023,16.017551,forte crescimento,forte crescimento
+3168705,Timóteo,MG,2023,-14.835256,forte retração,forte retração
+3168804,Tiradentes,MG,2023,17.602273,forte crescimento,forte crescimento
+3168903,Tiros,MG,2023,1.485602,crescimento moderado,forte retração
+3169000,Tocantins,MG,2023,16.472363,forte crescimento,forte crescimento
+3169059,Tocos do Moji,MG,2023,12.748917,forte crescimento,retração
+3169109,Toledo,MG,2023,8.365664,forte crescimento,forte crescimento
+3169208,Tombos,MG,2023,15.643841,forte crescimento,forte crescimento
+3169307,Três Corações,MG,2023,8.671221,forte crescimento,forte crescimento
+3169356,Três Marias,MG,2023,-2.362698,retração,forte retração
+3169406,Três Pontas,MG,2023,5.277482,forte crescimento,forte crescimento
+3169505,Tumiritinga,MG,2023,2.636435,crescimento moderado,crescimento moderado
+3169604,Tupaciguara,MG,2023,18.409347,forte crescimento,retração
+3169703,Turmalina,MG,2023,6.988321,forte crescimento,retração
+3169802,Turvolândia,MG,2023,6.056317,forte crescimento,forte retração
+3169901,Ubá,MG,2023,18.414996,forte crescimento,forte crescimento
+3170008,Ubaí,MG,2023,14.138129,forte crescimento,forte crescimento
+3170057,Ubaporanga,MG,2023,11.217871,forte crescimento,forte crescimento
+3170107,Uberaba,MG,2023,0.453203,estabilidade,forte crescimento
+3170206,Uberlândia,MG,2023,6.852526,forte crescimento,forte crescimento
+3170305,Umburatiba,MG,2023,21.05492,forte crescimento,estabilidade
+3170404,Unaí,MG,2023,7.330856,forte crescimento,retração
+3170438,União de Minas,MG,2023,26.555807,forte crescimento,forte retração
+3170479,Uruana de Minas,MG,2023,2.993772,crescimento moderado,forte retração
+3170503,Urucânia,MG,2023,29.014395,forte crescimento,forte crescimento
+3170529,Urucuia,MG,2023,13.163498,forte crescimento,estabilidade
+3170578,Vargem Alegre,MG,2023,7.057121,forte crescimento,forte crescimento
+3170602,Vargem Bonita,MG,2023,-3.572069,retração,forte retração
+3170651,Vargem Grande do Rio Pardo,MG,2023,10.328546,forte crescimento,estabilidade
+3170701,Varginha,MG,2023,1.438494,crescimento moderado,forte crescimento
+3170750,Varjão de Minas,MG,2023,-6.083949,forte retração,forte retração
+3170800,Várzea da Palma,MG,2023,6.795717,forte crescimento,forte crescimento
+3170909,Varzelândia,MG,2023,17.962337,forte crescimento,forte crescimento
+3171006,Vazante,MG,2023,6.159273,forte crescimento,forte retração
+3171030,Verdelândia,MG,2023,19.912501,forte crescimento,estabilidade
+3171071,Veredinha,MG,2023,-7.233298,forte retração,forte retração
+3171105,Veríssimo,MG,2023,71.323009,forte crescimento,forte retração
+3171154,Vermelho Novo,MG,2023,13.110955,forte crescimento,retração
+3171204,Vespasiano,MG,2023,7.451313,forte crescimento,estabilidade
+3171303,Viçosa,MG,2023,11.468914,forte crescimento,forte crescimento
+3171402,Vieiras,MG,2023,5.630404,forte crescimento,retração
+3171501,Mathias Lobato,MG,2023,14.434947,forte crescimento,forte crescimento
+3171600,Virgem da Lapa,MG,2023,16.277624,forte crescimento,forte crescimento
+3171709,Virgínia,MG,2023,21.730949,forte crescimento,retração
+3171808,Virginópolis,MG,2023,9.896398,forte crescimento,forte crescimento
+3171907,Virgolândia,MG,2023,7.921595,forte crescimento,forte crescimento
+3172004,Visconde do Rio Branco,MG,2023,21.594642,forte crescimento,forte crescimento
+3172103,Volta Grande,MG,2023,18.237839,forte crescimento,forte crescimento
+3172202,Wenceslau Braz,MG,2023,18.884706,forte crescimento,estabilidade
+3200102,Afonso Cláudio,ES,2023,5.11938,forte crescimento,forte crescimento
+3200136,Águia Branca,ES,2023,9.88174,forte crescimento,forte retração
+3200169,Água Doce do Norte,ES,2023,20.858854,forte crescimento,forte crescimento
+3200201,Alegre,ES,2023,14.036526,forte crescimento,forte crescimento
+3200300,Alfredo Chaves,ES,2023,12.382427,forte crescimento,forte retração
+3200359,Alto Rio Novo,ES,2023,19.077835,forte crescimento,forte crescimento
+3200409,Anchieta,ES,2023,27.841614,forte crescimento,forte retração
+3200508,Apiacá,ES,2023,11.166977,forte crescimento,forte crescimento
+3200607,Aracruz,ES,2023,21.214685,forte crescimento,forte retração
+3200706,Atílio Vivácqua,ES,2023,13.197708,forte crescimento,forte crescimento
+3200805,Baixo Guandu,ES,2023,2.001572,crescimento moderado,forte crescimento
+3200904,Barra de São Francisco,ES,2023,12.932232,forte crescimento,forte crescimento
+3201001,Boa Esperança,ES,2023,20.25098,forte crescimento,forte crescimento
+3201100,Bom Jesus do Norte,ES,2023,22.015541,forte crescimento,forte crescimento
+3201159,Brejetuba,ES,2023,-30.319307,forte retração,forte retração
+3201209,Cachoeiro de Itapemirim,ES,2023,20.866906,forte crescimento,forte crescimento
+3201308,Cariacica,ES,2023,34.656673,forte crescimento,forte crescimento
+3201407,Castelo,ES,2023,7.286523,forte crescimento,forte crescimento
+3201506,Colatina,ES,2023,16.50794,forte crescimento,forte crescimento
+3201605,Conceição da Barra,ES,2023,10.98849,forte crescimento,forte crescimento
+3201704,Conceição do Castelo,ES,2023,8.473406,forte crescimento,forte crescimento
+3201803,Divino de São Lourenço,ES,2023,3.951311,crescimento moderado,forte retração
+3201902,Domingos Martins,ES,2023,17.224371,forte crescimento,forte retração
+3202009,Dores do Rio Preto,ES,2023,24.658203,forte crescimento,forte crescimento
+3202108,Ecoporanga,ES,2023,18.206796,forte crescimento,forte crescimento
+3202207,Fundão,ES,2023,26.171735,forte crescimento,forte crescimento
+3202256,Governador Lindenberg,ES,2023,20.992743,forte crescimento,forte retração
+3202306,Guaçuí,ES,2023,9.685255,forte crescimento,forte crescimento
+3202405,Guarapari,ES,2023,21.041964,forte crescimento,forte crescimento
+3202454,Ibatiba,ES,2023,3.713721,crescimento moderado,forte crescimento
+3202504,Ibiraçu,ES,2023,15.559094,forte crescimento,forte crescimento
+3202553,Ibitirama,ES,2023,-2.728773,retração,retração
+3202603,Iconha,ES,2023,14.503342,forte crescimento,forte crescimento
+3202652,Irupi,ES,2023,-29.719171,forte retração,forte retração
+3202702,Itaguaçu,ES,2023,16.34848,forte crescimento,forte retração
+3202801,Itapemirim,ES,2023,-0.47889,estabilidade,forte retração
+3202900,Itarana,ES,2023,31.390248,forte crescimento,forte retração
+3203007,Iúna,ES,2023,-7.001775,forte retração,forte crescimento
+3203056,Jaguaré,ES,2023,0.630035,estabilidade,forte retração
+3203106,Jerônimo Monteiro,ES,2023,11.163505,forte crescimento,forte crescimento
+3203130,João Neiva,ES,2023,-10.723956,forte retração,forte retração
+3203163,Laranja da Terra,ES,2023,20.976438,forte crescimento,retração
+3203205,Linhares,ES,2023,26.828654,forte crescimento,forte crescimento
+3203304,Mantenópolis,ES,2023,3.620794,crescimento moderado,retração
+3203320,Marataízes,ES,2023,-1.861425,retração,forte retração
+3203346,Marechal Floriano,ES,2023,13.125598,forte crescimento,forte retração
+3203353,Marilândia,ES,2023,10.14636,forte crescimento,forte retração
+3203403,Mimoso do Sul,ES,2023,5.987191,forte crescimento,forte crescimento
+3203502,Montanha,ES,2023,16.511045,forte crescimento,forte crescimento
+3203601,Mucurici,ES,2023,25.00982,forte crescimento,retração
+3203700,Muniz Freire,ES,2023,9.941569,forte crescimento,retração
+3203809,Muqui,ES,2023,22.852434,forte crescimento,forte crescimento
+3203908,Nova Venécia,ES,2023,27.638527,forte crescimento,forte crescimento
+3204005,Pancas,ES,2023,7.760674,forte crescimento,retração
+3204054,Pedro Canário,ES,2023,27.897166,forte crescimento,forte crescimento
+3204104,Pinheiros,ES,2023,10.774972,forte crescimento,forte crescimento
+3204203,Piúma,ES,2023,-1.807636,retração,forte retração
+3204252,Ponto Belo,ES,2023,16.752279,forte crescimento,forte crescimento
+3204302,Presidente Kennedy,ES,2023,-9.921187,forte retração,forte retração
+3204351,Rio Bananal,ES,2023,20.769145,forte crescimento,forte retração
+3204401,Rio Novo do Sul,ES,2023,12.765278,forte crescimento,forte crescimento
+3204500,Santa Leopoldina,ES,2023,21.366899,forte crescimento,forte retração
+3204559,Santa Maria de Jetibá,ES,2023,32.244142,forte crescimento,forte retração
+3204609,Santa Teresa,ES,2023,18.497847,forte crescimento,forte crescimento
+3204658,São Domingos do Norte,ES,2023,13.983623,forte crescimento,forte retração
+3204708,São Gabriel da Palha,ES,2023,11.694091,forte crescimento,forte crescimento
+3204807,São José do Calçado,ES,2023,13.956537,forte crescimento,forte crescimento
+3204906,São Mateus,ES,2023,26.200015,forte crescimento,forte crescimento
+3204955,São Roque do Canaã,ES,2023,9.543995,forte crescimento,forte crescimento
+3205002,Serra,ES,2023,8.265698,forte crescimento,forte crescimento
+3205010,Sooretama,ES,2023,28.969426,forte crescimento,forte crescimento
+3205036,Vargem Alta,ES,2023,14.899985,forte crescimento,forte crescimento
+3205069,Venda Nova do Imigrante,ES,2023,18.427866,forte crescimento,forte crescimento
+3205101,Viana,ES,2023,45.29634,forte crescimento,forte crescimento
+3205150,Vila Pavão,ES,2023,8.574393,forte crescimento,retração
+3205176,Vila Valério,ES,2023,17.117688,forte crescimento,forte retração
+3205200,Vila Velha,ES,2023,16.229135,forte crescimento,crescimento moderado
+3205309,Vitória,ES,2023,16.750467,forte crescimento,forte crescimento
+3300100,Angra dos Reis,RJ,2023,7.865452,forte crescimento,estabilidade
+3300159,Aperibé,RJ,2023,8.988482,forte crescimento,forte crescimento
+3300209,Araruama,RJ,2023,40.138421,forte crescimento,forte retração
+3300225,Areal,RJ,2023,22.239078,forte crescimento,forte crescimento
+3300233,Armação dos Búzios,RJ,2023,21.283897,forte crescimento,forte retração
+3300258,Arraial do Cabo,RJ,2023,32.863728,forte crescimento,forte retração
+3300308,Barra do Piraí,RJ,2023,7.329766,forte crescimento,crescimento moderado
+3300407,Barra Mansa,RJ,2023,4.873457,crescimento moderado,crescimento moderado
+3300456,Belford Roxo,RJ,2023,1.113001,crescimento moderado,crescimento moderado
+3300506,Bom Jardim,RJ,2023,14.371871,forte crescimento,forte crescimento
+3300605,Bom Jesus do Itabapoana,RJ,2023,13.649646,forte crescimento,forte crescimento
+3300704,Cabo Frio,RJ,2023,9.77882,forte crescimento,forte retração
+3300803,Cachoeiras de Macacu,RJ,2023,8.588545,forte crescimento,forte crescimento
+3300902,Cambuci,RJ,2023,4.380692,crescimento moderado,forte crescimento
+3300936,Carapebus,RJ,2023,-12.52591,forte retração,forte retração
+3300951,Comendador Levy Gasparian,RJ,2023,10.631106,forte crescimento,forte retração
+3301009,Campos dos Goytacazes,RJ,2023,-13.993422,forte retração,forte retração
+3301108,Cantagalo,RJ,2023,17.402618,forte crescimento,forte retração
+3301157,Cardoso Moreira,RJ,2023,2.609658,crescimento moderado,crescimento moderado
+3301207,Carmo,RJ,2023,8.199311,forte crescimento,forte crescimento
+3301306,Casimiro de Abreu,RJ,2023,7.01188,forte crescimento,forte retração
+3301405,Conceição de Macabu,RJ,2023,12.016142,forte crescimento,crescimento moderado
+3301504,Cordeiro,RJ,2023,11.191351,forte crescimento,forte crescimento
+3301603,Duas Barras,RJ,2023,4.166767,crescimento moderado,forte crescimento
+3301702,Duque de Caxias,RJ,2023,6.387168,forte crescimento,retração
+3301801,Engenheiro Paulo de Frontin,RJ,2023,-16.392283,forte retração,estabilidade
+3301850,Guapimirim,RJ,2023,9.651756,forte crescimento,forte crescimento
+3301876,Iguaba Grande,RJ,2023,14.394701,forte crescimento,crescimento moderado
+3301900,Itaboraí,RJ,2023,11.300465,forte crescimento,crescimento moderado
+3302007,Itaguaí,RJ,2023,25.204396,forte crescimento,forte crescimento
+3302056,Italva,RJ,2023,8.127248,forte crescimento,forte crescimento
+3302106,Itaocara,RJ,2023,10.292043,forte crescimento,forte crescimento
+3302205,Itaperuna,RJ,2023,13.068104,forte crescimento,crescimento moderado
+3302254,Itatiaia,RJ,2023,11.482214,forte crescimento,forte retração
+3302270,Japeri,RJ,2023,12.278334,forte crescimento,crescimento moderado
+3302304,Laje do Muriaé,RJ,2023,9.004815,forte crescimento,crescimento moderado
+3302403,Macaé,RJ,2023,14.176779,forte crescimento,retração
+3302452,Macuco,RJ,2023,1.891667,crescimento moderado,forte retração
+3302502,Magé,RJ,2023,10.898681,forte crescimento,forte crescimento
+3302601,Mangaratiba,RJ,2023,11.828335,forte crescimento,forte crescimento
+3302700,Maricá,RJ,2023,-15.342887,forte retração,forte retração
+3302809,Mendes,RJ,2023,1.353165,crescimento moderado,crescimento moderado
+3302858,Mesquita,RJ,2023,6.851137,forte crescimento,crescimento moderado
+3302908,Miguel Pereira,RJ,2023,11.391177,forte crescimento,forte crescimento
+3303005,Miracema,RJ,2023,2.223454,crescimento moderado,forte crescimento
+3303104,Natividade,RJ,2023,8.076264,forte crescimento,crescimento moderado
+3303203,Nilópolis,RJ,2023,-1.465682,retração,crescimento moderado
+3303302,Niterói,RJ,2023,-14.031566,forte retração,forte retração
+3303401,Nova Friburgo,RJ,2023,8.747169,forte crescimento,forte crescimento
+3303500,Nova Iguaçu,RJ,2023,3.047075,crescimento moderado,crescimento moderado
+3303609,Paracambi,RJ,2023,1.108068,crescimento moderado,crescimento moderado
+3303708,Paraíba do Sul,RJ,2023,11.532105,forte crescimento,forte crescimento
+3303807,Paraty,RJ,2023,42.887395,forte crescimento,forte retração
+3303856,Paty do Alferes,RJ,2023,8.775119,forte crescimento,forte crescimento
+3303906,Petrópolis,RJ,2023,24.801383,forte crescimento,retração
+3303955,Pinheiral,RJ,2023,-1.645617,retração,forte retração
+3304003,Piraí,RJ,2023,17.431045,forte crescimento,forte retração
+3304102,Porciúncula,RJ,2023,-0.925652,estabilidade,forte crescimento
+3304110,Porto Real,RJ,2023,-18.989446,forte retração,forte retração
+3304128,Quatis,RJ,2023,11.572391,forte crescimento,crescimento moderado
+3304144,Queimados,RJ,2023,12.14627,forte crescimento,crescimento moderado
+3304151,Quissamã,RJ,2023,-33.247073,forte retração,forte retração
+3304201,Resende,RJ,2023,5.179929,forte crescimento,retração
+3304300,Rio Bonito,RJ,2023,6.959312,forte crescimento,forte crescimento
+3304409,Rio Claro,RJ,2023,3.355125,crescimento moderado,forte crescimento
+3304508,Rio das Flores,RJ,2023,3.916287,crescimento moderado,retração
+3304524,Rio das Ostras,RJ,2023,-2.901257,retração,forte retração
+3304557,Rio de Janeiro,RJ,2023,10.011224,forte crescimento,crescimento moderado
+3304607,Santa Maria Madalena,RJ,2023,3.014069,crescimento moderado,forte crescimento
+3304706,Santo Antônio de Pádua,RJ,2023,15.695993,forte crescimento,crescimento moderado
+3304755,São Francisco de Itabapoana,RJ,2023,13.502083,forte crescimento,forte crescimento
+3304805,São Fidélis,RJ,2023,6.955821,forte crescimento,crescimento moderado
+3304904,São Gonçalo,RJ,2023,12.168104,forte crescimento,crescimento moderado
+3305000,São João da Barra,RJ,2023,9.323825,forte crescimento,forte retração
+3305109,São João de Meriti,RJ,2023,8.657607,forte crescimento,crescimento moderado
+3305133,São José de Ubá,RJ,2023,-2.250752,retração,retração
+3305158,São José do Vale do Rio Preto,RJ,2023,2.96192,crescimento moderado,retração
+3305208,São Pedro da Aldeia,RJ,2023,12.88126,forte crescimento,crescimento moderado
+3305307,São Sebastião do Alto,RJ,2023,-0.958202,estabilidade,forte crescimento
+3305406,Sapucaia,RJ,2023,10.105008,forte crescimento,forte crescimento
+3305505,Saquarema,RJ,2023,-14.199813,forte retração,forte retração
+3305554,Seropédica,RJ,2023,-11.321142,forte retração,forte crescimento
+3305604,Silva Jardim,RJ,2023,9.252528,forte crescimento,forte crescimento
+3305703,Sumidouro,RJ,2023,8.682582,forte crescimento,retração
+3305752,Tanguá,RJ,2023,6.309282,forte crescimento,forte crescimento
+3305802,Teresópolis,RJ,2023,13.713027,forte crescimento,crescimento moderado
+3305901,Trajano de Moraes,RJ,2023,4.753315,crescimento moderado,forte crescimento
+3306008,Três Rios,RJ,2023,9.423763,forte crescimento,forte retração
+3306107,Valença,RJ,2023,1.985344,crescimento moderado,retração
+3306156,Varre-Sai,RJ,2023,2.174914,crescimento moderado,retração
+3306206,Vassouras,RJ,2023,9.53097,forte crescimento,forte crescimento
+3306305,Volta Redonda,RJ,2023,-1.066349,retração,forte retração
+3500105,Adamantina,SP,2023,10.620925,forte crescimento,forte crescimento
+3500204,Adolfo,SP,2023,40.942764,forte crescimento,forte crescimento
+3500303,Aguaí,SP,2023,15.275256,forte crescimento,forte crescimento
+3500402,Águas da Prata,SP,2023,14.702791,forte crescimento,forte crescimento
+3500501,Águas de Lindóia,SP,2023,12.898296,forte crescimento,forte crescimento
+3500550,Águas de Santa Bárbara,SP,2023,47.385066,forte crescimento,retração
+3500600,Águas de São Pedro,SP,2023,15.389164,forte crescimento,forte crescimento
+3500709,Agudos,SP,2023,27.197066,forte crescimento,forte crescimento
+3500758,Alambari,SP,2023,19.853112,forte crescimento,forte crescimento
+3500808,Alfredo Marcondes,SP,2023,21.676589,forte crescimento,forte crescimento
+3500907,Altair,SP,2023,65.85725,forte crescimento,retração
+3501004,Altinópolis,SP,2023,46.393185,forte crescimento,retração
+3501103,Alto Alegre,SP,2023,52.47883,forte crescimento,forte crescimento
+3501152,Alumínio,SP,2023,-4.320512,retração,forte retração
+3501202,Álvares Florence,SP,2023,29.944099,forte crescimento,retração
+3501301,Álvares Machado,SP,2023,4.792581,crescimento moderado,forte crescimento
+3501400,Álvaro de Carvalho,SP,2023,16.35258,forte crescimento,forte crescimento
+3501509,Alvinlândia,SP,2023,28.272633,forte crescimento,forte crescimento
+3501608,Americana,SP,2023,5.534224,forte crescimento,estabilidade
+3501707,Américo Brasiliense,SP,2023,9.307548,forte crescimento,forte crescimento
+3501806,Américo de Campos,SP,2023,24.105387,forte crescimento,retração
+3501905,Amparo,SP,2023,8.806148,forte crescimento,forte crescimento
+3502002,Analândia,SP,2023,26.24536,forte crescimento,forte retração
+3502101,Andradina,SP,2023,10.548449,forte crescimento,forte crescimento
+3502200,Angatuba,SP,2023,6.916304,forte crescimento,forte crescimento
+3502309,Anhembi,SP,2023,83.643205,forte crescimento,retração
+3502408,Anhumas,SP,2023,31.403095,forte crescimento,retração
+3502507,Aparecida,SP,2023,19.581269,forte crescimento,forte crescimento
+3502606,Aparecida d'Oeste,SP,2023,34.236259,forte crescimento,forte crescimento
+3502705,Apiaí,SP,2023,25.785669,forte crescimento,forte retração
+3502754,Araçariguama,SP,2023,-5.786525,forte retração,forte retração
+3502804,Araçatuba,SP,2023,11.227162,forte crescimento,forte crescimento
+3502903,Araçoiaba da Serra,SP,2023,25.296589,forte crescimento,forte crescimento
+3503000,Aramina,SP,2023,27.023408,forte crescimento,forte crescimento
+3503109,Arandu,SP,2023,14.982677,forte crescimento,retração
+3503158,Arapeí,SP,2023,11.926755,forte crescimento,forte crescimento
+3503208,Araraquara,SP,2023,11.327284,forte crescimento,forte crescimento
+3503307,Araras,SP,2023,18.655017,forte crescimento,forte crescimento
+3503356,Arco-Íris,SP,2023,119.805742,forte crescimento,retração
+3503406,Arealva,SP,2023,19.43961,forte crescimento,forte crescimento
+3503505,Areias,SP,2023,17.673903,forte crescimento,forte crescimento
+3503604,Areiópolis,SP,2023,27.348062,forte crescimento,forte crescimento
+3503703,Ariranha,SP,2023,-2.431523,retração,forte crescimento
+3503802,Artur Nogueira,SP,2023,-6.24129,forte retração,forte crescimento
+3503901,Arujá,SP,2023,10.345879,forte crescimento,forte crescimento
+3503950,Aspásia,SP,2023,48.390745,forte crescimento,forte crescimento
+3504008,Assis,SP,2023,2.198193,crescimento moderado,forte crescimento
+3504107,Atibaia,SP,2023,6.800932,forte crescimento,forte crescimento
+3504206,Auriflama,SP,2023,12.986482,forte crescimento,forte crescimento
+3504305,Avaí,SP,2023,51.474855,forte crescimento,forte retração
+3504404,Avanhandava,SP,2023,34.505492,forte crescimento,forte crescimento
+3504503,Avaré,SP,2023,13.874086,forte crescimento,forte crescimento
+3504602,Bady Bassitt,SP,2023,14.430333,forte crescimento,forte crescimento
+3504701,Balbinos,SP,2023,33.444225,forte crescimento,forte crescimento
+3504800,Bálsamo,SP,2023,18.194875,forte crescimento,forte crescimento
+3504909,Bananal,SP,2023,19.632286,forte crescimento,forte crescimento
+3505005,Barão de Antonina,SP,2023,2.992369,crescimento moderado,retração
+3505104,Barbosa,SP,2023,44.751836,forte crescimento,forte crescimento
+3505203,Bariri,SP,2023,2.920647,crescimento moderado,forte crescimento
+3505302,Barra Bonita,SP,2023,18.030623,forte crescimento,forte crescimento
+3505351,Barra do Chapéu,SP,2023,24.283843,forte crescimento,forte retração
+3505401,Barra do Turvo,SP,2023,4.93091,crescimento moderado,forte crescimento
+3505500,Barretos,SP,2023,8.767319,forte crescimento,forte crescimento
+3505609,Barrinha,SP,2023,11.98545,forte crescimento,forte crescimento
+3505708,Barueri,SP,2023,2.843493,crescimento moderado,forte crescimento
+3505807,Bastos,SP,2023,39.857815,forte crescimento,forte retração
+3505906,Batatais,SP,2023,19.062166,forte crescimento,forte crescimento
+3506003,Bauru,SP,2023,10.97041,forte crescimento,forte crescimento
+3506102,Bebedouro,SP,2023,12.352432,forte crescimento,forte crescimento
+3506201,Bento de Abreu,SP,2023,15.515309,forte crescimento,forte retração
+3506300,Bernardino de Campos,SP,2023,25.406777,forte crescimento,forte crescimento
+3506359,Bertioga,SP,2023,17.023926,forte crescimento,forte crescimento
+3506409,Bilac,SP,2023,10.206128,forte crescimento,retração
+3506508,Birigui,SP,2023,8.398086,forte crescimento,forte crescimento
+3506607,Biritiba Mirim,SP,2023,19.531167,forte crescimento,forte retração
+3506706,Boa Esperança do Sul,SP,2023,48.581269,forte crescimento,forte crescimento
+3506805,Bocaina,SP,2023,24.438063,forte crescimento,forte crescimento
+3506904,Bofete,SP,2023,30.172458,forte crescimento,forte crescimento
+3507001,Boituva,SP,2023,12.402902,forte crescimento,forte crescimento
+3507100,Bom Jesus dos Perdões,SP,2023,-11.796666,forte retração,forte retração
+3507159,Bom Sucesso de Itararé,SP,2023,15.760845,forte crescimento,forte crescimento
+3507209,Borá,SP,2023,31.231962,forte crescimento,forte retração
+3507308,Boracéia,SP,2023,12.957057,forte crescimento,forte retração
+3507407,Borborema,SP,2023,25.893482,forte crescimento,forte crescimento
+3507456,Borebi,SP,2023,44.779046,forte crescimento,forte crescimento
+3507506,Botucatu,SP,2023,19.112476,forte crescimento,forte crescimento
+3507605,Bragança Paulista,SP,2023,14.445524,forte crescimento,forte crescimento
+3507704,Braúna,SP,2023,33.245127,forte crescimento,forte crescimento
+3507753,Brejo Alegre,SP,2023,15.427938,forte crescimento,forte crescimento
+3507803,Brodowski,SP,2023,24.573552,forte crescimento,forte crescimento
+3507902,Brotas,SP,2023,14.791774,forte crescimento,forte crescimento
+3508009,Buri,SP,2023,29.16663,forte crescimento,forte crescimento
+3508108,Buritama,SP,2023,15.468711,forte crescimento,forte crescimento
+3508207,Buritizal,SP,2023,18.687753,forte crescimento,forte retração
+3508306,Cabrália Paulista,SP,2023,46.83962,forte crescimento,forte retração
+3508405,Cabreúva,SP,2023,9.291198,forte crescimento,forte crescimento
+3508504,Caçapava,SP,2023,11.003581,forte crescimento,forte crescimento
+3508603,Cachoeira Paulista,SP,2023,16.569324,forte crescimento,forte crescimento
+3508702,Caconde,SP,2023,15.642786,forte crescimento,retração
+3508801,Cafelândia,SP,2023,26.189732,forte crescimento,forte crescimento
+3508900,Caiabu,SP,2023,24.631567,forte crescimento,forte crescimento
+3509007,Caieiras,SP,2023,6.483416,forte crescimento,forte retração
+3509106,Caiuá,SP,2023,22.32623,forte crescimento,forte crescimento
+3509205,Cajamar,SP,2023,19.130316,forte crescimento,forte crescimento
+3509254,Cajati,SP,2023,-10.816977,forte retração,forte retração
+3509304,Cajobi,SP,2023,41.137057,forte crescimento,forte crescimento
+3509403,Cajuru,SP,2023,33.574754,forte crescimento,forte crescimento
+3509452,Campina do Monte Alegre,SP,2023,19.52562,forte crescimento,forte crescimento
+3509502,Campinas,SP,2023,14.038705,forte crescimento,crescimento moderado
+3509601,Campo Limpo Paulista,SP,2023,8.664042,forte crescimento,crescimento moderado
+3509700,Campos do Jordão,SP,2023,17.101129,forte crescimento,crescimento moderado
+3509809,Campos Novos Paulista,SP,2023,46.268876,forte crescimento,forte retração
+3509908,Cananéia,SP,2023,15.271483,forte crescimento,forte crescimento
+3509957,Canas,SP,2023,-8.217264,forte retração,forte crescimento
+3510005,Cândido Mota,SP,2023,19.691889,forte crescimento,forte crescimento
+3510104,Cândido Rodrigues,SP,2023,44.675004,forte crescimento,forte retração
+3510153,Canitar,SP,2023,1.289749,crescimento moderado,forte retração
+3510203,Capão Bonito,SP,2023,19.622348,forte crescimento,forte crescimento
+3510302,Capela do Alto,SP,2023,21.223261,forte crescimento,forte crescimento
+3510401,Capivari,SP,2023,14.670168,forte crescimento,forte crescimento
+3510500,Caraguatatuba,SP,2023,4.438022,crescimento moderado,crescimento moderado
+3510609,Carapicuíba,SP,2023,7.921104,forte crescimento,crescimento moderado
+3510708,Cardoso,SP,2023,18.202778,forte crescimento,forte crescimento
+3510807,Casa Branca,SP,2023,18.510263,forte crescimento,forte crescimento
+3510906,Cássia dos Coqueiros,SP,2023,43.990788,forte crescimento,forte retração
+3511003,Castilho,SP,2023,26.930098,forte crescimento,forte retração
+3511102,Catanduva,SP,2023,16.464803,forte crescimento,forte crescimento
+3511201,Catiguá,SP,2023,15.695275,forte crescimento,forte crescimento
+3511300,Cedral,SP,2023,25.753893,forte crescimento,forte retração
+3511409,Cerqueira César,SP,2023,14.763898,forte crescimento,forte crescimento
+3511508,Cerquilho,SP,2023,12.643892,forte crescimento,forte crescimento
+3511607,Cesário Lange,SP,2023,17.706648,forte crescimento,forte crescimento
+3511706,Charqueada,SP,2023,29.443367,forte crescimento,forte crescimento
+3511904,Clementina,SP,2023,26.991444,forte crescimento,forte crescimento
+3512001,Colina,SP,2023,-3.053561,retração,forte retração
+3512100,Colômbia,SP,2023,57.12326,forte crescimento,forte retração
+3512209,Conchal,SP,2023,11.73831,forte crescimento,forte crescimento
+3512308,Conchas,SP,2023,16.810406,forte crescimento,forte crescimento
+3512407,Cordeirópolis,SP,2023,-1.149189,retração,forte crescimento
+3512506,Coroados,SP,2023,30.432561,forte crescimento,forte retração
+3512605,Coronel Macedo,SP,2023,15.379717,forte crescimento,forte retração
+3512704,Corumbataí,SP,2023,4.227781,crescimento moderado,forte crescimento
+3512803,Cosmópolis,SP,2023,12.327033,forte crescimento,forte crescimento
+3512902,Cosmorama,SP,2023,41.136478,forte crescimento,forte retração
+3513009,Cotia,SP,2023,10.342314,forte crescimento,retração
+3513108,Cravinhos,SP,2023,14.731582,forte crescimento,forte crescimento
+3513207,Cristais Paulista,SP,2023,4.144155,crescimento moderado,forte retração
+3513306,Cruzália,SP,2023,0.138026,estabilidade,forte retração
+3513405,Cruzeiro,SP,2023,12.232881,forte crescimento,crescimento moderado
+3513504,Cubatão,SP,2023,-3.142086,retração,forte retração
+3513603,Cunha,SP,2023,21.689239,forte crescimento,crescimento moderado
+3513702,Descalvado,SP,2023,11.003221,forte crescimento,forte crescimento
+3513801,Diadema,SP,2023,5.84546,forte crescimento,retração
+3513850,Dirce Reis,SP,2023,22.184411,forte crescimento,forte retração
+3513900,Divinolândia,SP,2023,26.271125,forte crescimento,retração
+3514007,Dobrada,SP,2023,33.16751,forte crescimento,forte crescimento
+3514106,Dois Córregos,SP,2023,17.773471,forte crescimento,forte crescimento
+3514205,Dolcinópolis,SP,2023,33.941904,forte crescimento,forte crescimento
+3514304,Dourado,SP,2023,37.623043,forte crescimento,forte crescimento
+3514403,Dracena,SP,2023,14.050722,forte crescimento,forte crescimento
+3514502,Duartina,SP,2023,34.104936,forte crescimento,forte crescimento
+3514601,Dumont,SP,2023,-1.881443,retração,forte crescimento
+3514700,Echaporã,SP,2023,12.492344,forte crescimento,forte crescimento
+3514809,Eldorado,SP,2023,37.132561,forte crescimento,retração
+3514908,Elias Fausto,SP,2023,42.927112,forte crescimento,forte retração
+3514924,Elisiário,SP,2023,44.258306,forte crescimento,forte crescimento
+3514957,Embaúba,SP,2023,40.676641,forte crescimento,forte crescimento
+3515004,Embu das Artes,SP,2023,4.21245,crescimento moderado,crescimento moderado
+3515103,Embu-Guaçu,SP,2023,12.575909,forte crescimento,crescimento moderado
+3515129,Emilianópolis,SP,2023,24.010381,forte crescimento,forte crescimento
+3515152,Engenheiro Coelho,SP,2023,8.006214,forte crescimento,forte crescimento
+3515186,Espírito Santo do Pinhal,SP,2023,13.164369,forte crescimento,forte crescimento
+3515194,Espírito Santo do Turvo,SP,2023,88.51416,forte crescimento,forte crescimento
+3515202,Estrela d'Oeste,SP,2023,8.69653,forte crescimento,forte retração
+3515301,Estrela do Norte,SP,2023,23.599824,forte crescimento,forte crescimento
+3515350,Euclides da Cunha Paulista,SP,2023,20.183755,forte crescimento,forte crescimento
+3515400,Fartura,SP,2023,17.345412,forte crescimento,forte crescimento
+3515509,Fernandópolis,SP,2023,1.078587,crescimento moderado,forte crescimento
+3515608,Fernando Prestes,SP,2023,27.362969,forte crescimento,forte retração
+3515657,Fernão,SP,2023,28.609746,forte crescimento,forte retração
+3515707,Ferraz de Vasconcelos,SP,2023,6.646563,forte crescimento,crescimento moderado
+3515806,Flora Rica,SP,2023,38.241404,forte crescimento,retração
+3515905,Floreal,SP,2023,58.051669,forte crescimento,retração
+3516002,Flórida Paulista,SP,2023,24.801936,forte crescimento,forte crescimento
+3516101,Florínea,SP,2023,10.085228,forte crescimento,forte crescimento
+3516200,Franca,SP,2023,9.939062,forte crescimento,forte crescimento
+3516309,Francisco Morato,SP,2023,9.715033,forte crescimento,crescimento moderado
+3516408,Franco da Rocha,SP,2023,6.89868,forte crescimento,estabilidade
+3516507,Gabriel Monteiro,SP,2023,13.147733,forte crescimento,forte retração
+3516606,Gália,SP,2023,31.831081,forte crescimento,forte crescimento
+3516705,Garça,SP,2023,14.230015,forte crescimento,forte crescimento
+3516804,Gastão Vidigal,SP,2023,22.416766,forte crescimento,forte crescimento
+3516853,Gavião Peixoto,SP,2023,37.927878,forte crescimento,forte retração
+3516903,General Salgado,SP,2023,16.999606,forte crescimento,forte crescimento
+3517000,Getulina,SP,2023,23.526636,forte crescimento,forte crescimento
+3517109,Glicério,SP,2023,35.876166,forte crescimento,forte crescimento
+3517208,Guaiçara,SP,2023,19.558744,forte crescimento,forte crescimento
+3517307,Guaimbê,SP,2023,28.403829,forte crescimento,forte retração
+3517406,Guaíra,SP,2023,8.343396,forte crescimento,forte crescimento
+3517505,Guapiaçu,SP,2023,20.307004,forte crescimento,forte crescimento
+3517604,Guapiara,SP,2023,11.690129,forte crescimento,retração
+3517703,Guará,SP,2023,14.104997,forte crescimento,forte crescimento
+3517802,Guaraçaí,SP,2023,33.436031,forte crescimento,retração
+3517901,Guaraci,SP,2023,46.927549,forte crescimento,forte crescimento
+3518008,Guarani d'Oeste,SP,2023,27.4798,forte crescimento,forte crescimento
+3518107,Guarantã,SP,2023,47.142045,forte crescimento,retração
+3518206,Guararapes,SP,2023,16.450837,forte crescimento,forte crescimento
+3518305,Guararema,SP,2023,23.279092,forte crescimento,forte crescimento
+3518404,Guaratinguetá,SP,2023,0.320509,estabilidade,forte crescimento
+3518503,Guareí,SP,2023,16.440957,forte crescimento,crescimento moderado
+3518602,Guariba,SP,2023,15.643328,forte crescimento,forte crescimento
+3518701,Guarujá,SP,2023,0.538412,estabilidade,crescimento moderado
+3518800,Guarulhos,SP,2023,12.948343,forte crescimento,forte retração
+3518859,Guatapará,SP,2023,55.295883,forte crescimento,forte crescimento
+3518909,Guzolândia,SP,2023,23.640956,forte crescimento,forte crescimento
+3519006,Herculândia,SP,2023,31.411137,forte crescimento,forte retração
+3519055,Holambra,SP,2023,18.942497,forte crescimento,forte retração
+3519071,Hortolândia,SP,2023,3.469185,crescimento moderado,retração
+3519105,Iacanga,SP,2023,-18.459572,forte retração,forte crescimento
+3519204,Iacri,SP,2023,29.202009,forte crescimento,retração
+3519253,Iaras,SP,2023,76.098306,forte crescimento,forte crescimento
+3519303,Ibaté,SP,2023,23.203629,forte crescimento,forte crescimento
+3519402,Ibirá,SP,2023,22.135373,forte crescimento,forte crescimento
+3519501,Ibirarema,SP,2023,17.842671,forte crescimento,forte crescimento
+3519600,Ibitinga,SP,2023,28.894541,forte crescimento,forte crescimento
+3519709,Ibiúna,SP,2023,12.969926,forte crescimento,estabilidade
+3519808,Icém,SP,2023,11.775763,forte crescimento,forte crescimento
+3519907,Iepê,SP,2023,5.637988,forte crescimento,forte crescimento
+3520004,Igaraçu do Tietê,SP,2023,14.876251,forte crescimento,forte crescimento
+3520103,Igarapava,SP,2023,-10.722367,forte retração,forte crescimento
+3520202,Igaratá,SP,2023,13.6864,forte crescimento,crescimento moderado
+3520301,Iguape,SP,2023,-20.184487,forte retração,forte retração
+3520400,Ilhabela,SP,2023,-40.471174,forte retração,forte retração
+3520426,Ilha Comprida,SP,2023,21.686357,forte crescimento,forte retração
+3520442,Ilha Solteira,SP,2023,19.410314,forte crescimento,forte crescimento
+3520509,Indaiatuba,SP,2023,4.915969,crescimento moderado,forte crescimento
+3520608,Indiana,SP,2023,10.645936,forte crescimento,forte crescimento
+3520707,Indiaporã,SP,2023,37.749321,forte crescimento,forte crescimento
+3520806,Inúbia Paulista,SP,2023,10.101462,forte crescimento,forte crescimento
+3520905,Ipaussu,SP,2023,16.161582,forte crescimento,forte crescimento
+3521002,Iperó,SP,2023,13.160831,forte crescimento,forte crescimento
+3521101,Ipeúna,SP,2023,7.119708,forte crescimento,forte retração
+3521150,Ipiguá,SP,2023,18.165536,forte crescimento,forte crescimento
+3521200,Iporanga,SP,2023,8.180569,forte crescimento,forte crescimento
+3521309,Ipuã,SP,2023,16.353387,forte crescimento,forte crescimento
+3521408,Iracemápolis,SP,2023,13.490472,forte crescimento,forte crescimento
+3521507,Irapuã,SP,2023,41.501023,forte crescimento,retração
+3521606,Irapuru,SP,2023,22.516691,forte crescimento,forte crescimento
+3521705,Itaberá,SP,2023,-12.17226,forte retração,retração
+3521804,Itaí,SP,2023,8.592679,forte crescimento,retração
+3521903,Itajobi,SP,2023,22.820868,forte crescimento,forte retração
+3522000,Itaju,SP,2023,-8.911328,forte retração,forte retração
+3522109,Itanhaém,SP,2023,13.209135,forte crescimento,forte crescimento
+3522158,Itaoca,SP,2023,20.213627,forte crescimento,forte crescimento
+3522208,Itapecerica da Serra,SP,2023,17.804522,forte crescimento,crescimento moderado
+3522307,Itapetininga,SP,2023,9.837827,forte crescimento,forte crescimento
+3522406,Itapeva,SP,2023,8.620017,forte crescimento,forte crescimento
+3522505,Itapevi,SP,2023,3.980993,crescimento moderado,crescimento moderado
+3522604,Itapira,SP,2023,15.803288,forte crescimento,forte crescimento
+3522653,Itapirapuã Paulista,SP,2023,22.149169,forte crescimento,forte crescimento
+3522703,Itápolis,SP,2023,27.970143,forte crescimento,forte crescimento
+3522802,Itaporanga,SP,2023,11.133864,forte crescimento,forte crescimento
+3522901,Itapuí,SP,2023,6.112867,forte crescimento,forte retração
+3523008,Itapura,SP,2023,53.486969,forte crescimento,retração
+3523107,Itaquaquecetuba,SP,2023,11.376424,forte crescimento,crescimento moderado
+3523206,Itararé,SP,2023,7.827904,forte crescimento,forte crescimento
+3523305,Itariri,SP,2023,22.468708,forte crescimento,forte crescimento
+3523404,Itatiba,SP,2023,14.33345,forte crescimento,forte crescimento
+3523503,Itatinga,SP,2023,39.141542,forte crescimento,forte crescimento
+3523602,Itirapina,SP,2023,-9.503278,forte retração,forte crescimento
+3523701,Itirapuã,SP,2023,1.119731,crescimento moderado,forte retração
+3523800,Itobi,SP,2023,0.115307,estabilidade,forte retração
+3523909,Itu,SP,2023,18.921699,forte crescimento,forte crescimento
+3524006,Itupeva,SP,2023,11.074446,forte crescimento,forte crescimento
+3524105,Ituverava,SP,2023,0.45631,estabilidade,forte crescimento
+3524204,Jaborandi,SP,2023,41.275775,forte crescimento,retração
+3524303,Jaboticabal,SP,2023,7.200005,forte crescimento,forte crescimento
+3524402,Jacareí,SP,2023,10.872535,forte crescimento,crescimento moderado
+3524501,Jaci,SP,2023,23.430643,forte crescimento,forte retração
+3524600,Jacupiranga,SP,2023,20.584428,forte crescimento,forte crescimento
+3524709,Jaguariúna,SP,2023,5.387979,forte crescimento,forte crescimento
+3524808,Jales,SP,2023,8.60584,forte crescimento,forte crescimento
+3524907,Jambeiro,SP,2023,24.869969,forte crescimento,forte crescimento
+3525003,Jandira,SP,2023,-3.571058,retração,retração
+3525102,Jardinópolis,SP,2023,24.075343,forte crescimento,forte crescimento
+3525201,Jarinu,SP,2023,9.259079,forte crescimento,forte crescimento
+3525300,Jaú,SP,2023,4.713741,crescimento moderado,forte crescimento
+3525409,Jeriquara,SP,2023,101.659422,forte crescimento,forte retração
+3525508,Joanópolis,SP,2023,17.656073,forte crescimento,forte crescimento
+3525607,João Ramalho,SP,2023,57.048639,forte crescimento,retração
+3525706,José Bonifácio,SP,2023,18.176698,forte crescimento,forte crescimento
+3525805,Júlio Mesquita,SP,2023,22.089022,forte crescimento,forte crescimento
+3525854,Jumirim,SP,2023,21.035981,forte crescimento,forte retração
+3525904,Jundiaí,SP,2023,2.478967,crescimento moderado,forte crescimento
+3526001,Junqueirópolis,SP,2023,7.068525,forte crescimento,forte crescimento
+3526100,Juquiá,SP,2023,17.584988,forte crescimento,forte crescimento
+3526209,Juquitiba,SP,2023,6.007357,forte crescimento,forte crescimento
+3526308,Lagoinha,SP,2023,22.179383,forte crescimento,crescimento moderado
+3526407,Laranjal Paulista,SP,2023,10.921638,forte crescimento,forte crescimento
+3526506,Lavínia,SP,2023,45.387088,forte crescimento,retração
+3526605,Lavrinhas,SP,2023,10.186558,forte crescimento,forte crescimento
+3526704,Leme,SP,2023,-3.907205,retração,forte crescimento
+3526803,Lençóis Paulista,SP,2023,11.616752,forte crescimento,forte crescimento
+3526902,Limeira,SP,2023,9.426698,forte crescimento,forte crescimento
+3527009,Lindóia,SP,2023,25.87998,forte crescimento,forte retração
+3527108,Lins,SP,2023,-2.691371,retração,forte retração
+3527207,Lorena,SP,2023,7.874288,forte crescimento,crescimento moderado
+3527256,Lourdes,SP,2023,27.06136,forte crescimento,forte crescimento
+3527306,Louveira,SP,2023,4.742854,crescimento moderado,forte crescimento
+3527405,Lucélia,SP,2023,10.719569,forte crescimento,forte crescimento
+3527504,Lucianópolis,SP,2023,88.286313,forte crescimento,retração
+3527603,Luís Antônio,SP,2023,31.570922,forte crescimento,forte retração
+3527702,Luiziânia,SP,2023,23.080609,forte crescimento,forte crescimento
+3527801,Lupércio,SP,2023,19.066939,forte crescimento,forte crescimento
+3527900,Lutécia,SP,2023,34.794625,forte crescimento,forte retração
+3528007,Macatuba,SP,2023,8.688045,forte crescimento,forte crescimento
+3528106,Macaubal,SP,2023,13.897299,forte crescimento,forte crescimento
+3528205,Macedônia,SP,2023,32.092098,forte crescimento,retração
+3528304,Magda,SP,2023,39.481288,forte crescimento,forte retração
+3528403,Mairinque,SP,2023,11.849266,forte crescimento,forte crescimento
+3528502,Mairiporã,SP,2023,11.391954,forte crescimento,crescimento moderado
+3528601,Manduri,SP,2023,16.270848,forte crescimento,forte crescimento
+3528700,Marabá Paulista,SP,2023,44.165273,forte crescimento,retração
+3528809,Maracaí,SP,2023,9.07039,forte crescimento,forte retração
+3528858,Marapoama,SP,2023,31.882772,forte crescimento,forte crescimento
+3528908,Mariápolis,SP,2023,29.108986,forte crescimento,retração
+3529005,Marília,SP,2023,13.496444,forte crescimento,forte crescimento
+3529104,Marinópolis,SP,2023,32.654335,forte crescimento,forte crescimento
+3529203,Martinópolis,SP,2023,23.915179,forte crescimento,forte crescimento
+3529302,Matão,SP,2023,23.577862,forte crescimento,forte crescimento
+3529401,Mauá,SP,2023,3.688169,crescimento moderado,forte retração
+3529500,Mendonça,SP,2023,25.1197,forte crescimento,forte retração
+3529609,Meridiano,SP,2023,9.505791,forte crescimento,forte retração
+3529658,Mesópolis,SP,2023,37.385742,forte crescimento,forte retração
+3529708,Miguelópolis,SP,2023,3.090536,crescimento moderado,forte retração
+3529807,Mineiros do Tietê,SP,2023,21.19384,forte crescimento,forte crescimento
+3529906,Miracatu,SP,2023,18.994265,forte crescimento,forte crescimento
+3530003,Mira Estrela,SP,2023,14.798721,forte crescimento,forte crescimento
+3530102,Mirandópolis,SP,2023,24.174635,forte crescimento,forte crescimento
+3530201,Mirante do Paranapanema,SP,2023,11.28333,forte crescimento,forte crescimento
+3530300,Mirassol,SP,2023,10.063377,forte crescimento,forte crescimento
+3530409,Mirassolândia,SP,2023,80.676971,forte crescimento,forte retração
+3530508,Mococa,SP,2023,15.424241,forte crescimento,forte crescimento
+3530607,Mogi das Cruzes,SP,2023,14.842967,forte crescimento,crescimento moderado
+3530706,Mogi Guaçu,SP,2023,15.286764,forte crescimento,forte crescimento
+3530805,Mogi Mirim,SP,2023,10.592844,forte crescimento,forte crescimento
+3530904,Mombuca,SP,2023,21.260409,forte crescimento,forte retração
+3531001,Monções,SP,2023,22.622311,forte crescimento,forte crescimento
+3531100,Mongaguá,SP,2023,9.986955,forte crescimento,estabilidade
+3531209,Monte Alegre do Sul,SP,2023,6.90797,forte crescimento,retração
+3531308,Monte Alto,SP,2023,8.387071,forte crescimento,forte crescimento
+3531407,Monte Aprazível,SP,2023,17.926527,forte crescimento,forte crescimento
+3531506,Monte Azul Paulista,SP,2023,18.713987,forte crescimento,forte crescimento
+3531605,Monte Castelo,SP,2023,23.698994,forte crescimento,retração
+3531704,Monteiro Lobato,SP,2023,25.958206,forte crescimento,crescimento moderado
+3531803,Monte Mor,SP,2023,27.32744,forte crescimento,forte crescimento
+3531902,Morro Agudo,SP,2023,35.644223,forte crescimento,forte crescimento
+3532009,Morungaba,SP,2023,7.99251,forte crescimento,forte retração
+3532058,Motuca,SP,2023,29.492026,forte crescimento,forte retração
+3532108,Murutinga do Sul,SP,2023,35.617224,forte crescimento,forte crescimento
+3532157,Nantes,SP,2023,20.849586,forte crescimento,forte crescimento
+3532207,Narandiba,SP,2023,20.863561,forte crescimento,forte retração
+3532306,Natividade da Serra,SP,2023,32.118596,forte crescimento,crescimento moderado
+3532405,Nazaré Paulista,SP,2023,17.884003,forte crescimento,forte crescimento
+3532504,Neves Paulista,SP,2023,22.882467,forte crescimento,forte crescimento
+3532603,Nhandeara,SP,2023,16.187822,forte crescimento,forte crescimento
+3532702,Nipoã,SP,2023,41.606787,forte crescimento,forte crescimento
+3532801,Nova Aliança,SP,2023,-6.288815,forte retração,forte retração
+3532827,Nova Campina,SP,2023,13.412719,forte crescimento,forte crescimento
+3532843,Nova Canaã Paulista,SP,2023,24.046173,forte crescimento,retração
+3532868,Nova Castilho,SP,2023,44.028771,forte crescimento,forte retração
+3532900,Nova Europa,SP,2023,29.218004,forte crescimento,forte retração
+3533007,Nova Granada,SP,2023,23.387434,forte crescimento,forte crescimento
+3533106,Nova Guataporanga,SP,2023,22.852415,forte crescimento,forte crescimento
+3533205,Nova Independência,SP,2023,37.504558,forte crescimento,forte retração
+3533254,Novais,SP,2023,28.668415,forte crescimento,forte crescimento
+3533304,Nova Luzitânia,SP,2023,17.284513,forte crescimento,forte crescimento
+3533403,Nova Odessa,SP,2023,21.486758,forte crescimento,estabilidade
+3533502,Novo Horizonte,SP,2023,27.013568,forte crescimento,forte crescimento
+3533601,Nuporanga,SP,2023,23.097132,forte crescimento,forte retração
+3533700,Ocauçu,SP,2023,27.131052,forte crescimento,forte crescimento
+3533809,Óleo,SP,2023,17.419205,forte crescimento,forte retração
+3533908,Olímpia,SP,2023,14.173331,forte crescimento,forte crescimento
+3534005,Onda Verde,SP,2023,49.963758,forte crescimento,forte retração
+3534104,Oriente,SP,2023,30.995326,forte crescimento,forte crescimento
+3534203,Orindiúva,SP,2023,19.004171,forte crescimento,forte retração
+3534302,Orlândia,SP,2023,13.373872,forte crescimento,forte crescimento
+3534401,Osasco,SP,2023,6.472159,forte crescimento,crescimento moderado
+3534500,Oscar Bressane,SP,2023,17.929308,forte crescimento,forte retração
+3534609,Osvaldo Cruz,SP,2023,31.165423,forte crescimento,forte crescimento
+3534708,Ourinhos,SP,2023,9.845698,forte crescimento,forte crescimento
+3534757,Ouroeste,SP,2023,10.203072,forte crescimento,forte crescimento
+3534807,Ouro Verde,SP,2023,30.262972,forte crescimento,forte crescimento
+3534906,Pacaembu,SP,2023,16.65377,forte crescimento,forte crescimento
+3535002,Palestina,SP,2023,29.225754,forte crescimento,forte crescimento
+3535101,Palmares Paulista,SP,2023,32.594292,forte crescimento,forte crescimento
+3535200,Palmeira d'Oeste,SP,2023,33.436867,forte crescimento,forte crescimento
+3535309,Palmital,SP,2023,11.842525,forte crescimento,forte crescimento
+3535408,Panorama,SP,2023,15.769395,forte crescimento,forte crescimento
+3535507,Paraguaçu Paulista,SP,2023,18.090157,forte crescimento,forte crescimento
+3535606,Paraibuna,SP,2023,12.002464,forte crescimento,crescimento moderado
+3535705,Paraíso,SP,2023,27.689108,forte crescimento,forte retração
+3535804,Paranapanema,SP,2023,7.718209,forte crescimento,forte crescimento
+3535903,Paranapuã,SP,2023,18.13266,forte crescimento,forte retração
+3536000,Parapuã,SP,2023,30.463799,forte crescimento,forte retração
+3536109,Pardinho,SP,2023,17.207159,forte crescimento,forte crescimento
+3536208,Pariquera-Açu,SP,2023,13.785428,forte crescimento,forte crescimento
+3536257,Parisi,SP,2023,21.07433,forte crescimento,forte crescimento
+3536307,Patrocínio Paulista,SP,2023,15.641225,forte crescimento,forte retração
+3536406,Paulicéia,SP,2023,26.879925,forte crescimento,forte crescimento
+3536505,Paulínia,SP,2023,-4.864467,retração,forte retração
+3536570,Paulistânia,SP,2023,42.569913,forte crescimento,forte crescimento
+3536604,Paulo de Faria,SP,2023,39.227473,forte crescimento,retração
+3536703,Pederneiras,SP,2023,-3.656103,retração,forte crescimento
+3536802,Pedra Bela,SP,2023,18.221812,forte crescimento,forte crescimento
+3536901,Pedranópolis,SP,2023,38.189404,forte crescimento,retração
+3537008,Pedregulho,SP,2023,42.409483,forte crescimento,forte retração
+3537107,Pedreira,SP,2023,11.042248,forte crescimento,crescimento moderado
+3537156,Pedrinhas Paulista,SP,2023,-12.469897,forte retração,forte crescimento
+3537206,Pedro de Toledo,SP,2023,22.70682,forte crescimento,forte crescimento
+3537305,Penápolis,SP,2023,21.429093,forte crescimento,forte crescimento
+3537404,Pereira Barreto,SP,2023,15.416755,forte crescimento,forte crescimento
+3537503,Pereiras,SP,2023,22.585544,forte crescimento,forte crescimento
+3537602,Peruíbe,SP,2023,-4.22605,retração,forte crescimento
+3537701,Piacatu,SP,2023,36.938491,forte crescimento,forte crescimento
+3537800,Piedade,SP,2023,13.939093,forte crescimento,retração
+3537909,Pilar do Sul,SP,2023,-4.158659,retração,forte crescimento
+3538006,Pindamonhangaba,SP,2023,-0.327102,estabilidade,crescimento moderado
+3538105,Pindorama,SP,2023,26.269049,forte crescimento,forte crescimento
+3538204,Pinhalzinho,SP,2023,17.94672,forte crescimento,forte crescimento
+3538303,Piquerobi,SP,2023,33.647972,forte crescimento,forte crescimento
+3538501,Piquete,SP,2023,7.538982,forte crescimento,forte crescimento
+3538600,Piracaia,SP,2023,12.76972,forte crescimento,forte crescimento
+3538709,Piracicaba,SP,2023,5.440113,forte crescimento,forte crescimento
+3538808,Piraju,SP,2023,11.436474,forte crescimento,forte crescimento
+3538907,Pirajuí,SP,2023,26.683534,forte crescimento,forte crescimento
+3539004,Pirangi,SP,2023,26.856072,forte crescimento,forte crescimento
+3539103,Pirapora do Bom Jesus,SP,2023,-2.813538,retração,forte retração
+3539202,Pirapozinho,SP,2023,14.997999,forte crescimento,forte crescimento
+3539301,Pirassununga,SP,2023,11.950708,forte crescimento,forte crescimento
+3539400,Piratininga,SP,2023,19.60926,forte crescimento,forte crescimento
+3539509,Pitangueiras,SP,2023,11.778109,forte crescimento,forte crescimento
+3539608,Planalto,SP,2023,42.94918,forte crescimento,forte retração
+3539707,Platina,SP,2023,14.758316,forte crescimento,forte retração
+3539806,Poá,SP,2023,14.611847,forte crescimento,estabilidade
+3539905,Poloni,SP,2023,16.200478,forte crescimento,forte crescimento
+3540002,Pompéia,SP,2023,7.900225,forte crescimento,forte crescimento
+3540101,Pongaí,SP,2023,24.562429,forte crescimento,forte crescimento
+3540200,Pontal,SP,2023,29.160255,forte crescimento,forte crescimento
+3540259,Pontalinda,SP,2023,35.637191,forte crescimento,retração
+3540309,Pontes Gestal,SP,2023,32.510659,forte crescimento,forte crescimento
+3540408,Populina,SP,2023,29.692257,forte crescimento,retração
+3540507,Porangaba,SP,2023,18.962009,forte crescimento,retração
+3540606,Porto Feliz,SP,2023,16.575617,forte crescimento,forte crescimento
+3540705,Porto Ferreira,SP,2023,14.060731,forte crescimento,forte crescimento
+3540754,Potim,SP,2023,6.645787,forte crescimento,forte crescimento
+3540804,Potirendaba,SP,2023,37.76746,forte crescimento,forte crescimento
+3540853,Pracinha,SP,2023,21.46014,forte crescimento,forte crescimento
+3540903,Pradópolis,SP,2023,18.928557,forte crescimento,forte retração
+3541000,Praia Grande,SP,2023,14.139017,forte crescimento,crescimento moderado
+3541059,Pratânia,SP,2023,91.036356,forte crescimento,retração
+3541109,Presidente Alves,SP,2023,38.81973,forte crescimento,forte crescimento
+3541208,Presidente Bernardes,SP,2023,4.544314,crescimento moderado,forte crescimento
+3541307,Presidente Epitácio,SP,2023,-3.120477,retração,forte crescimento
+3541406,Presidente Prudente,SP,2023,12.311191,forte crescimento,forte crescimento
+3541505,Presidente Venceslau,SP,2023,20.109155,forte crescimento,forte crescimento
+3541604,Promissão,SP,2023,14.600188,forte crescimento,forte crescimento
+3541653,Quadra,SP,2023,33.619077,forte crescimento,forte retração
+3541703,Quatá,SP,2023,18.475155,forte crescimento,forte crescimento
+3541802,Queiroz,SP,2023,46.587543,forte crescimento,forte retração
+3541901,Queluz,SP,2023,6.76155,forte crescimento,forte crescimento
+3542008,Quintana,SP,2023,13.705873,forte crescimento,forte retração
+3542107,Rafard,SP,2023,9.389735,forte crescimento,forte retração
+3542206,Rancharia,SP,2023,15.936746,forte crescimento,forte crescimento
+3542305,Redenção da Serra,SP,2023,48.615793,forte crescimento,crescimento moderado
+3542404,Regente Feijó,SP,2023,15.18457,forte crescimento,forte crescimento
+3542503,Reginópolis,SP,2023,36.728169,forte crescimento,retração
+3542602,Registro,SP,2023,7.518991,forte crescimento,forte crescimento
+3542701,Restinga,SP,2023,23.130519,forte crescimento,forte retração
+3542800,Ribeira,SP,2023,10.192572,forte crescimento,forte crescimento
+3542909,Ribeirão Bonito,SP,2023,19.737211,forte crescimento,forte crescimento
+3543006,Ribeirão Branco,SP,2023,43.975252,forte crescimento,retração
+3543105,Ribeirão Corrente,SP,2023,33.398832,forte crescimento,forte retração
+3543204,Ribeirão do Sul,SP,2023,10.482183,forte crescimento,forte retração
+3543238,Ribeirão dos Índios,SP,2023,24.04587,forte crescimento,forte crescimento
+3543253,Ribeirão Grande,SP,2023,11.634432,forte crescimento,forte crescimento
+3543303,Ribeirão Pires,SP,2023,4.019616,crescimento moderado,crescimento moderado
+3543402,Ribeirão Preto,SP,2023,10.27163,forte crescimento,forte crescimento
+3543501,Riversul,SP,2023,15.905228,forte crescimento,forte crescimento
+3543600,Rifaina,SP,2023,12.360321,forte crescimento,forte retração
+3543709,Rincão,SP,2023,37.20651,forte crescimento,forte crescimento
+3543808,Rinópolis,SP,2023,27.822494,forte crescimento,retração
+3543907,Rio Claro,SP,2023,11.164957,forte crescimento,forte crescimento
+3544004,Rio das Pedras,SP,2023,-4.102246,retração,forte crescimento
+3544103,Rio Grande da Serra,SP,2023,12.427999,forte crescimento,forte crescimento
+3544202,Riolândia,SP,2023,24.635,forte crescimento,retração
+3544251,Rosana,SP,2023,-5.436756,forte retração,forte retração
+3544301,Roseira,SP,2023,8.212879,forte crescimento,forte crescimento
+3544400,Rubiácea,SP,2023,27.707526,forte crescimento,retração
+3544509,Rubinéia,SP,2023,34.778363,forte crescimento,forte retração
+3544608,Sabino,SP,2023,9.327466,forte crescimento,retração
+3544707,Sagres,SP,2023,32.074453,forte crescimento,forte crescimento
+3544806,Sales,SP,2023,30.927283,forte crescimento,forte crescimento
+3544905,Sales Oliveira,SP,2023,11.601401,forte crescimento,forte crescimento
+3545001,Salesópolis,SP,2023,14.525857,forte crescimento,crescimento moderado
+3545100,Salmourão,SP,2023,23.65078,forte crescimento,forte crescimento
+3545159,Saltinho,SP,2023,9.119597,forte crescimento,forte crescimento
+3545209,Salto,SP,2023,6.253905,forte crescimento,forte crescimento
+3545308,Salto de Pirapora,SP,2023,7.421862,forte crescimento,forte retração
+3545407,Salto Grande,SP,2023,23.127843,forte crescimento,forte crescimento
+3545506,Sandovalina,SP,2023,20.317292,forte crescimento,forte retração
+3545605,Santa Adélia,SP,2023,21.092447,forte crescimento,forte crescimento
+3545704,Santa Albertina,SP,2023,20.212888,forte crescimento,forte crescimento
+3545803,Santa Bárbara d'Oeste,SP,2023,14.480338,forte crescimento,forte crescimento
+3546009,Santa Branca,SP,2023,10.602191,forte crescimento,crescimento moderado
+3546108,Santa Clara d'Oeste,SP,2023,29.233787,forte crescimento,forte retração
+3546207,Santa Cruz da Conceição,SP,2023,15.685398,forte crescimento,forte crescimento
+3546256,Santa Cruz da Esperança,SP,2023,64.065478,forte crescimento,forte crescimento
+3546306,Santa Cruz das Palmeiras,SP,2023,9.083412,forte crescimento,forte crescimento
+3546405,Santa Cruz do Rio Pardo,SP,2023,25.38799,forte crescimento,forte crescimento
+3546504,Santa Ernestina,SP,2023,24.39438,forte crescimento,forte crescimento
+3546603,Santa Fé do Sul,SP,2023,18.289728,forte crescimento,forte crescimento
+3546702,Santa Gertrudes,SP,2023,1.70504,crescimento moderado,forte retração
+3546801,Santa Isabel,SP,2023,17.983152,forte crescimento,crescimento moderado
+3546900,Santa Lúcia,SP,2023,30.80378,forte crescimento,estabilidade
+3547007,Santa Maria da Serra,SP,2023,20.481423,forte crescimento,forte crescimento
+3547106,Santa Mercedes,SP,2023,31.555143,forte crescimento,forte crescimento
+3547205,Santana da Ponte Pensa,SP,2023,24.513552,forte crescimento,forte crescimento
+3547304,Santana de Parnaíba,SP,2023,12.165605,forte crescimento,crescimento moderado
+3547403,Santa Rita d'Oeste,SP,2023,27.420649,forte crescimento,forte crescimento
+3547502,Santa Rita do Passa Quatro,SP,2023,13.420863,forte crescimento,forte crescimento
+3547601,Santa Rosa de Viterbo,SP,2023,27.065647,forte crescimento,forte crescimento
+3547650,Santa Salete,SP,2023,49.50302,forte crescimento,forte crescimento
+3547700,Santo Anastácio,SP,2023,9.011156,forte crescimento,forte crescimento
+3547809,Santo André,SP,2023,1.264935,crescimento moderado,crescimento moderado
+3547908,Santo Antônio da Alegria,SP,2023,40.279386,forte crescimento,retração
+3548005,Santo Antônio de Posse,SP,2023,10.240943,forte crescimento,forte crescimento
+3548054,Santo Antônio do Aracanguá,SP,2023,29.851048,forte crescimento,retração
+3548104,Santo Antônio do Jardim,SP,2023,-7.3934,forte retração,forte retração
+3548203,Santo Antônio do Pinhal,SP,2023,20.111033,forte crescimento,forte crescimento
+3548302,Santo Expedito,SP,2023,11.973099,forte crescimento,forte crescimento
+3548401,Santópolis do Aguapeí,SP,2023,12.305346,forte crescimento,forte crescimento
+3548500,Santos,SP,2023,12.543634,forte crescimento,crescimento moderado
+3548609,São Bento do Sapucaí,SP,2023,15.950521,forte crescimento,forte crescimento
+3548708,São Bernardo do Campo,SP,2023,9.616384,forte crescimento,retração
+3548807,São Caetano do Sul,SP,2023,24.411821,forte crescimento,retração
+3548906,São Carlos,SP,2023,17.86759,forte crescimento,forte crescimento
+3549003,São Francisco,SP,2023,18.625522,forte crescimento,forte crescimento
+3549102,São João da Boa Vista,SP,2023,6.993559,forte crescimento,forte crescimento
+3549201,São João das Duas Pontes,SP,2023,30.033898,forte crescimento,forte crescimento
+3549250,São João de Iracema,SP,2023,31.808385,forte crescimento,retração
+3549300,São João do Pau d'Alho,SP,2023,29.939565,forte crescimento,forte retração
+3549409,São Joaquim da Barra,SP,2023,9.97218,forte crescimento,forte crescimento
+3549508,São José da Bela Vista,SP,2023,19.464046,forte crescimento,forte retração
+3549607,São José do Barreiro,SP,2023,20.683022,forte crescimento,forte crescimento
+3549706,São José do Rio Pardo,SP,2023,9.833862,forte crescimento,forte crescimento
+3549805,São José do Rio Preto,SP,2023,10.884508,forte crescimento,forte crescimento
+3549904,São José dos Campos,SP,2023,8.368789,forte crescimento,crescimento moderado
+3549953,São Lourenço da Serra,SP,2023,14.763787,forte crescimento,forte crescimento
+3550001,São Luiz do Paraitinga,SP,2023,14.506033,forte crescimento,forte crescimento
+3550100,São Manuel,SP,2023,27.484811,forte crescimento,forte crescimento
+3550209,São Miguel Arcanjo,SP,2023,22.914028,forte crescimento,retração
+3550308,São Paulo,SP,2023,12.77859,forte crescimento,crescimento moderado
+3550407,São Pedro,SP,2023,21.465507,forte crescimento,forte crescimento
+3550506,São Pedro do Turvo,SP,2023,67.528757,forte crescimento,retração
+3550605,São Roque,SP,2023,16.213429,forte crescimento,forte crescimento
+3550704,São Sebastião,SP,2023,-7.80399,forte retração,forte retração
+3550803,São Sebastião da Grama,SP,2023,27.120187,forte crescimento,retração
+3550902,São Simão,SP,2023,21.8258,forte crescimento,forte crescimento
+3551009,São Vicente,SP,2023,9.906994,forte crescimento,crescimento moderado
+3551108,Sarapuí,SP,2023,18.008592,forte crescimento,forte crescimento
+3551207,Sarutaiá,SP,2023,23.740375,forte crescimento,forte retração
+3551306,Sebastianópolis do Sul,SP,2023,6.960152,forte crescimento,forte retração
+3551405,Serra Azul,SP,2023,41.382213,forte crescimento,forte crescimento
+3551504,Serrana,SP,2023,6.445455,forte crescimento,forte crescimento
+3551603,Serra Negra,SP,2023,14.285467,forte crescimento,forte crescimento
+3551702,Sertãozinho,SP,2023,12.063983,forte crescimento,forte crescimento
+3551801,Sete Barras,SP,2023,27.119121,forte crescimento,retração
+3551900,Severínia,SP,2023,8.306294,forte crescimento,forte crescimento
+3552007,Silveiras,SP,2023,14.741216,forte crescimento,crescimento moderado
+3552106,Socorro,SP,2023,14.200487,forte crescimento,forte crescimento
+3552205,Sorocaba,SP,2023,7.988278,forte crescimento,crescimento moderado
+3552304,Sud Mennucci,SP,2023,43.947769,forte crescimento,forte crescimento
+3552403,Sumaré,SP,2023,7.169826,forte crescimento,forte crescimento
+3552502,Suzano,SP,2023,10.390679,forte crescimento,estabilidade
+3552551,Suzanápolis,SP,2023,32.483028,forte crescimento,forte retração
+3552601,Tabapuã,SP,2023,30.447267,forte crescimento,forte crescimento
+3552700,Tabatinga,SP,2023,36.06207,forte crescimento,forte crescimento
+3552809,Taboão da Serra,SP,2023,10.100134,forte crescimento,crescimento moderado
+3552908,Taciba,SP,2023,21.575669,forte crescimento,retração
+3553005,Taguaí,SP,2023,4.556267,crescimento moderado,forte crescimento
+3553104,Taiaçu,SP,2023,28.399213,forte crescimento,forte crescimento
+3553203,Taiúva,SP,2023,24.312483,forte crescimento,forte crescimento
+3553302,Tambaú,SP,2023,14.578812,forte crescimento,forte crescimento
+3553401,Tanabi,SP,2023,13.029333,forte crescimento,forte crescimento
+3553500,Tapiraí,SP,2023,16.796653,forte crescimento,forte retração
+3553609,Tapiratiba,SP,2023,21.658813,forte crescimento,forte crescimento
+3553658,Taquaral,SP,2023,67.257993,forte crescimento,forte crescimento
+3553708,Taquaritinga,SP,2023,19.504422,forte crescimento,forte crescimento
+3553807,Taquarituba,SP,2023,4.177513,crescimento moderado,forte crescimento
+3553856,Taquarivaí,SP,2023,-4.61753,retração,forte retração
+3553906,Tarabai,SP,2023,10.027441,forte crescimento,forte crescimento
+3553955,Tarumã,SP,2023,25.511026,forte crescimento,forte crescimento
+3554003,Tatuí,SP,2023,13.485791,forte crescimento,forte crescimento
+3554102,Taubaté,SP,2023,22.452349,forte crescimento,crescimento moderado
+3554201,Tejupá,SP,2023,173.374108,forte crescimento,forte retração
+3554300,Teodoro Sampaio,SP,2023,21.204546,forte crescimento,forte crescimento
+3554409,Terra Roxa,SP,2023,30.227796,forte crescimento,forte crescimento
+3554508,Tietê,SP,2023,19.471048,forte crescimento,forte crescimento
+3554607,Timburi,SP,2023,27.906181,forte crescimento,retração
+3554656,Torre de Pedra,SP,2023,16.609021,forte crescimento,forte crescimento
+3554706,Torrinha,SP,2023,18.595669,forte crescimento,forte crescimento
+3554755,Trabiju,SP,2023,26.69132,forte crescimento,forte crescimento
+3554805,Tremembé,SP,2023,6.687222,forte crescimento,forte crescimento
+3554904,Três Fronteiras,SP,2023,18.937066,forte crescimento,forte crescimento
+3554953,Tuiuti,SP,2023,23.861819,forte crescimento,forte crescimento
+3555000,Tupã,SP,2023,24.646155,forte crescimento,forte crescimento
+3555109,Tupi Paulista,SP,2023,18.898659,forte crescimento,forte crescimento
+3555208,Turiúba,SP,2023,43.588372,forte crescimento,retração
+3555307,Turmalina,SP,2023,38.091302,forte crescimento,forte retração
+3555356,Ubarana,SP,2023,29.482763,forte crescimento,forte crescimento
+3555406,Ubatuba,SP,2023,8.945246,forte crescimento,forte crescimento
+3555505,Ubirajara,SP,2023,62.37678,forte crescimento,forte crescimento
+3555604,Uchoa,SP,2023,27.719322,forte crescimento,forte crescimento
+3555703,União Paulista,SP,2023,12.502539,forte crescimento,forte retração
+3555802,Urânia,SP,2023,16.933777,forte crescimento,retração
+3555901,Uru,SP,2023,30.457299,forte crescimento,forte crescimento
+3556008,Urupês,SP,2023,17.719698,forte crescimento,forte crescimento
+3556107,Valentim Gentil,SP,2023,23.109022,forte crescimento,forte crescimento
+3556206,Valinhos,SP,2023,10.159063,forte crescimento,forte crescimento
+3556305,Valparaíso,SP,2023,6.621223,forte crescimento,forte crescimento
+3556354,Vargem,SP,2023,21.295038,forte crescimento,forte crescimento
+3556404,Vargem Grande do Sul,SP,2023,5.478511,forte crescimento,forte crescimento
+3556453,Vargem Grande Paulista,SP,2023,7.89808,forte crescimento,retração
+3556503,Várzea Paulista,SP,2023,9.14783,forte crescimento,forte retração
+3556602,Vera Cruz,SP,2023,9.108823,forte crescimento,forte crescimento
+3556701,Vinhedo,SP,2023,4.540256,crescimento moderado,forte crescimento
+3556800,Viradouro,SP,2023,10.107841,forte crescimento,forte crescimento
+3556909,Vista Alegre do Alto,SP,2023,28.879609,forte crescimento,forte retração
+3556958,Vitória Brasil,SP,2023,34.817247,forte crescimento,forte crescimento
+3557006,Votorantim,SP,2023,15.285338,forte crescimento,forte crescimento
+3557105,Votuporanga,SP,2023,10.730721,forte crescimento,forte crescimento
+3557154,Zacarias,SP,2023,21.06385,forte crescimento,forte retração
+3557204,Chavantes,SP,2023,25.672691,forte crescimento,forte crescimento
+3557303,Estiva Gerbi,SP,2023,19.67959,forte crescimento,forte crescimento

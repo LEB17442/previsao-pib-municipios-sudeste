@@ -21,3 +21,13 @@ python -m venv .venv
 ## Validação temporal
 
 O ajuste para a validação usa anos-alvo até 2022. A comparação com o PIB oficial de 2023 usa R² e MAPE. A regressão com menor MAPE é reajustada com dados até 2023 e produz uma previsão para cada um dos 1.668 municípios. Os cortes são por ano de referência e a análise é retrospectiva.
+
+## Classificação — Amanda
+
+Após preparar `data/processed/base_modelagem.csv`, execute na raiz:
+
+```bash
+python classificacao_logistica.py
+```
+
+Ou execute `notebooks/05_classificacao_logistica.ipynb`. A avaliação usa treino até 2022 e teste em 2023; o ajuste final até 2023 gera `outputs/classificacao_logistica_2024.csv`. F1 por classe, macro e ponderado ficam em `outputs/metricas_logistica.csv`, e a matriz em `outputs/matriz_confusao_logistica_2023.csv`. Critérios e análise: `docs/contribuicao_classificacao_logistica.md`.
