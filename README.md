@@ -2,6 +2,24 @@
 
 Projeto de Aprendizado de Máquina para prever o PIB municipal e a categoria de crescimento em 2024 nos estados de Espírito Santo, Minas Gerais, Rio de Janeiro e São Paulo.
 
+## Entregas
+
+| Entrega | Onde está |
+| --- | --- |
+| **Previsões de 2024** (PIB e categoria de crescimento, 1.668 municípios) | `outputs/previsoes_finais_2024.csv` |
+| Dataset tratado usado no treinamento | `data/processed/base_modelagem.csv` |
+| Descrição das variáveis, dos alvos e das previsões; instruções de download | `docs/dados_tratados_e_previsoes.md` |
+| Fontes e campos da base bruta | `docs/dicionario_dados.md` |
+| Notebooks, na ordem de execução | `notebooks/01_coleta.ipynb` a `notebooks/06_classificacao_rf.ipynb` |
+| Métricas de 2023 e comparação dos modelos | `outputs/metricas_*.csv`, `outputs/comparacao_*_2023.csv` |
+
+| Abordagem | Modelos | Métricas (teste em 2023) |
+| --- | --- | --- |
+| Regressão | Regressão Linear (`03`), Random Forest Regressor (`04`) | R² e MAPE |
+| Classificação | Regressão Logística (`05`), Random Forest Classifier (`06`) | F1-score e matriz de confusão |
+
+Todos os modelos treinam com dados até 2022, são avaliados contra o PIB oficial de 2023 e depois são reajustados com dados até 2023 para prever 2024.
+
 ## Ambiente inicial
 
 Na raiz do projeto, execute no PowerShell com Python 3.10 ou superior:
@@ -12,11 +30,23 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m jupyter lab
 ```
 
+No macOS ou Linux:
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m jupyter lab
+```
+
+Os arquivos de dados e de resultados já estão no repositório; executar os notebooks os regenera.
+
 ## Coleta e integração
 
 1. Execute todas as células de `notebooks/01_coleta.ipynb` para baixar o PIB do IBGE e gerar `data/raw/base_integrada.csv`.
 2. Na raiz, execute `.\.venv\Scripts\python.exe integrar_sidra.py`. Use o arquivo gerado `data/raw/base_integrada_sidra.csv` como entrada do pré-processamento. Consulte `docs/dicionario_dados.md` para as fontes, unidades e lacunas.
-3. Execute todas as células de `notebooks/03_regressao_linear.ipynb`. O notebook chama `comparar_regressoes.py`, mostra as métricas e gera `outputs/regressao_linear_2024_selecionada.csv`, arquivo da regressão linear para a consolidação do grupo.
+3. Execute todas as células de `notebooks/02_eda_preprocessamento.ipynb` (ou `python preprocessamento.py`) para a análise exploratória e para gerar `data/processed/base_modelagem.csv`, a base tratada usada por todos os modelos.
+4. Execute todas as células de `notebooks/03_regressao_linear.ipynb`. O notebook chama `comparar_regressoes.py`, mostra as métricas e gera `outputs/regressao_linear_2024_selecionada.csv`, arquivo da regressão linear para a consolidação do grupo.
+5. Execute todas as células de `notebooks/04_random_forest_regressao.ipynb` para escolher os hiperparâmetros (validação em 2022), avaliar em 2023 e gerar `outputs/regressao_rf_2024.csv` e `outputs/metricas_rf_regressao.csv`.
 
 ## Validação temporal
 
@@ -47,8 +77,4 @@ Ou execute `notebooks/06_classificacao_rf.ipynb` (cerca de 2 minutos). O classif
 
 ## Relatório
 
-O texto-fonte é `relatorio/relatorio_final.md`. Para regenerar `relatorio/relatorio_final.pdf` (requer pandoc e Google Chrome):
-
-```bash
-relatorio/gerar_pdf.sh
-```
+O relatório técnico final é editado no Overleaf e entregue em PDF. As figuras usadas nele estão em `outputs/figuras/`.
