@@ -1,0 +1,21 @@
+@page { size: A4; margin: 2cm 2cm 2cm 2cm; }
+body { font-family: "Times New Roman", Times, serif; font-size: 11.5pt; line-height: 1.4; color: #111; max-width: none; margin: 0; }
+header { text-align: center; margin-bottom: 1.5em; }
+h1.title { font-size: 18pt; margin-bottom: .2em; }
+p.subtitle { font-size: 13pt; margin: .2em 0; }
+p.author { font-style: italic; }
+h1 { font-size: 14pt; margin-top: 1.2em; border-bottom: 1px solid #999; padding-bottom: .1em; }
+h2 { font-size: 12pt; margin-top: 1em; }
+p { text-align: justify; margin: .45em 0; }
+table { border-collapse: collapse; margin: .8em auto; font-size: 10pt; }
+th, td { border: 1px solid #aaa; padding: 3px 7px; }
+th { background: #eef2f6; }
+figure { margin: 1em 0; text-align: center; break-inside: avoid; }
+figure img { max-width: 100%; }
+figcaption { font-size: 10pt; margin-top: .3em; }
+figcaption::before { content: "Figura " counter(fig) ". "; font-weight: bold; }
+body { counter-reset: fig; }
+figure { counter-increment: fig; }
+blockquote { margin: .6em 0; padding: .4em .8em; background: #fff7e0; border-left: 3px solid #e0a800; font-size: 10pt; }
+code { font-size: 9.5pt; }
+table, tr { break-inside: avoid; }
