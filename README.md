@@ -45,7 +45,7 @@ Os arquivos de dados e de resultados já estão no repositório; executar os not
 1. Execute todas as células de `notebooks/01_coleta.ipynb` para baixar o PIB do IBGE e gerar `data/raw/base_integrada.csv`.
 2. Na raiz, execute `.\.venv\Scripts\python.exe integrar_sidra.py`. Use o arquivo gerado `data/raw/base_integrada_sidra.csv` como entrada do pré-processamento. Consulte `docs/dicionario_dados.md` para as fontes, unidades e lacunas.
 3. Execute todas as células de `notebooks/02_eda_preprocessamento.ipynb` (ou `python preprocessamento.py`) para a análise exploratória e para gerar `data/processed/base_modelagem.csv`, a base tratada usada por todos os modelos.
-4. Execute todas as células de `notebooks/03_regressao_linear.ipynb`. O notebook chama `comparar_regressoes.py`, mostra as métricas e gera `outputs/regressao_linear_2024_selecionada.csv`, arquivo da regressão linear para a consolidação do grupo.
+4. Execute todas as células de `notebooks/03_regressao_linear.ipynb`. O notebook chama `comparar_regressoes.py`, publica as métricas em `outputs/metricas_regressao_linear.csv`, usadas automaticamente na consolidação, e gera `outputs/regressao_linear_2024_selecionada.csv`, arquivo da regressão linear para a consolidação do grupo.
 5. Execute todas as células de `notebooks/04_random_forest_regressao.ipynb` para escolher os hiperparâmetros (validação em 2022), avaliar em 2023 e gerar `outputs/regressao_rf_2024.csv` e `outputs/metricas_rf_regressao.csv`.
 
 ## Validação temporal

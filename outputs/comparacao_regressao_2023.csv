@@ -1,4 +1,4 @@
 modelo,R2,MAPE_%
-Regressão Linear,0.995463,13.210000
+Regressão Linear,0.995504,17.935693
 Random Forest Regressor,0.998480,8.997944
 Referência (PIB_2023 = PIB_2022),0.987439,13.466130

@@ -24,9 +24,6 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / 'outputs'
 N_MUNICIPIOS = 1668
 
-# A regressão linear (Lulu) não publica CSV de métricas; os valores abaixo são os
-# impressos por `comparar_regressoes.py` e registrados em docs/contribuicao_regressao_linear.md.
-METRICAS_LINEAR_2023 = {'R2': 0.995463, 'MAPE_%': 13.21}
 
 CLASSIFICADORES = {
     'Regressão Logística': OUT / 'classificacao_logistica_2023.csv',
@@ -73,9 +70,12 @@ def comparar_classificadores():
 
 
 def comparar_regressoes():
+    linear = pd.read_csv(OUT / 'metricas_regressao_linear.csv')
+    selecionada = linear.loc[linear.selecionado]
+    assert len(selecionada) == 1, 'Esperada uma regressão linear selecionada'
     rf = pd.read_csv(OUT / 'metricas_rf_regressao.csv').set_index('modelo')
     linhas = [
-        {'modelo': 'Regressão Linear', **METRICAS_LINEAR_2023},
+        {'modelo': 'Regressão Linear', 'R2': selecionada.iloc[0]['R2'], 'MAPE_%': selecionada.iloc[0]['MAPE_%']},
         {'modelo': 'Random Forest Regressor', 'R2': rf.loc['Random Forest', 'R2'], 'MAPE_%': rf.loc['Random Forest', 'MAPE_%']},
     ]
     ingenuo = rf.index[rf.index.str.startswith('Ingênuo')][0]
