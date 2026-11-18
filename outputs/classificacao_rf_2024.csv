@@ -3,7 +3,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3100203,Abaeté,MG,2024,forte crescimento
 3100302,Abre Campo,MG,2024,forte crescimento
 3100401,Acaiaca,MG,2024,forte crescimento
-3100500,Açucena,MG,2024,forte crescimento
+3100500,Açucena,MG,2024,forte retração
 3100609,Água Boa,MG,2024,forte crescimento
 3100708,Água Comprida,MG,2024,forte retração
 3100807,Aguanil,MG,2024,forte crescimento
@@ -29,7 +29,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3102605,Andradas,MG,2024,forte crescimento
 3102704,Cachoeira de Pajeú,MG,2024,forte crescimento
 3102803,Andrelândia,MG,2024,forte crescimento
-3102852,Angelândia,MG,2024,forte crescimento
+3102852,Angelândia,MG,2024,forte retração
 3102902,Antônio Carlos,MG,2024,forte retração
 3103009,Antônio Dias,MG,2024,forte retração
 3103108,Antônio Prado de Minas,MG,2024,forte crescimento
@@ -38,13 +38,13 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3103405,Araçuaí,MG,2024,forte retração
 3103504,Araguari,MG,2024,forte crescimento
 3103603,Arantina,MG,2024,forte crescimento
-3103702,Araponga,MG,2024,forte crescimento
+3103702,Araponga,MG,2024,forte retração
 3103751,Araporã,MG,2024,forte retração
 3103801,Arapuá,MG,2024,forte crescimento
 3103900,Araújos,MG,2024,forte crescimento
-3104007,Araxá,MG,2024,forte crescimento
+3104007,Araxá,MG,2024,forte retração
 3104106,Arceburgo,MG,2024,forte crescimento
-3104205,Arcos,MG,2024,forte crescimento
+3104205,Arcos,MG,2024,forte retração
 3104304,Areado,MG,2024,forte crescimento
 3104403,Argirita,MG,2024,forte crescimento
 3104452,Aricanduva,MG,2024,forte crescimento
@@ -53,7 +53,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3104700,Ataléia,MG,2024,forte crescimento
 3104809,Augusto de Lima,MG,2024,forte crescimento
 3104908,Baependi,MG,2024,forte crescimento
-3105004,Baldim,MG,2024,forte crescimento
+3105004,Baldim,MG,2024,forte retração
 3105103,Bambuí,MG,2024,forte crescimento
 3105202,Bandeira,MG,2024,forte crescimento
 3105301,Bandeira do Sul,MG,2024,forte crescimento
@@ -85,7 +85,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3107901,Bom Repouso,MG,2024,forte crescimento
 3108008,Bom Sucesso,MG,2024,forte crescimento
 3108107,Bonfim,MG,2024,forte crescimento
-3108206,Bonfinópolis de Minas,MG,2024,forte crescimento
+3108206,Bonfinópolis de Minas,MG,2024,forte retração
 3108255,Bonito de Minas,MG,2024,forte crescimento
 3108305,Borda da Mata,MG,2024,forte crescimento
 3108404,Botelhos,MG,2024,forte crescimento
@@ -104,14 +104,14 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3109451,Cabeceira Grande,MG,2024,forte retração
 3109501,Cabo Verde,MG,2024,forte crescimento
 3109600,Cachoeira da Prata,MG,2024,forte crescimento
-3109709,Cachoeira de Minas,MG,2024,forte crescimento
-3109808,Cachoeira Dourada,MG,2024,forte crescimento
+3109709,Cachoeira de Minas,MG,2024,forte retração
+3109808,Cachoeira Dourada,MG,2024,forte retração
 3109907,Caetanópolis,MG,2024,forte crescimento
 3110004,Caeté,MG,2024,forte crescimento
 3110103,Caiana,MG,2024,forte crescimento
 3110202,Cajuri,MG,2024,forte crescimento
 3110301,Caldas,MG,2024,forte crescimento
-3110400,Camacho,MG,2024,forte crescimento
+3110400,Camacho,MG,2024,forte retração
 3110509,Camanducaia,MG,2024,forte crescimento
 3110608,Cambuí,MG,2024,forte crescimento
 3110707,Cambuquira,MG,2024,forte crescimento
@@ -122,15 +122,15 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3111150,Campo Azul,MG,2024,forte crescimento
 3111200,Campo Belo,MG,2024,forte crescimento
 3111309,Campo do Meio,MG,2024,forte crescimento
-3111408,Campo Florido,MG,2024,forte crescimento
+3111408,Campo Florido,MG,2024,forte retração
 3111507,Campos Altos,MG,2024,forte crescimento
 3111606,Campos Gerais,MG,2024,forte crescimento
 3111705,Canaã,MG,2024,forte crescimento
-3111804,Canápolis,MG,2024,forte crescimento
+3111804,Canápolis,MG,2024,forte retração
 3111903,Cana Verde,MG,2024,forte crescimento
 3112000,Candeias,MG,2024,forte crescimento
 3112059,Cantagalo,MG,2024,forte crescimento
-3112109,Caparaó,MG,2024,forte crescimento
+3112109,Caparaó,MG,2024,forte retração
 3112208,Capela Nova,MG,2024,forte crescimento
 3112307,Capelinha,MG,2024,forte crescimento
 3112406,Capetinga,MG,2024,forte crescimento
@@ -160,7 +160,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3114600,Carrancas,MG,2024,forte crescimento
 3114709,Carvalhópolis,MG,2024,forte crescimento
 3114808,Carvalhos,MG,2024,forte crescimento
-3114907,Casa Grande,MG,2024,forte crescimento
+3114907,Casa Grande,MG,2024,forte retração
 3115003,Cascalho Rico,MG,2024,forte crescimento
 3115102,Cássia,MG,2024,forte crescimento
 3115201,Conceição da Barra de Minas,MG,2024,forte crescimento
@@ -199,7 +199,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3117900,Congonhal,MG,2024,forte crescimento
 3118007,Congonhas,MG,2024,forte retração
 3118106,Congonhas do Norte,MG,2024,forte crescimento
-3118205,Conquista,MG,2024,forte crescimento
+3118205,Conquista,MG,2024,forte retração
 3118304,Conselheiro Lafaiete,MG,2024,forte crescimento
 3118403,Conselheiro Pena,MG,2024,forte crescimento
 3118502,Consolação,MG,2024,forte crescimento
@@ -207,7 +207,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3118700,Coqueiral,MG,2024,forte crescimento
 3118809,Coração de Jesus,MG,2024,forte crescimento
 3118908,Cordisburgo,MG,2024,forte crescimento
-3119005,Cordislândia,MG,2024,forte crescimento
+3119005,Cordislândia,MG,2024,forte retração
 3119104,Corinto,MG,2024,forte crescimento
 3119203,Coroaci,MG,2024,forte crescimento
 3119302,Coromandel,MG,2024,forte crescimento
@@ -234,7 +234,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3121001,Datas,MG,2024,forte crescimento
 3121100,Delfim Moreira,MG,2024,forte crescimento
 3121209,Delfinópolis,MG,2024,forte crescimento
-3121258,Delta,MG,2024,forte crescimento
+3121258,Delta,MG,2024,forte retração
 3121308,Descoberto,MG,2024,forte crescimento
 3121407,Desterro de Entre Rios,MG,2024,forte crescimento
 3121506,Desterro do Melo,MG,2024,forte crescimento
@@ -255,13 +255,13 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3122702,Dom Silvério,MG,2024,forte crescimento
 3122801,Dom Viçoso,MG,2024,forte crescimento
 3122900,Dona Euzébia,MG,2024,forte crescimento
-3123007,Dores de Campos,MG,2024,forte crescimento
+3123007,Dores de Campos,MG,2024,forte retração
 3123106,Dores de Guanhães,MG,2024,forte retração
 3123205,Dores do Indaiá,MG,2024,forte crescimento
 3123304,Dores do Turvo,MG,2024,forte crescimento
 3123403,Doresópolis,MG,2024,forte retração
 3123502,Douradoquara,MG,2024,forte crescimento
-3123528,Durandé,MG,2024,forte crescimento
+3123528,Durandé,MG,2024,forte retração
 3123601,Elói Mendes,MG,2024,forte crescimento
 3123700,Engenheiro Caldas,MG,2024,forte crescimento
 3123809,Engenheiro Navarro,MG,2024,forte crescimento
@@ -274,8 +274,8 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3124401,Espírito Santo do Dourado,MG,2024,forte crescimento
 3124500,Estiva,MG,2024,forte crescimento
 3124609,Estrela Dalva,MG,2024,forte crescimento
-3124708,Estrela do Indaiá,MG,2024,forte crescimento
-3124807,Estrela do Sul,MG,2024,forte crescimento
+3124708,Estrela do Indaiá,MG,2024,forte retração
+3124807,Estrela do Sul,MG,2024,forte retração
 3124906,Eugenópolis,MG,2024,forte crescimento
 3125002,Ewbank da Câmara,MG,2024,forte crescimento
 3125101,Extrema,MG,2024,forte crescimento
@@ -290,7 +290,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3125952,Fervedouro,MG,2024,forte crescimento
 3126000,Florestal,MG,2024,forte crescimento
 3126109,Formiga,MG,2024,forte crescimento
-3126208,Formoso,MG,2024,forte crescimento
+3126208,Formoso,MG,2024,forte retração
 3126307,Fortaleza de Minas,MG,2024,forte crescimento
 3126406,Fortuna de Minas,MG,2024,forte crescimento
 3126505,Francisco Badaró,MG,2024,forte crescimento
@@ -319,23 +319,23 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3128006,Guanhães,MG,2024,forte crescimento
 3128105,Guapé,MG,2024,forte crescimento
 3128204,Guaraciaba,MG,2024,forte crescimento
-3128253,Guaraciama,MG,2024,forte crescimento
+3128253,Guaraciama,MG,2024,forte retração
 3128303,Guaranésia,MG,2024,forte crescimento
 3128402,Guarani,MG,2024,forte crescimento
 3128501,Guarará,MG,2024,forte crescimento
-3128600,Guarda-Mor,MG,2024,forte crescimento
+3128600,Guarda-Mor,MG,2024,forte retração
 3128709,Guaxupé,MG,2024,forte crescimento
 3128808,Guidoval,MG,2024,forte crescimento
 3128907,Guimarânia,MG,2024,forte crescimento
 3129004,Guiricema,MG,2024,forte crescimento
-3129103,Gurinhatã,MG,2024,forte crescimento
+3129103,Gurinhatã,MG,2024,forte retração
 3129202,Heliodora,MG,2024,forte crescimento
 3129301,Iapu,MG,2024,forte crescimento
 3129400,Ibertioga,MG,2024,forte crescimento
 3129509,Ibiá,MG,2024,forte crescimento
 3129608,Ibiaí,MG,2024,forte crescimento
 3129657,Ibiracatu,MG,2024,forte crescimento
-3129707,Ibiraci,MG,2024,forte crescimento
+3129707,Ibiraci,MG,2024,forte retração
 3129806,Ibirité,MG,2024,forte crescimento
 3129905,Ibitiúra de Minas,MG,2024,forte crescimento
 3130002,Ibituruna,MG,2024,forte crescimento
@@ -345,20 +345,20 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3130309,Iguatama,MG,2024,forte crescimento
 3130408,Ijaci,MG,2024,forte retração
 3130507,Ilicínea,MG,2024,forte crescimento
-3130556,Imbé de Minas,MG,2024,forte crescimento
+3130556,Imbé de Minas,MG,2024,forte retração
 3130606,Inconfidentes,MG,2024,forte crescimento
 3130655,Indaiabira,MG,2024,forte crescimento
 3130705,Indianópolis,MG,2024,forte retração
-3130804,Ingaí,MG,2024,forte crescimento
+3130804,Ingaí,MG,2024,forte retração
 3130903,Inhapim,MG,2024,forte crescimento
 3131000,Inhaúma,MG,2024,forte crescimento
 3131109,Inimutaba,MG,2024,forte crescimento
 3131158,Ipaba,MG,2024,forte crescimento
 3131208,Ipanema,MG,2024,forte crescimento
 3131307,Ipatinga,MG,2024,forte retração
-3131406,Ipiaçu,MG,2024,forte crescimento
+3131406,Ipiaçu,MG,2024,forte retração
 3131505,Ipuiúna,MG,2024,forte crescimento
-3131604,Iraí de Minas,MG,2024,forte crescimento
+3131604,Iraí de Minas,MG,2024,forte retração
 3131703,Itabira,MG,2024,forte retração
 3131802,Itabirinha,MG,2024,forte crescimento
 3131901,Itabirito,MG,2024,forte retração
@@ -371,8 +371,8 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3132602,Itamarati de Minas,MG,2024,forte crescimento
 3132701,Itambacuri,MG,2024,forte crescimento
 3132800,Itambé do Mato Dentro,MG,2024,forte crescimento
-3132909,Itamogi,MG,2024,forte crescimento
-3133006,Itamonte,MG,2024,forte crescimento
+3132909,Itamogi,MG,2024,forte retração
+3133006,Itamonte,MG,2024,forte retração
 3133105,Itanhandu,MG,2024,forte crescimento
 3133204,Itanhomi,MG,2024,forte crescimento
 3133303,Itaobim,MG,2024,forte crescimento
@@ -380,7 +380,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3133501,Itapecerica,MG,2024,forte crescimento
 3133600,Itapeva,MG,2024,forte retração
 3133709,Itatiaiuçu,MG,2024,forte retração
-3133758,Itaú de Minas,MG,2024,forte crescimento
+3133758,Itaú de Minas,MG,2024,forte retração
 3133808,Itaúna,MG,2024,forte crescimento
 3133907,Itaverava,MG,2024,forte crescimento
 3134004,Itinga,MG,2024,forte retração
@@ -388,7 +388,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3134202,Ituiutaba,MG,2024,forte crescimento
 3134301,Itumirim,MG,2024,forte crescimento
 3134400,Iturama,MG,2024,forte crescimento
-3134509,Itutinga,MG,2024,forte crescimento
+3134509,Itutinga,MG,2024,forte retração
 3134608,Jaboticatubas,MG,2024,forte crescimento
 3134707,Jacinto,MG,2024,forte crescimento
 3134806,Jacuí,MG,2024,forte crescimento
@@ -408,16 +408,16 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3135803,Jequitinhonha,MG,2024,forte crescimento
 3135902,Jesuânia,MG,2024,forte crescimento
 3136009,Joaíma,MG,2024,forte crescimento
-3136108,Joanésia,MG,2024,forte crescimento
+3136108,Joanésia,MG,2024,forte retração
 3136207,João Monlevade,MG,2024,forte retração
 3136306,João Pinheiro,MG,2024,forte crescimento
 3136405,Joaquim Felício,MG,2024,forte crescimento
 3136504,Jordânia,MG,2024,forte crescimento
 3136520,José Gonçalves de Minas,MG,2024,forte crescimento
-3136553,José Raydan,MG,2024,forte crescimento
+3136553,José Raydan,MG,2024,forte retração
 3136579,Josenópolis,MG,2024,forte crescimento
 3136603,Nova União,MG,2024,forte crescimento
-3136652,Juatuba,MG,2024,forte crescimento
+3136652,Juatuba,MG,2024,forte retração
 3136702,Juiz de Fora,MG,2024,forte crescimento
 3136801,Juramento,MG,2024,forte crescimento
 3136900,Juruaia,MG,2024,forte crescimento
@@ -434,7 +434,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3137809,Lambari,MG,2024,forte crescimento
 3137908,Lamim,MG,2024,forte crescimento
 3138005,Laranjal,MG,2024,forte crescimento
-3138104,Lassance,MG,2024,forte crescimento
+3138104,Lassance,MG,2024,forte retração
 3138203,Lavras,MG,2024,forte crescimento
 3138302,Leandro Ferreira,MG,2024,forte crescimento
 3138351,Leme do Prado,MG,2024,forte crescimento
@@ -449,7 +449,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3138807,Luz,MG,2024,forte crescimento
 3138906,Machacalis,MG,2024,forte crescimento
 3139003,Machado,MG,2024,forte crescimento
-3139102,Madre de Deus de Minas,MG,2024,forte crescimento
+3139102,Madre de Deus de Minas,MG,2024,forte retração
 3139201,Malacacheta,MG,2024,forte crescimento
 3139250,Mamonas,MG,2024,forte crescimento
 3139300,Manga,MG,2024,forte crescimento
@@ -474,9 +474,9 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3140852,Matias Cardoso,MG,2024,forte crescimento
 3140902,Matipó,MG,2024,forte crescimento
 3141009,Mato Verde,MG,2024,forte crescimento
-3141108,Matozinhos,MG,2024,forte crescimento
+3141108,Matozinhos,MG,2024,forte retração
 3141207,Matutina,MG,2024,forte crescimento
-3141306,Medeiros,MG,2024,forte crescimento
+3141306,Medeiros,MG,2024,forte retração
 3141405,Medina,MG,2024,forte crescimento
 3141504,Mendes Pimentel,MG,2024,forte crescimento
 3141603,Mercês,MG,2024,forte crescimento
@@ -501,7 +501,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3143302,Montes Claros,MG,2024,forte crescimento
 3143401,Monte Sião,MG,2024,forte crescimento
 3143450,Montezuma,MG,2024,forte crescimento
-3143500,Morada Nova de Minas,MG,2024,forte crescimento
+3143500,Morada Nova de Minas,MG,2024,forte retração
 3143609,Morro da Garça,MG,2024,forte crescimento
 3143708,Morro do Pilar,MG,2024,forte crescimento
 3143807,Munhoz,MG,2024,forte crescimento
@@ -515,14 +515,14 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3144409,Natércia,MG,2024,forte crescimento
 3144508,Nazareno,MG,2024,forte retração
 3144607,Nepomuceno,MG,2024,forte crescimento
-3144656,Ninheira,MG,2024,forte crescimento
+3144656,Ninheira,MG,2024,forte retração
 3144672,Nova Belém,MG,2024,forte retração
 3144706,Nova Era,MG,2024,forte crescimento
 3144805,Nova Lima,MG,2024,forte retração
 3144904,Nova Módica,MG,2024,forte crescimento
-3145000,Nova Ponte,MG,2024,forte crescimento
+3145000,Nova Ponte,MG,2024,forte retração
 3145059,Nova Porteirinha,MG,2024,forte crescimento
-3145109,Nova Resende,MG,2024,forte crescimento
+3145109,Nova Resende,MG,2024,forte retração
 3145208,Nova Serrana,MG,2024,forte crescimento
 3145307,Novo Cruzeiro,MG,2024,forte crescimento
 3145356,Novo Oriente de Minas,MG,2024,forte crescimento
@@ -542,20 +542,20 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3146255,Padre Carvalho,MG,2024,forte crescimento
 3146305,Padre Paraíso,MG,2024,forte crescimento
 3146404,Paineiras,MG,2024,forte crescimento
-3146503,Pains,MG,2024,forte crescimento
+3146503,Pains,MG,2024,forte retração
 3146552,Pai Pedro,MG,2024,forte crescimento
 3146602,Paiva,MG,2024,forte crescimento
 3146701,Palma,MG,2024,forte crescimento
 3146750,Palmópolis,MG,2024,forte crescimento
 3146909,Papagaios,MG,2024,forte crescimento
-3147006,Paracatu,MG,2024,forte crescimento
+3147006,Paracatu,MG,2024,forte retração
 3147105,Pará de Minas,MG,2024,forte crescimento
 3147204,Paraguaçu,MG,2024,forte crescimento
 3147303,Paraisópolis,MG,2024,forte crescimento
 3147402,Paraopeba,MG,2024,forte crescimento
 3147501,Passabém,MG,2024,forte crescimento
 3147600,Passa Quatro,MG,2024,forte crescimento
-3147709,Passa Tempo,MG,2024,forte crescimento
+3147709,Passa Tempo,MG,2024,forte retração
 3147808,Passa Vinte,MG,2024,forte crescimento
 3147907,Passos,MG,2024,forte crescimento
 3147956,Patis,MG,2024,forte crescimento
@@ -573,13 +573,13 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3149002,Pedra Dourada,MG,2024,forte crescimento
 3149101,Pedralva,MG,2024,forte crescimento
 3149150,Pedras de Maria da Cruz,MG,2024,forte crescimento
-3149200,Pedrinópolis,MG,2024,forte crescimento
+3149200,Pedrinópolis,MG,2024,forte retração
 3149309,Pedro Leopoldo,MG,2024,forte crescimento
 3149408,Pedro Teixeira,MG,2024,forte crescimento
 3149507,Pequeri,MG,2024,forte crescimento
-3149606,Pequi,MG,2024,forte crescimento
+3149606,Pequi,MG,2024,forte retração
 3149705,Perdigão,MG,2024,forte crescimento
-3149804,Perdizes,MG,2024,forte crescimento
+3149804,Perdizes,MG,2024,forte retração
 3149903,Perdões,MG,2024,forte crescimento
 3149952,Periquito,MG,2024,forte crescimento
 3150000,Pescador,MG,2024,forte crescimento
@@ -591,13 +591,13 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3150505,Pimenta,MG,2024,forte crescimento
 3150539,Pingo-d'Água,MG,2024,forte crescimento
 3150570,Pintópolis,MG,2024,forte crescimento
-3150604,Piracema,MG,2024,forte crescimento
-3150703,Pirajuba,MG,2024,forte crescimento
+3150604,Piracema,MG,2024,forte retração
+3150703,Pirajuba,MG,2024,forte retração
 3150802,Piranga,MG,2024,forte crescimento
-3150901,Piranguçu,MG,2024,forte crescimento
+3150901,Piranguçu,MG,2024,forte retração
 3151008,Piranguinho,MG,2024,forte crescimento
-3151107,Pirapetinga,MG,2024,forte crescimento
-3151206,Pirapora,MG,2024,forte crescimento
+3151107,Pirapetinga,MG,2024,forte retração
+3151206,Pirapora,MG,2024,forte retração
 3151305,Piraúba,MG,2024,forte crescimento
 3151404,Pitangui,MG,2024,forte crescimento
 3151503,Piumhi,MG,2024,forte crescimento
@@ -613,7 +613,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3152303,Porto Firme,MG,2024,forte crescimento
 3152402,Poté,MG,2024,forte crescimento
 3152501,Pouso Alegre,MG,2024,forte crescimento
-3152600,Pouso Alto,MG,2024,forte crescimento
+3152600,Pouso Alto,MG,2024,forte retração
 3152709,Prados,MG,2024,forte crescimento
 3152808,Prata,MG,2024,forte crescimento
 3152907,Pratápolis,MG,2024,forte crescimento
@@ -632,49 +632,49 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3154150,Reduto,MG,2024,forte crescimento
 3154200,Resende Costa,MG,2024,forte crescimento
 3154309,Resplendor,MG,2024,forte crescimento
-3154408,Ressaquinha,MG,2024,forte crescimento
+3154408,Ressaquinha,MG,2024,forte retração
 3154457,Riachinho,MG,2024,forte crescimento
 3154507,Riacho dos Machados,MG,2024,forte retração
 3154606,Ribeirão das Neves,MG,2024,forte crescimento
 3154705,Ribeirão Vermelho,MG,2024,forte crescimento
-3154804,Rio Acima,MG,2024,forte crescimento
+3154804,Rio Acima,MG,2024,forte retração
 3154903,Rio Casca,MG,2024,forte crescimento
 3155009,Rio Doce,MG,2024,forte retração
 3155108,Rio do Prado,MG,2024,forte crescimento
 3155207,Rio Espera,MG,2024,forte crescimento
 3155306,Rio Manso,MG,2024,forte crescimento
 3155405,Rio Novo,MG,2024,forte crescimento
-3155504,Rio Paranaíba,MG,2024,forte crescimento
+3155504,Rio Paranaíba,MG,2024,forte retração
 3155603,Rio Pardo de Minas,MG,2024,forte crescimento
-3155702,Rio Piracicaba,MG,2024,forte crescimento
+3155702,Rio Piracicaba,MG,2024,forte retração
 3155801,Rio Pomba,MG,2024,forte crescimento
 3155900,Rio Preto,MG,2024,forte crescimento
 3156007,Rio Vermelho,MG,2024,forte crescimento
 3156106,Ritápolis,MG,2024,forte crescimento
-3156205,Rochedo de Minas,MG,2024,forte crescimento
-3156304,Rodeiro,MG,2024,forte crescimento
-3156403,Romaria,MG,2024,forte crescimento
+3156205,Rochedo de Minas,MG,2024,forte retração
+3156304,Rodeiro,MG,2024,forte retração
+3156403,Romaria,MG,2024,forte retração
 3156452,Rosário da Limeira,MG,2024,forte crescimento
 3156502,Rubelita,MG,2024,forte crescimento
 3156601,Rubim,MG,2024,forte crescimento
 3156700,Sabará,MG,2024,forte crescimento
-3156809,Sabinópolis,MG,2024,forte crescimento
+3156809,Sabinópolis,MG,2024,forte retração
 3156908,Sacramento,MG,2024,forte crescimento
 3157005,Salinas,MG,2024,forte crescimento
 3157104,Salto da Divisa,MG,2024,forte crescimento
-3157203,Santa Bárbara,MG,2024,forte crescimento
+3157203,Santa Bárbara,MG,2024,forte retração
 3157252,Santa Bárbara do Leste,MG,2024,forte crescimento
 3157278,Santa Bárbara do Monte Verde,MG,2024,forte crescimento
 3157302,Santa Bárbara do Tugúrio,MG,2024,forte crescimento
 3157336,Santa Cruz de Minas,MG,2024,forte crescimento
 3157377,Santa Cruz de Salinas,MG,2024,forte crescimento
-3157401,Santa Cruz do Escalvado,MG,2024,forte crescimento
+3157401,Santa Cruz do Escalvado,MG,2024,forte retração
 3157500,Santa Efigênia de Minas,MG,2024,forte crescimento
 3157609,Santa Fé de Minas,MG,2024,forte crescimento
 3157658,Santa Helena de Minas,MG,2024,forte crescimento
 3157708,Santa Juliana,MG,2024,forte crescimento
 3157807,Santa Luzia,MG,2024,forte crescimento
-3157906,Santa Margarida,MG,2024,forte crescimento
+3157906,Santa Margarida,MG,2024,forte retração
 3158003,Santa Maria de Itabira,MG,2024,forte crescimento
 3158102,Santa Maria do Salto,MG,2024,forte crescimento
 3158201,Santa Maria do Suaçuí,MG,2024,forte crescimento
@@ -692,9 +692,9 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3159308,Santa Rita de Jacutinga,MG,2024,forte crescimento
 3159357,Santa Rita de Minas,MG,2024,forte crescimento
 3159407,Santa Rita de Ibitipoca,MG,2024,forte crescimento
-3159506,Santa Rita do Itueto,MG,2024,forte crescimento
+3159506,Santa Rita do Itueto,MG,2024,forte retração
 3159605,Santa Rita do Sapucaí,MG,2024,forte crescimento
-3159704,Santa Rosa da Serra,MG,2024,forte crescimento
+3159704,Santa Rosa da Serra,MG,2024,forte retração
 3159803,Santa Vitória,MG,2024,forte crescimento
 3159902,Santo Antônio do Amparo,MG,2024,forte crescimento
 3160009,Santo Antônio do Aventureiro,MG,2024,forte crescimento
@@ -713,7 +713,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3161056,São Félix de Minas,MG,2024,forte crescimento
 3161106,São Francisco,MG,2024,forte crescimento
 3161205,São Francisco de Paula,MG,2024,forte crescimento
-3161304,São Francisco de Sales,MG,2024,forte crescimento
+3161304,São Francisco de Sales,MG,2024,forte retração
 3161403,São Francisco do Glória,MG,2024,forte crescimento
 3161502,São Geraldo,MG,2024,forte crescimento
 3161601,São Geraldo da Piedade,MG,2024,forte crescimento
@@ -738,13 +738,13 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3162906,São João Nepomuceno,MG,2024,forte crescimento
 3162922,São Joaquim de Bicas,MG,2024,forte crescimento
 3162948,São José da Barra,MG,2024,forte retração
-3162955,São José da Lapa,MG,2024,forte crescimento
+3162955,São José da Lapa,MG,2024,forte retração
 3163003,São José da Safira,MG,2024,forte crescimento
 3163102,São José da Varginha,MG,2024,forte crescimento
 3163201,São José do Alegre,MG,2024,forte crescimento
 3163300,São José do Divino,MG,2024,forte crescimento
 3163409,São José do Goiabal,MG,2024,forte crescimento
-3163508,São José do Jacuri,MG,2024,forte crescimento
+3163508,São José do Jacuri,MG,2024,forte retração
 3163607,São José do Mantimento,MG,2024,forte crescimento
 3163706,São Lourenço,MG,2024,forte crescimento
 3163805,São Miguel do Anta,MG,2024,forte crescimento
@@ -757,7 +757,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3164431,São Sebastião da Vargem Alegre,MG,2024,forte crescimento
 3164472,São Sebastião do Anta,MG,2024,forte crescimento
 3164506,São Sebastião do Maranhão,MG,2024,forte crescimento
-3164605,São Sebastião do Oeste,MG,2024,forte crescimento
+3164605,São Sebastião do Oeste,MG,2024,forte retração
 3164704,São Sebastião do Paraíso,MG,2024,forte crescimento
 3164803,São Sebastião do Rio Preto,MG,2024,forte crescimento
 3164902,São Sebastião do Rio Verde,MG,2024,forte crescimento
@@ -774,16 +774,16 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3165602,Senador Cortes,MG,2024,forte crescimento
 3165701,Senador Firmino,MG,2024,forte crescimento
 3165800,Senador José Bento,MG,2024,forte crescimento
-3165909,Senador Modestino Gonçalves,MG,2024,forte crescimento
+3165909,Senador Modestino Gonçalves,MG,2024,forte retração
 3166006,Senhora de Oliveira,MG,2024,forte crescimento
 3166105,Senhora do Porto,MG,2024,forte crescimento
 3166204,Senhora dos Remédios,MG,2024,forte crescimento
-3166303,Sericita,MG,2024,forte crescimento
+3166303,Sericita,MG,2024,forte retração
 3166402,Seritinga,MG,2024,forte crescimento
 3166501,Serra Azul de Minas,MG,2024,forte crescimento
 3166600,Serra da Saudade,MG,2024,forte crescimento
 3166709,Serra dos Aimorés,MG,2024,forte crescimento
-3166808,Serra do Salitre,MG,2024,forte crescimento
+3166808,Serra do Salitre,MG,2024,forte retração
 3166907,Serrania,MG,2024,forte crescimento
 3166956,Serranópolis de Minas,MG,2024,forte crescimento
 3167004,Serranos,MG,2024,forte crescimento
@@ -791,15 +791,15 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3167202,Sete Lagoas,MG,2024,forte crescimento
 3167301,Silveirânia,MG,2024,forte crescimento
 3167400,Silvianópolis,MG,2024,forte crescimento
-3167509,Simão Pereira,MG,2024,forte crescimento
-3167608,Simonésia,MG,2024,forte crescimento
+3167509,Simão Pereira,MG,2024,forte retração
+3167608,Simonésia,MG,2024,forte retração
 3167707,Sobrália,MG,2024,forte crescimento
 3167806,Soledade de Minas,MG,2024,forte crescimento
 3167905,Tabuleiro,MG,2024,forte crescimento
 3168002,Taiobeiras,MG,2024,forte crescimento
 3168051,Taparuba,MG,2024,forte crescimento
 3168101,Tapira,MG,2024,forte retração
-3168200,Tapiraí,MG,2024,forte crescimento
+3168200,Tapiraí,MG,2024,forte retração
 3168309,Taquaraçu de Minas,MG,2024,forte crescimento
 3168408,Tarumirim,MG,2024,forte crescimento
 3168507,Teixeiras,MG,2024,forte crescimento
@@ -825,7 +825,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3170206,Uberlândia,MG,2024,forte crescimento
 3170305,Umburatiba,MG,2024,forte crescimento
 3170404,Unaí,MG,2024,forte crescimento
-3170438,União de Minas,MG,2024,forte crescimento
+3170438,União de Minas,MG,2024,forte retração
 3170479,Uruana de Minas,MG,2024,forte crescimento
 3170503,Urucânia,MG,2024,forte crescimento
 3170529,Urucuia,MG,2024,forte crescimento
@@ -833,7 +833,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3170602,Vargem Bonita,MG,2024,forte crescimento
 3170651,Vargem Grande do Rio Pardo,MG,2024,forte crescimento
 3170701,Varginha,MG,2024,forte crescimento
-3170750,Varjão de Minas,MG,2024,forte crescimento
+3170750,Varjão de Minas,MG,2024,forte retração
 3170800,Várzea da Palma,MG,2024,forte crescimento
 3170909,Varzelândia,MG,2024,forte crescimento
 3171006,Vazante,MG,2024,forte crescimento
@@ -866,9 +866,9 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3200904,Barra de São Francisco,ES,2024,forte crescimento
 3201001,Boa Esperança,ES,2024,forte crescimento
 3201100,Bom Jesus do Norte,ES,2024,forte crescimento
-3201159,Brejetuba,ES,2024,forte crescimento
+3201159,Brejetuba,ES,2024,forte retração
 3201209,Cachoeiro de Itapemirim,ES,2024,forte crescimento
-3201308,Cariacica,ES,2024,forte crescimento
+3201308,Cariacica,ES,2024,forte retração
 3201407,Castelo,ES,2024,forte crescimento
 3201506,Colatina,ES,2024,forte crescimento
 3201605,Conceição da Barra,ES,2024,forte crescimento
@@ -901,7 +901,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3203353,Marilândia,ES,2024,forte crescimento
 3203403,Mimoso do Sul,ES,2024,forte crescimento
 3203502,Montanha,ES,2024,forte crescimento
-3203601,Mucurici,ES,2024,forte crescimento
+3203601,Mucurici,ES,2024,retração
 3203700,Muniz Freire,ES,2024,forte crescimento
 3203809,Muqui,ES,2024,forte crescimento
 3203908,Nova Venécia,ES,2024,forte crescimento
@@ -913,8 +913,8 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3204302,Presidente Kennedy,ES,2024,forte retração
 3204351,Rio Bananal,ES,2024,forte crescimento
 3204401,Rio Novo do Sul,ES,2024,forte crescimento
-3204500,Santa Leopoldina,ES,2024,forte crescimento
-3204559,Santa Maria de Jetibá,ES,2024,forte crescimento
+3204500,Santa Leopoldina,ES,2024,forte retração
+3204559,Santa Maria de Jetibá,ES,2024,forte retração
 3204609,Santa Teresa,ES,2024,forte crescimento
 3204658,São Domingos do Norte,ES,2024,forte crescimento
 3204708,São Gabriel da Palha,ES,2024,forte crescimento
@@ -925,24 +925,24 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3205010,Sooretama,ES,2024,forte crescimento
 3205036,Vargem Alta,ES,2024,forte crescimento
 3205069,Venda Nova do Imigrante,ES,2024,forte crescimento
-3205101,Viana,ES,2024,forte crescimento
+3205101,Viana,ES,2024,forte retração
 3205150,Vila Pavão,ES,2024,forte crescimento
 3205176,Vila Valério,ES,2024,forte crescimento
 3205200,Vila Velha,ES,2024,forte crescimento
 3205309,Vitória,ES,2024,forte crescimento
-3300100,Angra dos Reis,RJ,2024,forte crescimento
+3300100,Angra dos Reis,RJ,2024,retração
 3300159,Aperibé,RJ,2024,forte crescimento
 3300209,Araruama,RJ,2024,forte retração
-3300225,Areal,RJ,2024,forte crescimento
+3300225,Areal,RJ,2024,forte retração
 3300233,Armação dos Búzios,RJ,2024,forte retração
 3300258,Arraial do Cabo,RJ,2024,forte retração
-3300308,Barra do Piraí,RJ,2024,forte crescimento
-3300407,Barra Mansa,RJ,2024,forte crescimento
+3300308,Barra do Piraí,RJ,2024,crescimento moderado
+3300407,Barra Mansa,RJ,2024,crescimento moderado
 3300456,Belford Roxo,RJ,2024,crescimento moderado
 3300506,Bom Jardim,RJ,2024,forte crescimento
-3300605,Bom Jesus do Itabapoana,RJ,2024,forte crescimento
+3300605,Bom Jesus do Itabapoana,RJ,2024,crescimento moderado
 3300704,Cabo Frio,RJ,2024,forte retração
-3300803,Cachoeiras de Macacu,RJ,2024,forte crescimento
+3300803,Cachoeiras de Macacu,RJ,2024,crescimento moderado
 3300902,Cambuci,RJ,2024,forte crescimento
 3300936,Carapebus,RJ,2024,forte retração
 3300951,Comendador Levy Gasparian,RJ,2024,forte retração
@@ -954,73 +954,73 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3301405,Conceição de Macabu,RJ,2024,forte crescimento
 3301504,Cordeiro,RJ,2024,forte crescimento
 3301603,Duas Barras,RJ,2024,forte crescimento
-3301702,Duque de Caxias,RJ,2024,forte crescimento
+3301702,Duque de Caxias,RJ,2024,forte retração
 3301801,Engenheiro Paulo de Frontin,RJ,2024,forte crescimento
 3301850,Guapimirim,RJ,2024,forte crescimento
 3301876,Iguaba Grande,RJ,2024,forte crescimento
-3301900,Itaboraí,RJ,2024,forte crescimento
+3301900,Itaboraí,RJ,2024,crescimento moderado
 3302007,Itaguaí,RJ,2024,retração
 3302056,Italva,RJ,2024,forte crescimento
 3302106,Itaocara,RJ,2024,forte crescimento
-3302205,Itaperuna,RJ,2024,forte crescimento
+3302205,Itaperuna,RJ,2024,crescimento moderado
 3302254,Itatiaia,RJ,2024,forte retração
-3302270,Japeri,RJ,2024,forte crescimento
+3302270,Japeri,RJ,2024,crescimento moderado
 3302304,Laje do Muriaé,RJ,2024,forte crescimento
 3302403,Macaé,RJ,2024,forte retração
-3302452,Macuco,RJ,2024,forte crescimento
-3302502,Magé,RJ,2024,forte crescimento
+3302452,Macuco,RJ,2024,forte retração
+3302502,Magé,RJ,2024,crescimento moderado
 3302601,Mangaratiba,RJ,2024,forte crescimento
 3302700,Maricá,RJ,2024,forte retração
 3302809,Mendes,RJ,2024,forte crescimento
-3302858,Mesquita,RJ,2024,forte crescimento
-3302908,Miguel Pereira,RJ,2024,forte crescimento
+3302858,Mesquita,RJ,2024,crescimento moderado
+3302908,Miguel Pereira,RJ,2024,crescimento moderado
 3303005,Miracema,RJ,2024,forte crescimento
 3303104,Natividade,RJ,2024,forte crescimento
 3303203,Nilópolis,RJ,2024,crescimento moderado
 3303302,Niterói,RJ,2024,forte retração
-3303401,Nova Friburgo,RJ,2024,forte crescimento
+3303401,Nova Friburgo,RJ,2024,crescimento moderado
 3303500,Nova Iguaçu,RJ,2024,crescimento moderado
 3303609,Paracambi,RJ,2024,forte crescimento
 3303708,Paraíba do Sul,RJ,2024,forte crescimento
 3303807,Paraty,RJ,2024,forte retração
 3303856,Paty do Alferes,RJ,2024,forte crescimento
-3303906,Petrópolis,RJ,2024,forte crescimento
+3303906,Petrópolis,RJ,2024,retração
 3303955,Pinheiral,RJ,2024,forte retração
 3304003,Piraí,RJ,2024,forte retração
-3304102,Porciúncula,RJ,2024,forte crescimento
+3304102,Porciúncula,RJ,2024,retração
 3304110,Porto Real,RJ,2024,forte retração
 3304128,Quatis,RJ,2024,forte crescimento
-3304144,Queimados,RJ,2024,forte crescimento
+3304144,Queimados,RJ,2024,crescimento moderado
 3304151,Quissamã,RJ,2024,forte retração
 3304201,Resende,RJ,2024,forte retração
-3304300,Rio Bonito,RJ,2024,forte crescimento
-3304409,Rio Claro,RJ,2024,forte crescimento
+3304300,Rio Bonito,RJ,2024,crescimento moderado
+3304409,Rio Claro,RJ,2024,retração
 3304508,Rio das Flores,RJ,2024,forte crescimento
 3304524,Rio das Ostras,RJ,2024,forte retração
-3304557,Rio de Janeiro,RJ,2024,forte crescimento
+3304557,Rio de Janeiro,RJ,2024,crescimento moderado
 3304607,Santa Maria Madalena,RJ,2024,forte crescimento
-3304706,Santo Antônio de Pádua,RJ,2024,forte crescimento
-3304755,São Francisco de Itabapoana,RJ,2024,forte crescimento
+3304706,Santo Antônio de Pádua,RJ,2024,crescimento moderado
+3304755,São Francisco de Itabapoana,RJ,2024,retração
 3304805,São Fidélis,RJ,2024,forte crescimento
 3304904,São Gonçalo,RJ,2024,crescimento moderado
 3305000,São João da Barra,RJ,2024,forte retração
 3305109,São João de Meriti,RJ,2024,crescimento moderado
-3305133,São José de Ubá,RJ,2024,forte crescimento
-3305158,São José do Vale do Rio Preto,RJ,2024,forte crescimento
-3305208,São Pedro da Aldeia,RJ,2024,forte crescimento
-3305307,São Sebastião do Alto,RJ,2024,forte crescimento
+3305133,São José de Ubá,RJ,2024,retração
+3305158,São José do Vale do Rio Preto,RJ,2024,forte retração
+3305208,São Pedro da Aldeia,RJ,2024,crescimento moderado
+3305307,São Sebastião do Alto,RJ,2024,forte retração
 3305406,Sapucaia,RJ,2024,forte crescimento
 3305505,Saquarema,RJ,2024,forte retração
 3305554,Seropédica,RJ,2024,forte crescimento
 3305604,Silva Jardim,RJ,2024,forte crescimento
-3305703,Sumidouro,RJ,2024,forte crescimento
+3305703,Sumidouro,RJ,2024,forte retração
 3305752,Tanguá,RJ,2024,forte crescimento
-3305802,Teresópolis,RJ,2024,forte crescimento
+3305802,Teresópolis,RJ,2024,crescimento moderado
 3305901,Trajano de Moraes,RJ,2024,forte crescimento
 3306008,Três Rios,RJ,2024,forte retração
-3306107,Valença,RJ,2024,forte crescimento
+3306107,Valença,RJ,2024,forte retração
 3306156,Varre-Sai,RJ,2024,forte retração
-3306206,Vassouras,RJ,2024,forte crescimento
+3306206,Vassouras,RJ,2024,crescimento moderado
 3306305,Volta Redonda,RJ,2024,forte retração
 3500105,Adamantina,SP,2024,forte crescimento
 3500204,Adolfo,SP,2024,forte retração
@@ -1029,7 +1029,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3500501,Águas de Lindóia,SP,2024,forte crescimento
 3500550,Águas de Santa Bárbara,SP,2024,forte retração
 3500600,Águas de São Pedro,SP,2024,forte crescimento
-3500709,Agudos,SP,2024,forte crescimento
+3500709,Agudos,SP,2024,forte retração
 3500758,Alambari,SP,2024,forte crescimento
 3500808,Alfredo Marcondes,SP,2024,forte crescimento
 3500907,Altair,SP,2024,forte retração
@@ -1050,7 +1050,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3502309,Anhembi,SP,2024,forte retração
 3502408,Anhumas,SP,2024,forte crescimento
 3502507,Aparecida,SP,2024,forte crescimento
-3502606,Aparecida d'Oeste,SP,2024,forte crescimento
+3502606,Aparecida d'Oeste,SP,2024,forte retração
 3502705,Apiaí,SP,2024,forte crescimento
 3502754,Araçariguama,SP,2024,forte crescimento
 3502804,Araçatuba,SP,2024,forte crescimento
@@ -1072,22 +1072,22 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3504107,Atibaia,SP,2024,forte crescimento
 3504206,Auriflama,SP,2024,forte crescimento
 3504305,Avaí,SP,2024,forte retração
-3504404,Avanhandava,SP,2024,forte crescimento
+3504404,Avanhandava,SP,2024,forte retração
 3504503,Avaré,SP,2024,forte crescimento
 3504602,Bady Bassitt,SP,2024,forte crescimento
-3504701,Balbinos,SP,2024,forte crescimento
+3504701,Balbinos,SP,2024,forte retração
 3504800,Bálsamo,SP,2024,forte crescimento
 3504909,Bananal,SP,2024,forte crescimento
 3505005,Barão de Antonina,SP,2024,forte crescimento
 3505104,Barbosa,SP,2024,forte retração
 3505203,Bariri,SP,2024,forte crescimento
 3505302,Barra Bonita,SP,2024,forte crescimento
-3505351,Barra do Chapéu,SP,2024,forte crescimento
+3505351,Barra do Chapéu,SP,2024,forte retração
 3505401,Barra do Turvo,SP,2024,forte crescimento
 3505500,Barretos,SP,2024,forte crescimento
 3505609,Barrinha,SP,2024,forte crescimento
-3505708,Barueri,SP,2024,crescimento moderado
-3505807,Bastos,SP,2024,forte crescimento
+3505708,Barueri,SP,2024,forte crescimento
+3505807,Bastos,SP,2024,forte retração
 3505906,Batatais,SP,2024,forte crescimento
 3506003,Bauru,SP,2024,forte crescimento
 3506102,Bebedouro,SP,2024,forte crescimento
@@ -1103,19 +1103,19 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3507001,Boituva,SP,2024,forte crescimento
 3507100,Bom Jesus dos Perdões,SP,2024,forte crescimento
 3507159,Bom Sucesso de Itararé,SP,2024,forte crescimento
-3507209,Borá,SP,2024,forte crescimento
+3507209,Borá,SP,2024,forte retração
 3507308,Boracéia,SP,2024,forte crescimento
 3507407,Borborema,SP,2024,forte crescimento
 3507456,Borebi,SP,2024,forte retração
 3507506,Botucatu,SP,2024,forte crescimento
 3507605,Bragança Paulista,SP,2024,forte crescimento
-3507704,Braúna,SP,2024,forte crescimento
+3507704,Braúna,SP,2024,forte retração
 3507753,Brejo Alegre,SP,2024,forte crescimento
 3507803,Brodowski,SP,2024,forte crescimento
 3507902,Brotas,SP,2024,forte crescimento
 3508009,Buri,SP,2024,forte crescimento
 3508108,Buritama,SP,2024,forte crescimento
-3508207,Buritizal,SP,2024,forte crescimento
+3508207,Buritizal,SP,2024,forte retração
 3508306,Cabrália Paulista,SP,2024,forte retração
 3508405,Cabreúva,SP,2024,forte crescimento
 3508504,Caçapava,SP,2024,forte crescimento
@@ -1128,7 +1128,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3509205,Cajamar,SP,2024,forte crescimento
 3509254,Cajati,SP,2024,forte crescimento
 3509304,Cajobi,SP,2024,forte retração
-3509403,Cajuru,SP,2024,forte crescimento
+3509403,Cajuru,SP,2024,forte retração
 3509452,Campina do Monte Alegre,SP,2024,forte crescimento
 3509502,Campinas,SP,2024,forte crescimento
 3509601,Campo Limpo Paulista,SP,2024,forte crescimento
@@ -1147,7 +1147,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3510708,Cardoso,SP,2024,forte crescimento
 3510807,Casa Branca,SP,2024,forte crescimento
 3510906,Cássia dos Coqueiros,SP,2024,forte retração
-3511003,Castilho,SP,2024,forte crescimento
+3511003,Castilho,SP,2024,retração
 3511102,Catanduva,SP,2024,forte crescimento
 3511201,Catiguá,SP,2024,forte crescimento
 3511300,Cedral,SP,2024,forte crescimento
@@ -1165,37 +1165,37 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3512605,Coronel Macedo,SP,2024,forte crescimento
 3512704,Corumbataí,SP,2024,forte crescimento
 3512803,Cosmópolis,SP,2024,forte crescimento
-3512902,Cosmorama,SP,2024,forte crescimento
+3512902,Cosmorama,SP,2024,forte retração
 3513009,Cotia,SP,2024,forte crescimento
 3513108,Cravinhos,SP,2024,forte crescimento
 3513207,Cristais Paulista,SP,2024,forte crescimento
 3513306,Cruzália,SP,2024,forte crescimento
 3513405,Cruzeiro,SP,2024,forte crescimento
-3513504,Cubatão,SP,2024,retração
+3513504,Cubatão,SP,2024,forte retração
 3513603,Cunha,SP,2024,forte crescimento
 3513702,Descalvado,SP,2024,forte crescimento
 3513801,Diadema,SP,2024,forte crescimento
 3513850,Dirce Reis,SP,2024,forte crescimento
 3513900,Divinolândia,SP,2024,forte crescimento
-3514007,Dobrada,SP,2024,forte crescimento
+3514007,Dobrada,SP,2024,forte retração
 3514106,Dois Córregos,SP,2024,forte crescimento
-3514205,Dolcinópolis,SP,2024,forte crescimento
-3514304,Dourado,SP,2024,forte crescimento
+3514205,Dolcinópolis,SP,2024,forte retração
+3514304,Dourado,SP,2024,forte retração
 3514403,Dracena,SP,2024,forte crescimento
-3514502,Duartina,SP,2024,forte crescimento
+3514502,Duartina,SP,2024,forte retração
 3514601,Dumont,SP,2024,forte crescimento
 3514700,Echaporã,SP,2024,forte crescimento
 3514809,Eldorado,SP,2024,forte retração
 3514908,Elias Fausto,SP,2024,forte retração
 3514924,Elisiário,SP,2024,forte retração
 3514957,Embaúba,SP,2024,forte retração
-3515004,Embu das Artes,SP,2024,crescimento moderado
+3515004,Embu das Artes,SP,2024,forte crescimento
 3515103,Embu-Guaçu,SP,2024,forte crescimento
 3515129,Emilianópolis,SP,2024,forte crescimento
 3515152,Engenheiro Coelho,SP,2024,forte crescimento
 3515186,Espírito Santo do Pinhal,SP,2024,forte crescimento
 3515194,Espírito Santo do Turvo,SP,2024,forte retração
-3515202,Estrela d'Oeste,SP,2024,forte crescimento
+3515202,Estrela d'Oeste,SP,2024,forte retração
 3515301,Estrela do Norte,SP,2024,forte crescimento
 3515350,Euclides da Cunha Paulista,SP,2024,forte crescimento
 3515400,Fartura,SP,2024,forte crescimento
@@ -1217,14 +1217,14 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3516853,Gavião Peixoto,SP,2024,forte retração
 3516903,General Salgado,SP,2024,forte crescimento
 3517000,Getulina,SP,2024,forte crescimento
-3517109,Glicério,SP,2024,forte crescimento
+3517109,Glicério,SP,2024,forte retração
 3517208,Guaiçara,SP,2024,forte crescimento
 3517307,Guaimbê,SP,2024,forte retração
 3517406,Guaíra,SP,2024,forte crescimento
 3517505,Guapiaçu,SP,2024,forte crescimento
 3517604,Guapiara,SP,2024,forte crescimento
 3517703,Guará,SP,2024,forte crescimento
-3517802,Guaraçaí,SP,2024,forte crescimento
+3517802,Guaraçaí,SP,2024,forte retração
 3517901,Guaraci,SP,2024,forte retração
 3518008,Guarani d'Oeste,SP,2024,forte crescimento
 3518107,Guarantã,SP,2024,forte retração
@@ -1263,7 +1263,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3520806,Inúbia Paulista,SP,2024,forte crescimento
 3520905,Ipaussu,SP,2024,forte crescimento
 3521002,Iperó,SP,2024,forte crescimento
-3521101,Ipeúna,SP,2024,forte crescimento
+3521101,Ipeúna,SP,2024,forte retração
 3521150,Ipiguá,SP,2024,forte crescimento
 3521200,Iporanga,SP,2024,forte crescimento
 3521309,Ipuã,SP,2024,forte crescimento
@@ -1273,7 +1273,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3521705,Itaberá,SP,2024,forte crescimento
 3521804,Itaí,SP,2024,forte crescimento
 3521903,Itajobi,SP,2024,forte crescimento
-3522000,Itaju,SP,2024,forte crescimento
+3522000,Itaju,SP,2024,forte retração
 3522109,Itanhaém,SP,2024,forte crescimento
 3522158,Itaoca,SP,2024,forte crescimento
 3522208,Itapecerica da Serra,SP,2024,forte crescimento
@@ -1290,7 +1290,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3523206,Itararé,SP,2024,forte crescimento
 3523305,Itariri,SP,2024,forte crescimento
 3523404,Itatiba,SP,2024,forte crescimento
-3523503,Itatinga,SP,2024,forte crescimento
+3523503,Itatinga,SP,2024,forte retração
 3523602,Itirapina,SP,2024,forte crescimento
 3523701,Itirapuã,SP,2024,forte crescimento
 3523800,Itobi,SP,2024,forte crescimento
@@ -1300,7 +1300,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3524204,Jaborandi,SP,2024,forte retração
 3524303,Jaboticabal,SP,2024,forte crescimento
 3524402,Jacareí,SP,2024,forte crescimento
-3524501,Jaci,SP,2024,forte crescimento
+3524501,Jaci,SP,2024,forte retração
 3524600,Jacupiranga,SP,2024,forte crescimento
 3524709,Jaguariúna,SP,2024,forte crescimento
 3524808,Jales,SP,2024,forte crescimento
@@ -1314,7 +1314,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3525607,João Ramalho,SP,2024,forte retração
 3525706,José Bonifácio,SP,2024,forte crescimento
 3525805,Júlio Mesquita,SP,2024,forte crescimento
-3525854,Jumirim,SP,2024,forte crescimento
+3525854,Jumirim,SP,2024,forte retração
 3525904,Jundiaí,SP,2024,forte crescimento
 3526001,Junqueirópolis,SP,2024,forte crescimento
 3526100,Juquiá,SP,2024,forte crescimento
@@ -1327,7 +1327,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3526803,Lençóis Paulista,SP,2024,forte crescimento
 3526902,Limeira,SP,2024,forte crescimento
 3527009,Lindóia,SP,2024,forte crescimento
-3527108,Lins,SP,2024,forte crescimento
+3527108,Lins,SP,2024,forte retração
 3527207,Lorena,SP,2024,forte crescimento
 3527256,Lourdes,SP,2024,forte crescimento
 3527306,Louveira,SP,2024,forte crescimento
@@ -1346,7 +1346,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3528601,Manduri,SP,2024,forte crescimento
 3528700,Marabá Paulista,SP,2024,forte retração
 3528809,Maracaí,SP,2024,forte crescimento
-3528858,Marapoama,SP,2024,forte crescimento
+3528858,Marapoama,SP,2024,forte retração
 3528908,Mariápolis,SP,2024,forte crescimento
 3529005,Marília,SP,2024,forte crescimento
 3529104,Marinópolis,SP,2024,forte crescimento
@@ -1377,14 +1377,14 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3531506,Monte Azul Paulista,SP,2024,forte crescimento
 3531605,Monte Castelo,SP,2024,forte crescimento
 3531704,Monteiro Lobato,SP,2024,forte crescimento
-3531803,Monte Mor,SP,2024,forte crescimento
-3531902,Morro Agudo,SP,2024,forte crescimento
+3531803,Monte Mor,SP,2024,forte retração
+3531902,Morro Agudo,SP,2024,forte retração
 3532009,Morungaba,SP,2024,forte crescimento
 3532058,Motuca,SP,2024,forte crescimento
 3532108,Murutinga do Sul,SP,2024,forte retração
 3532157,Nantes,SP,2024,forte crescimento
-3532207,Narandiba,SP,2024,forte crescimento
-3532306,Natividade da Serra,SP,2024,forte crescimento
+3532207,Narandiba,SP,2024,forte retração
+3532306,Natividade da Serra,SP,2024,forte retração
 3532405,Nazaré Paulista,SP,2024,forte crescimento
 3532504,Neves Paulista,SP,2024,forte crescimento
 3532603,Nhandeara,SP,2024,forte crescimento
@@ -1403,7 +1403,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3533502,Novo Horizonte,SP,2024,forte crescimento
 3533601,Nuporanga,SP,2024,forte crescimento
 3533700,Ocauçu,SP,2024,forte crescimento
-3533809,Óleo,SP,2024,forte crescimento
+3533809,Óleo,SP,2024,forte retração
 3533908,Olímpia,SP,2024,forte crescimento
 3534005,Onda Verde,SP,2024,forte retração
 3534104,Oriente,SP,2024,forte crescimento
@@ -1418,7 +1418,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3534906,Pacaembu,SP,2024,forte crescimento
 3535002,Palestina,SP,2024,forte crescimento
 3535101,Palmares Paulista,SP,2024,forte crescimento
-3535200,Palmeira d'Oeste,SP,2024,forte crescimento
+3535200,Palmeira d'Oeste,SP,2024,forte retração
 3535309,Palmital,SP,2024,forte crescimento
 3535408,Panorama,SP,2024,forte crescimento
 3535507,Paraguaçu Paulista,SP,2024,forte crescimento
@@ -1432,7 +1432,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3536257,Parisi,SP,2024,forte crescimento
 3536307,Patrocínio Paulista,SP,2024,forte crescimento
 3536406,Paulicéia,SP,2024,forte crescimento
-3536505,Paulínia,SP,2024,retração
+3536505,Paulínia,SP,2024,forte retração
 3536570,Paulistânia,SP,2024,forte retração
 3536604,Paulo de Faria,SP,2024,forte retração
 3536703,Pederneiras,SP,2024,forte crescimento
@@ -1449,10 +1449,10 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3537701,Piacatu,SP,2024,forte retração
 3537800,Piedade,SP,2024,forte crescimento
 3537909,Pilar do Sul,SP,2024,forte crescimento
-3538006,Pindamonhangaba,SP,2024,estabilidade
+3538006,Pindamonhangaba,SP,2024,forte retração
 3538105,Pindorama,SP,2024,forte crescimento
 3538204,Pinhalzinho,SP,2024,forte crescimento
-3538303,Piquerobi,SP,2024,forte crescimento
+3538303,Piquerobi,SP,2024,forte retração
 3538501,Piquete,SP,2024,forte crescimento
 3538600,Piracaia,SP,2024,forte crescimento
 3538709,Piracicaba,SP,2024,forte crescimento
@@ -1468,28 +1468,28 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3539707,Platina,SP,2024,forte crescimento
 3539806,Poá,SP,2024,forte crescimento
 3539905,Poloni,SP,2024,forte crescimento
-3540002,Pompéia,SP,2024,forte crescimento
+3540002,Pompéia,SP,2024,forte retração
 3540101,Pongaí,SP,2024,forte crescimento
 3540200,Pontal,SP,2024,forte crescimento
-3540259,Pontalinda,SP,2024,forte crescimento
-3540309,Pontes Gestal,SP,2024,forte crescimento
+3540259,Pontalinda,SP,2024,forte retração
+3540309,Pontes Gestal,SP,2024,forte retração
 3540408,Populina,SP,2024,forte crescimento
 3540507,Porangaba,SP,2024,forte crescimento
 3540606,Porto Feliz,SP,2024,forte crescimento
 3540705,Porto Ferreira,SP,2024,forte crescimento
 3540754,Potim,SP,2024,forte crescimento
-3540804,Potirendaba,SP,2024,forte crescimento
+3540804,Potirendaba,SP,2024,forte retração
 3540853,Pracinha,SP,2024,forte crescimento
 3540903,Pradópolis,SP,2024,forte crescimento
 3541000,Praia Grande,SP,2024,forte crescimento
 3541059,Pratânia,SP,2024,forte retração
-3541109,Presidente Alves,SP,2024,forte crescimento
+3541109,Presidente Alves,SP,2024,forte retração
 3541208,Presidente Bernardes,SP,2024,forte crescimento
 3541307,Presidente Epitácio,SP,2024,forte crescimento
 3541406,Presidente Prudente,SP,2024,forte crescimento
 3541505,Presidente Venceslau,SP,2024,forte crescimento
-3541604,Promissão,SP,2024,forte crescimento
-3541653,Quadra,SP,2024,forte crescimento
+3541604,Promissão,SP,2024,forte retração
+3541653,Quadra,SP,2024,forte retração
 3541703,Quatá,SP,2024,forte crescimento
 3541802,Queiroz,SP,2024,forte retração
 3541901,Queluz,SP,2024,forte crescimento
@@ -1512,7 +1512,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3543402,Ribeirão Preto,SP,2024,forte crescimento
 3543501,Riversul,SP,2024,forte crescimento
 3543600,Rifaina,SP,2024,forte crescimento
-3543709,Rincão,SP,2024,forte crescimento
+3543709,Rincão,SP,2024,forte retração
 3543808,Rinópolis,SP,2024,forte crescimento
 3543907,Rio Claro,SP,2024,forte crescimento
 3544004,Rio das Pedras,SP,2024,forte crescimento
@@ -1530,9 +1530,9 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3545100,Salmourão,SP,2024,forte crescimento
 3545159,Saltinho,SP,2024,forte crescimento
 3545209,Salto,SP,2024,forte crescimento
-3545308,Salto de Pirapora,SP,2024,forte crescimento
+3545308,Salto de Pirapora,SP,2024,forte retração
 3545407,Salto Grande,SP,2024,forte crescimento
-3545506,Sandovalina,SP,2024,forte crescimento
+3545506,Sandovalina,SP,2024,forte retração
 3545605,Santa Adélia,SP,2024,forte crescimento
 3545704,Santa Albertina,SP,2024,forte crescimento
 3545803,Santa Bárbara d'Oeste,SP,2024,forte crescimento
@@ -1556,7 +1556,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3547601,Santa Rosa de Viterbo,SP,2024,forte crescimento
 3547650,Santa Salete,SP,2024,forte retração
 3547700,Santo Anastácio,SP,2024,forte crescimento
-3547809,Santo André,SP,2024,crescimento moderado
+3547809,Santo André,SP,2024,forte crescimento
 3547908,Santo Antônio da Alegria,SP,2024,forte retração
 3548005,Santo Antônio de Posse,SP,2024,forte crescimento
 3548054,Santo Antônio do Aracanguá,SP,2024,forte crescimento
@@ -1567,7 +1567,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3548500,Santos,SP,2024,forte crescimento
 3548609,São Bento do Sapucaí,SP,2024,forte crescimento
 3548708,São Bernardo do Campo,SP,2024,forte crescimento
-3548807,São Caetano do Sul,SP,2024,crescimento moderado
+3548807,São Caetano do Sul,SP,2024,forte crescimento
 3548906,São Carlos,SP,2024,forte crescimento
 3549003,São Francisco,SP,2024,forte crescimento
 3549102,São João da Boa Vista,SP,2024,forte crescimento
@@ -1594,7 +1594,7 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3551009,São Vicente,SP,2024,forte crescimento
 3551108,Sarapuí,SP,2024,forte crescimento
 3551207,Sarutaiá,SP,2024,forte crescimento
-3551306,Sebastianópolis do Sul,SP,2024,forte crescimento
+3551306,Sebastianópolis do Sul,SP,2024,forte retração
 3551405,Serra Azul,SP,2024,forte retração
 3551504,Serrana,SP,2024,forte crescimento
 3551603,Serra Negra,SP,2024,forte crescimento
@@ -1607,9 +1607,9 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3552304,Sud Mennucci,SP,2024,forte retração
 3552403,Sumaré,SP,2024,forte crescimento
 3552502,Suzano,SP,2024,forte crescimento
-3552551,Suzanápolis,SP,2024,forte crescimento
+3552551,Suzanápolis,SP,2024,forte retração
 3552601,Tabapuã,SP,2024,forte crescimento
-3552700,Tabatinga,SP,2024,forte crescimento
+3552700,Tabatinga,SP,2024,forte retração
 3552809,Taboão da Serra,SP,2024,forte crescimento
 3552908,Taciba,SP,2024,forte crescimento
 3553005,Taguaí,SP,2024,forte crescimento
@@ -1661,9 +1661,9 @@ codigo_municipio,municipio,uf,ano,classe_prevista
 3556701,Vinhedo,SP,2024,forte crescimento
 3556800,Viradouro,SP,2024,forte crescimento
 3556909,Vista Alegre do Alto,SP,2024,forte crescimento
-3556958,Vitória Brasil,SP,2024,forte crescimento
+3556958,Vitória Brasil,SP,2024,forte retração
 3557006,Votorantim,SP,2024,forte crescimento
 3557105,Votuporanga,SP,2024,forte crescimento
-3557154,Zacarias,SP,2024,forte crescimento
+3557154,Zacarias,SP,2024,forte retração
 3557204,Chavantes,SP,2024,forte crescimento
 3557303,Estiva Gerbi,SP,2024,forte crescimento

@@ -2,40 +2,34 @@
 
 ## Método
 
-O Random Forest Classifier usa as mesmas cinco classes, a mesma regra de limites e as mesmas entradas da Regressão Logística: as 17 variáveis numéricas defasadas da base do Peter e a UF. As classes são importadas de `classificacao_logistica.py`, o que garante alvo idêntico nos dois classificadores. O pipeline imputa ausências pela mediana com indicadores de ausência e codifica a UF; a imputação é ajustada apenas nas linhas de treino. Árvores não precisam de padronização.
+O Random Forest Classifier usa as mesmas cinco classes, os limites e as entradas da Regressão Logística. A base tratada fornece 17 variáveis numéricas defasadas e a UF. A imputação pela mediana com indicadores de ausência e a codificação da UF são ajustadas apenas no treino.
 
-A floresta tem 500 árvores e `class_weight='balanced_subsample'`, que recalcula os pesos das classes em cada amostra bootstrap. Sem essa ponderação, o modelo tende a prever apenas *forte crescimento*. Dois hiperparâmetros foram escolhidos em uma grade pequena (`max_features` em {√p, 0,5} e `min_samples_leaf` em {1, 5, 20, 50}), treinando com anos-alvo até 2021 e validando em 2022 pelo F1 macro. A configuração escolhida foi `max_features='sqrt'` e `min_samples_leaf=5` (F1 macro de 0,2690 em 2022). Folhas com um único exemplo memorizam a classe majoritária e tiveram o pior F1 macro (0,19).
+A floresta tem 500 árvores, semente 42 e pesos balanced_subsample. A grade testa max_features em {sqrt, 0.5} e min_samples_leaf em {1, 5, 20, 50}, com treino até 2021 e validação em 2022 por F1 macro. Na reexecução final, a configuração selecionada foi sqrt e 50 observações por folha, com F1 macro de 0,2650 em 2022.
 
-Com os hiperparâmetros fixados, o modelo foi treinado com anos-alvo até 2022 e avaliado em 2023. Depois da avaliação, foi reajustado até 2023 para prever 2024.
+Com essa configuração, o modelo é reajustado até 2022 para avaliar 2023 e até 2023 para prever 2024.
 
 ## Resultados de 2023
 
-Nos 1.668 municípios, o F1 macro foi **0,2561** e o F1 ponderado **0,7058**, com acurácia de 0,731. O F1 por classe foi 0,4098 (forte retração), 0,0182 (retração), 0 (estabilidade), 0 (crescimento moderado) e 0,8527 (forte crescimento). O modelo acertou 1.143 dos 1.327 casos de forte crescimento e 75 dos 109 de forte retração, mas praticamente não prevê as classes intermediárias: 1 acerto em retração e nenhum em estabilidade ou crescimento moderado.
-
-Entre as variáveis, o crescimento do PIB em t−1 tem a maior importância por impureza, seguido das participações setoriais, do PIB per capita e dos indicadores agropecuários.
-
-## Comparação e classificador final
-
-A regra de seleção, definida antes da comparação, foi o maior F1 macro em 2023, métrica principal por dar o mesmo peso às cinco classes. As métricas foram recalculadas a partir das previsões por município dos dois modelos, verificando que ambos foram avaliados nos mesmos municípios e rótulos.
+O Random Forest obteve F1 macro de 0,2341, F1 ponderado de 0,6464 e acurácia de 0,6187. O F1 por classe foi 0,3473 em forte retração, 0,0410 em retração, zero em estabilidade e crescimento moderado, e 0,7820 em forte crescimento. Acertou 936 dos 1.327 casos de forte crescimento e 91 dos 109 de forte retração, com precisão de 0,219 nesta última classe.
 
 | Modelo | F1 macro | F1 ponderado | Acurácia |
 | --- | --- | --- | --- |
-| Random Forest Classifier | **0,2561** | **0,7058** | 0,7308 |
-| Regressão Logística | 0,2434 | 0,6008 | 0,5378 |
-| Referência: sempre forte crescimento | 0,1772 | 0,7050 | 0,7956 |
+| Regressão Logística | **0,2434** | 0,6008 | 0,5378 |
+| Random Forest Classifier | 0,2341 | 0,6464 | 0,6187 |
+| Referência, sempre forte crescimento | 0,1772 | 0,7050 | 0,7956 |
 
-**O Random Forest Classifier é o classificador do resultado final.** Ele supera a logística no F1 macro, no F1 ponderado e na acurácia, e tem F1 maior nas duas classes extremas. A vantagem é modesta: no F1 ponderado ele apenas empata com a referência ingênua, cuja acurácia é maior, e o ganho em F1 macro vem quase todo de forte retração. A logística é melhor nas três classes intermediárias, embora com F1 abaixo de 0,13 em todas. Nenhum dos dois modelos separa bem as variações próximas de zero.
+A regra do maior F1 macro escolhe a Regressão Logística para as classes da entrega final. O Random Forest supera a logística nas métricas ponderadas pela frequência das classes, mas tem menor F1 macro. Ambos têm dificuldade com as classes intermediárias.
 
 ## Consolidação de 2024
 
-`consolidar_previsoes.py` lê os CSVs de cada integrante, sem reajustar modelos, e gera `outputs/previsoes_finais_2024.csv`. Para o PIB, a regra foi o menor MAPE em 2023: o Random Forest Regressor do Peter (MAPE 9,00%, R² 0,9985) supera a regressão linear da Lulu (13,21%, R² 0,9955) e a referência PIB₂₀₂₃ = PIB₂₀₂₂ (13,47%). O arquivo tem uma linha para cada um dos 1.668 municípios com o PIB previsto, a variação prevista, a classe prevista e, para auditoria, as previsões alternativas de cada modelo e a classe implícita na variação do PIB previsto.
+O script consolidar_previsoes.py lê os resultados de todos os integrantes e escolhe a regressão pelo menor MAPE e a classificação pelo maior F1 macro em 2023. A entrega usa o Random Forest Regressor, com MAPE de 9,00%, e a Regressão Logística. A regressão linear selecionada obteve MAPE de 17,94%.
 
-O PIB total previsto do Sudeste em 2024 é de R$ 6,32 trilhões, contra R$ 5,80 trilhões oficiais em 2023 (+9,0%). O classificador põe 1.477 municípios em forte crescimento, 178 em forte retração, 9 em crescimento moderado, 3 em retração e 1 em estabilidade.
+O arquivo final contém os 1.668 municípios, PIB previsto, variação, classe e resultados alternativos de cada modelo. O PIB regional previsto é de R$ 6,32 trilhões, frente a R$ 5,80 trilhões em 2023. A classificação selecionada prevê forte crescimento em 1.626 municípios e forte retração em 42. Não prevê as três classes intermediárias para 2024.
 
-## Limitações
+## Limitações e reprodução
 
-A classe prevista coincide com a classe implícita no PIB previsto em 89% dos municípios. A maior divergência são os 178 municípios em forte retração: o regressor prevê queda acima de 5% para apenas 9 municípios. Os pesos balanceados fazem o classificador superestimar a classe rara (precisão de 0,29 em 2023). PIB e classe são alvos de modelos diferentes; o CSV final mantém ambos para que a divergência seja visível. O PIB é nominal, e o experimento é retrospectivo por ano de referência, como nas demais seções.
+A classe escolhida coincide com a classe implícita no PIB previsto em 95,0% dos municípios. A divergência decorre de tarefas e modelos separados. As previsões precisam ser avaliadas contra os valores oficiais do ano-alvo para determinar os erros. O PIB é nominal e a avaliação é retrospectiva por ano de referência.
 
-## Execução
+A reexecução completa alterou a configuração selecionada em 2022 e os resultados anteriormente publicados do Random Forest Classifier. As outras etapas reproduziram seus CSVs. Não há registro completo do ambiente original para determinar a causa exata da diferença. Os resultados desta entrega foram gerados com Python 3.12.14 e as versões fixadas em requirements.txt.
 
-Na raiz: `python classificacao_rf.py` e depois `python consolidar_previsoes.py`, ou executar todas as células de `notebooks/06_classificacao_rf.ipynb`.
+Na raiz, execute python classificacao_rf.py e python consolidar_previsoes.py, ou todas as células de notebooks/06_classificacao_rf.ipynb.

@@ -9,7 +9,7 @@ Todos os arquivos são CSV em UTF-8, com separador vírgula e ponto decimal. Val
 | `outputs/previsoes_finais_2024.csv` | **Entrega final**: PIB previsto e categoria de crescimento prevista para 2024 nos 1.668 municípios do Sudeste. |
 | `outputs/regressao_linear_2024_selecionada.csv`, `outputs/regressao_rf_2024.csv` | PIB previsto para 2024 por cada modelo de regressão. |
 | `outputs/classificacao_logistica_2024.csv`, `outputs/classificacao_rf_2024.csv` | Categoria prevista para 2024 por cada classificador. |
-| `outputs/metricas_*.csv`, `outputs/matriz_confusao_*.csv`, `outputs/comparacao_*_2023.csv` | Métricas do teste de 2023 (R², MAPE, F1, matrizes de confusão) e comparação entre modelos. |
+| `outputs/metricas_*.csv`, `outputs/matriz_confusao_*.csv`, `outputs/comparacao_*_2023.csv` | Métricas da avaliação de 2023 (R², MAPE, F1, matrizes de confusão) e comparação entre modelos. |
 
 ## Base tratada: `data/processed/base_modelagem.csv`
 
@@ -65,7 +65,7 @@ Imputação, padronização e codificação da UF **não** estão aplicadas no C
 
 ## Previsões finais: `outputs/previsoes_finais_2024.csv`
 
-Uma linha para cada um dos 1.668 municípios. Gerado por `consolidar_previsoes.py`, que escolhe a regressão pelo menor MAPE de 2023 (Random Forest Regressor) e a classificação pelo maior F1 macro de 2023 (Random Forest Classifier).
+Uma linha para cada um dos 1.668 municípios. Gerado por `consolidar_previsoes.py`, que escolhe a regressão pelo menor MAPE de 2023 (Random Forest Regressor) e a classificação pelo maior F1 macro de 2023 (Regressão Logística).
 
 | Coluna | Descrição |
 | --- | --- |
@@ -77,4 +77,4 @@ Uma linha para cada um dos 1.668 municípios. Gerado por `consolidar_previsoes.p
 | `modelo_regressao`, `modelo_classificacao` | Modelos que geraram as duas colunas acima |
 | `pib_previsto_linear_mil_reais`, `pib_previsto_rf_mil_reais` | PIB previsto por cada modelo de regressão |
 | `classe_logistica`, `classe_rf` | Categoria prevista por cada classificador |
-| `classe_implicita_regressao` | Categoria correspondente a `variacao_prevista_pct`; serve para checar a coerência entre PIB e classe (coincidem em 89% dos municípios) |
+| `classe_implicita_regressao` | Categoria correspondente a `variacao_prevista_pct`; serve para checar a coerência entre PIB e classe (coincidem em 95,0% dos municípios) |

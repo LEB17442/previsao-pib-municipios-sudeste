@@ -1,4 +1,4 @@
 modelo,f1_macro,f1_ponderado,acuracia,f1_forte retração,f1_retração,f1_estabilidade,f1_crescimento moderado,f1_forte crescimento
 Regressão Logística,0.243391,0.600827,0.537770,0.304267,0.051724,0.017699,0.128205,0.715059
-Random Forest Classifier,0.256137,0.705841,0.730815,0.409836,0.018182,0.000000,0.000000,0.852667
+Random Forest Classifier,0.234053,0.646389,0.618705,0.347328,0.040984,0.000000,0.000000,0.781955
 Referência (sempre forte crescimento),0.177229,0.704984,0.795564,0.000000,0.000000,0.000000,0.000000,0.886144

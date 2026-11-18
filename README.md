@@ -6,6 +6,7 @@ Projeto de Aprendizado de Máquina para prever o PIB municipal e a categoria de 
 
 | Entrega | Onde está |
 | --- | --- |
+| Relatório técnico final em PDF | `relatorio/relatorio_final.pdf` |
 | **Previsões de 2024** (PIB e categoria de crescimento, 1.668 municípios) | `outputs/previsoes_finais_2024.csv` |
 | Dataset tratado usado no treinamento | `data/processed/base_modelagem.csv` |
 | Descrição das variáveis, dos alvos e das previsões; instruções de download | `docs/dados_tratados_e_previsoes.md` |
@@ -22,7 +23,7 @@ Todos os modelos treinam com dados até 2022, são avaliados contra o PIB oficia
 
 ## Ambiente inicial
 
-Na raiz do projeto, execute no PowerShell com Python 3.10 ou superior:
+Na raiz do projeto, execute no PowerShell com Python 3.12 (versão verificada: 3.12.14):
 
 ```powershell
 python -m venv .venv
@@ -38,7 +39,7 @@ python3 -m venv .venv
 .venv/bin/python -m jupyter lab
 ```
 
-Os arquivos de dados e de resultados já estão no repositório; executar os notebooks os regenera.
+Os arquivos usados na entrega já estão no repositório e são regenerados pelos notebooks. O arquivo outputs/regressao_linear_2024.csv preserva o experimento linear inicial, anterior à seleção documentada.
 
 ## Coleta e integração
 
@@ -77,4 +78,8 @@ Ou execute `notebooks/06_classificacao_rf.ipynb` (cerca de 2 minutos). O classif
 
 ## Relatório
 
-O relatório técnico final é editado no Overleaf e entregue em PDF. As figuras usadas nele estão em `outputs/figuras/`.
+O relatório técnico final é editado no Overleaf e entregue em PDF em `relatorio/relatorio_final.pdf`. As figuras usadas nele estão em `outputs/figuras/`.
+
+## Verificação da entrega
+
+Os seis notebooks e a consolidação foram executados em sequência com Python 3.12.14 e as versões fixadas em requirements.txt. A reexecução selecionou o Random Forest Regressor pelo MAPE de 9,00% e a Regressão Logística pelo F1 macro de 0,2434, contra 0,2341 do Random Forest Classifier. Os resultados anteriores do classificador Random Forest foram substituídos pelos resultados reproduzidos nessa execução.
